@@ -51,7 +51,6 @@
     * the equality constraint functions ci (·), i ∈ E, are linear, and
     * the inequality constraint functions ci (·), i ∈ I, are concave.
 
-
 ### Mathematically:
 * $x$ is the vector of variables,
 * $f$, objective fn: a (scalar) function of $x$ that we want to maximize or minimize;
@@ -59,7 +58,7 @@
   * which are scalar functions of x that define certain equations and
     inequalities that the unknown vector x must satisfy.
 * the optimization problem can be written
-  * $min_{x \in \R^n} f(x)$
+  * $min_{x \in R^n} f(x)$
     * subject to $c_i(x) = 0$, $i \in E$
     * subject to $c_i(x) \ge 0$, $i \in I$
     * $I$ and $E$ are sets of indices for inequality and equality constraints, respectively.
