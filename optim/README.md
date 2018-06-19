@@ -1,5 +1,9 @@
 # optimization
 
+## book
+* First-Order Methods in Optimization, Amir Beck, 2017
+  * https://epubs.siam.org/doi/book/10.1137/1.9781611974997
+
 ## course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 
