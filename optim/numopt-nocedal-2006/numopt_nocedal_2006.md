@@ -1,18 +1,4 @@
-# Numerical Optimization
-* Jorge Nocedal, Stephen J. Wright
-* Second Edition; 2006 Springer Science+Business Media, LLC.
-
-## preface
-* focus on
-  * continuous problems
-    * cf discrete optimization problem, eg. integer programming
-  * local optimization
-  * large scale optimization techniques, such as
-    * interior-point methods, inexact Newton methods,
-      limited-memory methods, and the role of partially separable functions and automatic differentiation.
-  * deterministic optimization problems,
-
-## ch01: intro
+# ch01: intro
 * objective
   * a quantitative measure of the performance of the system under study
   * depends on certain characteristics of the system, called variables or unknowns or parameter,
@@ -34,24 +20,29 @@
       without being overly sensitive to errors in the data or
       to the arithmetic rounding errors that occur when the algorithm is implemented on a computer
 
-### taxonomy
+## taxonomy
+### linear vs nonlinear
 * a linear programming problem
   * When the objective function and all the constraints are linear functions of $x$
 * Nonlinear programming problems,
   * in which at least some of the constraints or the objective are nonlinear functions,
+
+### stochastic vs deterministic
 * Stochastic optimization algorithms
   * use the quantifications of the uncertainty to produce solutions that optimize the expected performance of the model
-* robust optimization,
-  * in which certain constraints are required to hold for all possible values of the uncertain data.
 * deterministic optimization problems,
   * in which the model is completely known
+* robust optimization,
+  * in which certain constraints are required to hold for all possible values of the uncertain data.
+
+### constraints
 * convex programming
   * a special case of the general constrained optimization problem (1.1) in which
     * the objective function is convex,
     * the equality constraint functions ci (·), i ∈ E, are linear, and
     * the inequality constraint functions ci (·), i ∈ I, are concave.
 
-### Mathematically:
+### mathematically:
 * $x$ is the vector of variables,
 * $f$, objective fn: a (scalar) function of $x$ that we want to maximize or minimize;
 * $c_i$ are constraint functions,
@@ -62,5 +53,3 @@
     * subject to $c_i(x) = 0$, $i \in E$
     * subject to $c_i(x) \ge 0$, $i \in I$
     * $I$ and $E$ are sets of indices for inequality and equality constraints, respectively.
-
-
