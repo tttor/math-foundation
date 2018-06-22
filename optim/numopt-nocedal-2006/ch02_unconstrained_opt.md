@@ -33,7 +33,7 @@ When the function $f$ is smooth and $f$ is twice continuously differentiable,
 * we may be able to tell that x is a local minimizer (and possibly a strict local minimizer) by
   examining just the gradient $\nabla f(x^*)$ and the Hessian $\nabla^2 f(x^*)$
 
-## nonsmoth problem
+### nonsmoth problem
 * If, however, the function consists of a few smooth pieces, with discontinuities between the pieces,
   * it may be possible to find the minimizer by minimizing each smooth piece individually.
 * If the function is continuous everywhere but nondifferentiable at certain points, as in Figure 2.3,
