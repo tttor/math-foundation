@@ -1,6 +1,6 @@
 # ch02: Fundamentals of Unconstrained Optimization
 
-Nonlinear least-squares problem: a special case of unconstrained optimization
+<!-- Nonlinear least-squares problem: a special case of unconstrained optimization
 * given measurements $y_1, y_2, \ldots, y_m$ of a signal taken at times $t_1, t_2, \ldots, t_m$
 * choose to model it by the function $\phi(t;x)$,
   where $x_i \in \mathbb{R}$, $i = 1, 2, \ldots, 6$ are the parameter of the model
@@ -11,9 +11,9 @@ Nonlinear least-squares problem: a special case of unconstrained optimization
     * which measure the discrepancy between the model and the observed data
   * solving the opt problem below for an estimate of $x$
     * $min_{x \in \mathbb{R}^6} f(x) = r_1^2 + r_2^2 + \ldots + r_m^2$ ...(2.3)
-
+ -->
 Suppose that for the data given, the optimal solution of (2.3) is approximately
-$x^* = (1.1, 0.01, 1.2, 1.5, 2.0, 1.5)$ which yields $f (x^*) = 0.34 \ne 0$
+$x^* = (1.1, 0.01, 1.2, 1.5, 2.0, 1.5)$ which yields $f (x^{\ast}) = 0.34 \ne 0$
 * there must be discrepancies as $f(x^*) \ne 0$
 * How, then, can we verify that $x^*$ is indeed a minimizer of $f$?
   * To answer this question, we need to define the term “solution”
@@ -29,6 +29,9 @@ $x^* = (1.1, 0.01, 1.2, 1.5, 2.0, 1.5)$ which yields $f (x^*) = 0.34 \ne 0$
   * for which every local minimizer is also a global minimizer
 
 ### recognizing a local minimum
+Taylor’s theorem.
+  * The mathematical tool used to study minimizers of smooth functions is
+
 When the function $f$ is smooth and $f$ is twice continuously differentiable,
 * we may be able to tell that x is a local minimizer (and possibly a strict local minimizer) by
   examining just the gradient $\nabla f(x^*)$ and the Hessian $\nabla^2 f(x^*)$
