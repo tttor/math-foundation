@@ -16,16 +16,40 @@
 * a tradeoff.
   * to choose $\alpha_k$ to give a substantial reduction of f
   * but at the same time we do not want to spend too much time making the choice
+* ensure that the step length α achieves sufficient decrease but is not too short.
 
 ### the wolfe conditions
 * Armijo condition.
 * curvature condition
-* The sufficient decrease and curvature conditions are known collectively
-  as the Wolfe conditions.
-* strong Wolfe conditions
-* The Wolfe conditions are scale-invariant in a broad sense:
-  * Multiplying the objective function by a constant or
+* the sufficient decrease and curvature conditions are known collectively
+  as the wolfe conditions.
+* strong wolfe conditions
+* the wolfe conditions are scale-invariant in a broad sense:
+  * multiplying the objective function by a constant or
     making an affine change of variables does not alter them
 
 ### the goldstein conditions
+* often used in Newton-type methods
+  * but are not well suited for quasi-Newton methods that
+    maintain a positive definite Hessian approximation.
+
+### sufficient decrease and backtracking
+* Backtracking Line Search
+
+## 3.2 convergence of line search methods
+TODO
+
+## 3.3 rate of convergence
+### newton’s method
+* the search is given by
+  * $p_k^N = - \nabla^2 f_k^{-1} \nabla f_k$
+
+### quasi-newton methods
+* search direction has the form
+  * $p_k = - B_k^{-1} \nabla f_k$
+
+## 3.4 newton’s method with hessian modification
+* Line Search Newton with Modification
+
+## 3.5 step-length selection algorithms
 TODO
