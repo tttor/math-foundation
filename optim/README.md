@@ -1,5 +1,12 @@
 # optimization
 
+## eval
+* https://en.wikipedia.org/wiki/Test_functions_for_optimization
+* https://en.wikipedia.org/wiki/Rosenbrock_function
+
+## code
+* https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize
+
 ## book
 * First-Order Methods in Optimization, Amir Beck, 2017
   * https://epubs.siam.org/doi/book/10.1137/1.9781611974997
