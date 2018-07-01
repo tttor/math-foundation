@@ -1,6 +1,7 @@
 # basic
 TODO:
 * Taylor series, theorem
+* eigen value, eigen vector
 
 ## derivative, gradient, jacobian, hessian
 Let $\phi: \mathbb{R} \mapsto \mathbb{R}$ be a univariate fn: a real value fn of a real variable.
