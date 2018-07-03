@@ -45,7 +45,6 @@ When the function $f$ is smooth and $f$ is twice continuously differentiable,
   guarantee that $x^{\ast}$ is a local minimizer.
   * Theorem 2.4 (Second-Order Sufficient Conditions).
 
-
 ### nonsmoth problem
 * If, however, the function consists of a few smooth pieces, with discontinuities between the pieces,
   * it may be possible to find the minimizer by minimizing each smooth piece individually.
@@ -81,6 +80,36 @@ When the function $f$ is smooth and $f$ is twice continuously differentiable,
     attain the best improvement possible subject to this distance constraint.
     * If this step proves to be unsatisfactory,
       we reduce the distance measure $\delta_k$ and try again
+
+### search directions for line search methods
+* steepest descent direction
+  * is a line search method that moves along $p_k = -\nabla f_k$ at every step.
+  * It can choose the step length αk in a variety of ways,
+  * advantage:
+    * it requires calculation of the gradient,
+    * but not of second derivatives.
+  * In general, any descent direction—one that makes an angle of strictly less than π/2
+    radians with −∇ f k —is guaranteed to produce a decrease in f , provided that the step length
+    is sufficiently small
+* Newton direction
+  * derived from the second-order Taylor series approximation to f (xk + p),
+  * The Newton direction can be used in a line search method when ∇ 2 f k is positive definite
+    * When ∇ 2 f k is not positive definite, the Newton direction may not even be defined  
+  * there is a “natural” step length of 1 associated with the Newton direction.
+  * Methods that use the Newton direction have a fast rate of local convergence, typically quadratic.
+  * main drawback of the Newton direction is the need for the Hessian ∇ 2 f (x).
+* Quasi-Newton search directions
+  * alternative to Newton’s method
+  * In place of the true Hessian ∇ 2 f k ,
+    * they use an approximation Bk,
+      which is updated after each step to take account of the additional knowledge gained during the step.
+  * TWO most popular formulae for updating the Hessian approximation Bk
+    * the symmetric-rank-one (SR1) formula
+    * the BFGS formula
+* nonlinear conjugate gradient directions
+  * more effective than the steepest descent direction and are almost as simple to compute.
+  * do not attain the fast convergence rates of Newton or quasi-Newton methods,
+    * but they have the advantage of not requiring storage of matrices.
 
 ### line search
 * steps
