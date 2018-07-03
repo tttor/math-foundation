@@ -1,4 +1,7 @@
 # optimization
+See also:
+* https://github.com/tttor/dl-foundation/tree/master/method/optim
+* https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
 ## book
 * Convex Optimization – Boyd and Vandenberghe
