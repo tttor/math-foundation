@@ -11,3 +11,6 @@ $\frac{d \phi}{d \alpha} = \phi'(\alpha) = \lim_{\epsilon \mapsto 0} \frac{\phi(
 
 And the second derivative is: </br>
 $\frac{d^2 \phi}{d \alpha^2} = \phi''(\alpha) = \lim_{\epsilon \mapsto 0} \frac{\phi'(\alpha + \epsilon) - \phi'(\alpha)}{\epsilon}$
+
+## linear algebra
+* https://github.com/fastai/numerical-linear-algebra

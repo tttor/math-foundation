@@ -66,10 +66,21 @@ When the function $f$ is smooth and $f$ is twice continuously differentiable,
     the algorithms use information about the function $f$ at $x_k$ , and
     possibly also information from earlier iterates $x_0, x_1, \ldots, x_{k-1}.
     *  use this information to find a new iterate $x_{k+1}$ with a lower function value than $x_k$
-
-TWO fundamental strategies for moving from the current point to a new iterate:
-line search and trust region.
-BOTH differ in the order in which they choose the direction and distance of the move to the next iterate.
+* TWO fundamental strategies for moving from the current point to a new iterate:
+  * line search and trust region.
+  * BOTH differ in the order in which they choose the direction and distance of
+    the move to the next iterate.
+* example fn:  $f(x) = 10(x_2 − x_1^2 )^2 + (1 - x_1 )^2$ ...(p19)
+* Line search
+  * starts by fixing the direction $p_k$ and
+  * then identifying an appropriate distance, namely the step length $\alpha_k$
+* trust region
+  * first choose a maximum distance
+    * the trust-region radius $\delta_k$
+  * then seek a direction and step that
+    attain the best improvement possible subject to this distance constraint.
+    * If this step proves to be unsatisfactory,
+      we reduce the distance measure $\delta_k$ and try again
 
 ### line search
 * steps
@@ -126,7 +137,11 @@ BOTH differ in the order in which they choose the direction and distance of the 
 * Generally speaking, it is easier to preserve scale invariance for line search algorithms than
   for trust-region algorithms
 
-## question
-* so in line search, the step size $\alpha$ should **never** be fixed/constant?
+## comment
+* related to equ:2.4 (aka relation between Taylor theorem and optimization)
+  * https://math.stackexchange.com/questions/1310306/taylor-theorem-equation
+  * https://math.stackexchange.com/questions/2442200/can-you-help-me-understand-taylors-theorem-in-the-form-used-in-the-numerical-op?rq=1
+  * https://www.quora.com/What-is-the-relation-between-a-Taylor-series-approximation-and-gradient-descent-algorithm
+* ?: so in line search, the step size $\alpha$ should **never** be fixed/constant?
   but many, except those with adaptive learning rate, treat that as a constant
-* trust region is alwasy better than line search?
+* ?: trust region is alwasy better than line search?
