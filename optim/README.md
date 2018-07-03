@@ -18,6 +18,11 @@ See also:
 * https://docs.scipy.org/doc/scipy/reference/optimize.html
 * https://github.com/adefazio/phessianfree
 
+## test problem
+* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
+* https://github.com/mpf/Optimization-Test-Problems
+* https://en.wikipedia.org/wiki/Test_functions_for_optimization
+
 ## course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
@@ -29,12 +34,11 @@ See also:
 ### curvature
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 
-## misc
+### misc
 * http://ruder.io/optimizing-gradient-descent/index.html
 * https://stats.stackexchange.com/questions/253632/why-is-newtons-method-not-widely-used-in-machine-learning
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
-* https://en.wikipedia.org/wiki/Test_functions_for_optimization
 * http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/
 * http://andrew.gibiansky.com/blog/machine-learning/hessian-free-optimization/
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
