@@ -14,3 +14,6 @@ $\frac{d^2 \phi}{d \alpha^2} = \phi''(\alpha) = \lim_{\epsilon \mapsto 0} \frac{
 
 ## linear algebra
 * https://github.com/fastai/numerical-linear-algebra
+
+## book
+* G. H. Golub and C. F. Van Loan, Matrix Computations, Baltimore, MD, Johns Hopkins University Press

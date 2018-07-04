@@ -11,12 +11,15 @@ See also:
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
 * First-Order Methods in Optimization, Amir Beck, 2017
   * https://epubs.siam.org/doi/book/10.1137/1.9781611974997
-* trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
+* Trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
+* Iterative Methods for Optimization, C.T. Kelley
+  * https://archive.siam.org/books/kelley/fr18/
 
 ## tool
 * https://docs.scipy.org/doc/scipy/reference/optimize.html
 * https://github.com/adefazio/phessianfree
+* http://www.optimojoe.com/products/optizelle/
 
 ## test problem
 * http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
@@ -44,3 +47,4 @@ See also:
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
 * https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
+* https://stats.stackexchange.com/questions/55247/how-to-choose-the-right-optimization-algorithm
