@@ -15,6 +15,8 @@ See also:
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
 * Iterative Methods for Optimization, C.T. Kelley
   * https://archive.siam.org/books/kelley/fr18/
+* Numerical Methods for Least Squares Problems, Åke Björck
+  * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
 
 ## tool
 * https://docs.scipy.org/doc/scipy/reference/optimize.html
@@ -33,18 +35,19 @@ See also:
 
 ### conjugate gradient (CG)
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
-
-### curvature
-* https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
+* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+* https://en.wikipedia.org/wiki/Conjugate_gradient_method
 
 ### misc
 * http://ruder.io/optimizing-gradient-descent/index.html
-* https://stats.stackexchange.com/questions/253632/why-is-newtons-method-not-widely-used-in-machine-learning
-* https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
-* https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
+* https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
 * http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/
 * http://andrew.gibiansky.com/blog/machine-learning/hessian-free-optimization/
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
-* https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
-* https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
+* https://www.benfrederickson.com/numerical-optimization/
+* https://stats.stackexchange.com/questions/253632/why-is-newtons-method-not-widely-used-in-machine-learning
 * https://stats.stackexchange.com/questions/55247/how-to-choose-the-right-optimization-algorithm
+* https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
+* https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
+* https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
+* https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
