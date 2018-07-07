@@ -44,3 +44,14 @@ TODO
     the form $\nabla^2 f_k d$ for any given vector $d$
 * The price we pay for
   bypassing the computation of the Hessian is one new gradient evaluation per CG iteration.
+
+## 7.2 limited-memory quasi-newton methods
+* Instead of storing fully dense n × n approximations,
+  * they save only a few vectors of length n that represent the
+    approximations implicitly.
+* main idea of this method is to use curvature
+  information from only the most recent iterations to construct the Hessian approximation
+
+### limited-memory bfgs
+* Practical experience has shown that modest values of m (between 3 and 20, say)
+  often produce satisfactory results.
