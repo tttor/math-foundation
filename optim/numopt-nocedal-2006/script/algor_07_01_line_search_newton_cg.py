@@ -1,17 +1,14 @@
 #!/usr/bin/env python3
-# https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
-
 import torch
 from torch.autograd import Variable
 
-import numpy as np
 import scipy.optimize as sciopt
 
 def main():
     x_0 = torch.tensor([1.3, 0.7, 0.8, 1.9, 1.2])
-    # assert np.allclose(rosen(x_0).numpy(), sciopt.rosen(x_0.numpy()))
+    assert torch.allclose( rosen(x_0), torch.tensor([sciopt.rosen(x_0.numpy())], dtype=torch.float32) )
 
-    # test own implementation
+    # test own: newtoncg
     res = line_search_newton_cg(rosen, x_0, max_k_iter=15, max_j_iter=10)
     print('res= '+str(res))
 
@@ -50,7 +47,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
         x = Variable(_x.data.clone(), requires_grad=True)
         out = fn(x)
         out.backward()
-        assert np.allclose(x.grad.numpy(), sciopt.rosen_der(x.detach().numpy()), rtol=1e-03, atol=1e-03)
+        assert torch.allclose(x.grad, torch.from_numpy(sciopt.rosen_der(x.detach().numpy())), rtol=1e-03, atol=1e-03)
         return x.grad
 
     def hess_vec_prod(_x, v):
@@ -60,7 +57,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
         grad_f, = torch.autograd.grad(out, x, create_graph=True)
         z = torch.dot(grad_f, v)
         z.backward()
-        assert np.allclose(x.grad.numpy(), sciopt.rosen_hess_prod(x.detach().numpy(), v.double()), rtol=1e-03, atol=1e-03)
+        assert torch.allclose(x.grad, torch.from_numpy(sciopt.rosen_hess_prod(x.detach().numpy(), v.double())), rtol=1e-03, atol=1e-03)
         return x.grad
 
     # init the solution x_k
@@ -74,7 +71,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
         d_j = -r_j
 
         for j in range(max_j_iter):
-            if torch.dot(d_j, hess_vec_prod(x_k, d_j)) <= 0.0:# the negative curvature test
+            if torch.dot(d_j, hess_vec_prod(x_k, d_j)) <= 0.0:# the negative curvature test, p170
                 if j == 0:
                     p_k = -grad(x_k)
                 else:
@@ -103,6 +100,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
 
         # get the search step length, alpha_k
         # that satisfies the Wolfe, Goldstein, or Armijo backtracking conditions
+        # (using alpha_k = 1 if possible)
         alpha_k = 1.0
 
         # update x_k
