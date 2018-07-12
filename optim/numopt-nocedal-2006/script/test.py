@@ -6,6 +6,8 @@ import util
 from algor_07_01_line_search_newton_cg import line_search_newton_cg
 
 def main():
+    torch.manual_seed(12345)
+
     x = torch.tensor([1.3, 0.7, 0.8, 1.9, 1.2])
     print('x=', x)
     # test_util(x)

@@ -2,6 +2,7 @@
 import torch
 
 import util
+from algor_03_05_line_search_algorithm import line_search_algorithm
 
 def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
     '''
@@ -59,7 +60,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
         # get the search step length, alpha_k
         # that satisfies the Wolfe, Goldstein, or Armijo backtracking conditions
         # (using alpha_k = 1 if possible)
-        alpha_k = 1.0
+        alpha_k = line_search_algorithm(fn, x_k, p_k, alpha_max=1.0)
 
         # update x_k
         x_kprime = torch.add(x_k, alpha_k * p_k)
