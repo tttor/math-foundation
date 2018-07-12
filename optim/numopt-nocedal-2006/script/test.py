@@ -3,11 +3,19 @@ import torch
 import scipy.optimize as sciopt
 
 import util
+from algor_07_01_line_search_newton_cg import line_search_newton_cg
 
 def main():
     x = torch.tensor([1.3, 0.7, 0.8, 1.9, 1.2])
     print('x=', x)
+    # test_util(x)
 
+    # Test
+    # algor_07_01_line_search_newton_cg.py
+    res = line_search_newton_cg(util.rosenbrock, x_0=x, max_k_iter=15, max_j_iter=10)
+    print('line_search_newton_cg=', res)
+
+def test_util(x):
     assert torch.allclose(util.rosenbrock(x),
                           torch.tensor([sciopt.rosen(x.numpy())], dtype=torch.float32))
     print('Test util.rosenbrock() vs scipy: OK')
