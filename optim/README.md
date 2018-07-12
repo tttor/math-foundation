@@ -4,8 +4,10 @@ See also:
 * https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
 ## book
-* Convex Optimization – Boyd and Vandenberghe
+* Convex Optimization; Boyd and Vandenberghe
   * https://web.stanford.edu/~boyd/cvxbook/
+* Numerical Optimization; Jorge Nocedal    Stephen J. Wright
+  * http://users.iems.northwestern.edu/~nocedal/book/index.html
 * Practical Methods of Optimization, R. Fletcher
   * https://ebookcentral-proquest-com.ezproxy.library.uq.edu.au/lib/uql/detail.action?docID=1212544
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
@@ -30,8 +32,9 @@ See also:
 
 ## course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
-* https://www.scipy-lectures.org/advanced/mathematical_optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
+* https://www.scipy-lectures.org/advanced/mathematical_optimization/
+> Mathematical optimization is very... mathematical. If you want performance, it really pays to read the books.
 
 ### conjugate gradient (CG)
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
