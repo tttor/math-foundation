@@ -23,6 +23,7 @@ def line_search_algorithm(fn, x_k, p_k, alpha_max):
 
     # c1 and c2 satisfying 0 < c1 < c2 < 1; p60
     # c1 = 10^{-4} and c2 = 0.9; p62
+    # c1 is usually chosen to be small in practice (c1 = 10-4 , say); p57
     c1 = 1e-4
     c2 = 0.9
 
