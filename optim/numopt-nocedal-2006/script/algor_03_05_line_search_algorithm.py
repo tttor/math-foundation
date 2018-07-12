@@ -11,9 +11,11 @@ def line_search_algorithm(fn, x_k, p_k, alpha_max):
     \return
         alpha_star: a step length that satisfies the strong Wolfe conditions; p60
 
-    # notation map:
-    * alpha: alpha_i
-    * prev_alpha: alpha_{i-1}
+    \notation
+    * alpha: $\alpha_i$
+    * prev_alpha: $\alpha_{i-1}$
+    * phi_0: $\phi(0)$
+    * phi_der_0: $\phi'(0)$
     '''
     def phi(alpha):
         return fn(x_k + alpha * p_k) # equ 3.55, p56
