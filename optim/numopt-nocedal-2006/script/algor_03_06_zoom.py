@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import torch
 
 import util
@@ -25,4 +26,5 @@ def zoom(alpha_lo, alpha_hi, phi, c1, c2):
             alpha_lo = alpha_j
 
 def interpolate(alpha_lo, alpha_hi):
+    print('WARN: dummy interpolate()!')
     return util.uniformly_random(alpha_lo, alpha_hi)

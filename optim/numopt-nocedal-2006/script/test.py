@@ -19,6 +19,10 @@ def main():
     res = line_search_newton_cg(util.rosenbrock, x_0=x, max_k_iter=15, max_j_iter=10)
     print('line_search_newton_cg=', res)
 
+    res_scipy = sciopt.minimize(sciopt.rosen, x.numpy(), method='Newton-CG',
+                                jac=sciopt.rosen_der, hessp=sciopt.rosen_hess_prod)
+    assert torch.allclose(res, torch.from_numpy(res_scipy.x), rtol=1e-03, atol=1e-03)
+
 def test_util(x):
     assert torch.allclose(util.rosenbrock(x),
                           torch.tensor([sciopt.rosen(x.numpy())], dtype=torch.float32))
