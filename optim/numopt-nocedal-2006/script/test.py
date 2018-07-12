@@ -13,6 +13,8 @@ def main():
     # test_util(x)
 
     # Test
+    # algor_03_05_line_search_algorithm.py
+    # algor_03_06_zoom.py
     # algor_07_01_line_search_newton_cg.py
     res = line_search_newton_cg(util.rosenbrock, x_0=x, max_k_iter=15, max_j_iter=10)
     print('line_search_newton_cg=', res)
