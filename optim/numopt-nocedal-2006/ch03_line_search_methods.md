@@ -94,6 +94,10 @@ TODO
 ### interpolation
 * to generate a decreasing sequence of values αi such that each value αi is not too much smaller
   than its predecessor αi−1
+* cubic interpolation
+  * provides a good model for functions with significant changes of curvature
+  * usually produces a quadratic rate of convergence of the iteration (3.59) to the minimizing value of α.
+
 
 ### initial step length
 * For Newton and quasi-Newton methods,
