@@ -20,21 +20,12 @@ See also:
 * Numerical Methods for Least Squares Problems, Åke Björck
   * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
 
-## tool
-* https://docs.scipy.org/doc/scipy/reference/optimize.html
-* https://github.com/adefazio/phessianfree
-* http://www.optimojoe.com/products/optizelle/
-
-## test problem
-* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
-* https://github.com/mpf/Optimization-Test-Problems
-* https://en.wikipedia.org/wiki/Test_functions_for_optimization
-
 ## course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
 > Mathematical optimization is very... mathematical. If you want performance, it really pays to read the books.
+* https://web.stanford.edu/class/ee364a/
 
 ### conjugate gradient (CG)
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
@@ -54,3 +45,14 @@ See also:
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
+
+## tool
+* https://docs.scipy.org/doc/scipy/reference/optimize.html
+* https://github.com/adefazio/phessianfree
+* http://www.optimojoe.com/products/optizelle/
+* http://www.cvxpy.org/
+
+## test problem
+* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
+* https://github.com/mpf/Optimization-Test-Problems
+* https://en.wikipedia.org/wiki/Test_functions_for_optimization

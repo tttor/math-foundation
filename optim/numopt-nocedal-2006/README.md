@@ -1,4 +1,6 @@
 # Numerical Optimization
+WARN: most equ are in the physical notebook, not here.
+
 * Jorge Nocedal, Stephen J. Wright
 * Second Edition; 2006 Springer Science+Business Media, LLC.
 * https://www.springer.com/gp/book/9780387303031
