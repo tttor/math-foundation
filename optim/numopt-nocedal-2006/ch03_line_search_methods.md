@@ -119,4 +119,12 @@ TODO
     * calling a function called zoom (Algorithm 3.6, below), which
       successively decreases the size of the interval until an
       acceptable step length is identified.
-
+* how much more expensive it is to require the strong Wolfe conditions
+  instead of the regular Wolfe conditions.
+  * for a “loose” line search (with parameters such as c1 = 10−4 and c2 = 0.9),
+    both strategies require a similar amount of work.
+* The strong Wolfe conditions have the advantage that by decreasing c2 we
+  can directly control the quality of the search, by forcing the accepted value of α to lie closer
+  to a local minimum.
+  * This feature is important in steepest descent or nonlinear conjugate gradient methods, and
+  * therefore a step selection routine that enforces the strong Wolfe conditions has wide applicability.
