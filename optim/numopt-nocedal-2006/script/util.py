@@ -16,7 +16,6 @@ def hess_vec_prod(fn, _x, v):
     grad_f, = torch.autograd.grad(out, x, create_graph=True)
     z = torch.dot(grad_f, v)
     z.backward()
-    assert torch.allclose(x.grad, torch.from_numpy(sciopt.rosen_hess_prod(x.detach().numpy(), v.double())), rtol=1e-03, atol=1e-03)
     return x.grad
 
 def rosenbrock(x):
