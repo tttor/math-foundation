@@ -6,6 +6,9 @@ import torch
 import util
 
 def zoom(alpha, prev_alpha, phi, c1, c2):
+    '''
+    Algorithm 3.6 (zoom), p61
+    '''
     while True:
         alpha_j = cubic_interpolation(alpha, prev_alpha, phi)
 
@@ -22,7 +25,7 @@ def zoom(alpha, prev_alpha, phi, c1, c2):
         phi_0 = phi(0.0)
         phi_der_0 = util.grad(phi, torch.zeros(1))
 
-        if (phi_alpha_j > phi_0 + c1 * alpha_j * phi_der_0) or (phi_alpha_j >= phi_alpha_lo):
+        if (phi_alpha_j > (phi_0 + c1 * alpha_j * phi_der_0)) or (phi_alpha_j >= phi_alpha_lo):
             alpha_hi = alpha_j
         else:
             phi_der_alpha_j = util.grad(phi, torch.tensor([alpha_j]))
