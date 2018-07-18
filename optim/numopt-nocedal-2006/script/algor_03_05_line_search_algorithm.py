@@ -26,7 +26,7 @@ def line_search_algorithm(fn, x_k, p_k, alpha_max):
     def phi(alpha):
         return fn(x_k + alpha * p_k) # equ 3.55, p56
 
-    alpha = 1.0 # p59, speficifally for For Newton and quasi-Newton methods
+    alpha = 1.0 # p59, specifically for For Newton and quasi-Newton methods
     prev_alpha = 0.0
 
     # c1 and c2 satisfying 0 < c1 < c2 < 1; p60
