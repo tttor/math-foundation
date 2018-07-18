@@ -6,7 +6,9 @@ from algor_03_05_line_search_algorithm import line_search_algorithm
 
 def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
     '''
-    Algorithm 7.1 (Line Search Newton-CG)
+    Algorithm 7.1 (Line Search Newton-CG), p169
+
+    \notation
     x_k: the solution that minimizes fn
     p_k: search step direction
     alpha_k: search step length
