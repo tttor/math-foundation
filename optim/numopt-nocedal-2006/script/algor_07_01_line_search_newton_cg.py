@@ -51,7 +51,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
                 break
 
             beta_jprime = torch.dot(r_jprime, r_jprime) / torch.dot(r_j, r_j)
-            d_jprime = -r_jprime + beta_jprime*d_j
+            d_jprime = -r_jprime + (beta_jprime * d_j)
 
             z_j = z_jprime
             r_j = r_jprime
