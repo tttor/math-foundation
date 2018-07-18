@@ -14,7 +14,7 @@
 * BFGS: the superlinear rate of convergence
 
 ### implementation
-* The line search, which should satisfy either the Wolfe conditions
-  (3.6) or the strong Wolfe conditions (3.7), should always try the step length αk  1 first,
-  because this step length will eventually always be accepted (under certain conditions), thereby
-  producing superlinear convergence of the overall algorithm.
+* The line search, which should satisfy either the Wolfe conditions (3.6) or the strong Wolfe conditions (3.7), 
+  * should always try the step length $\alpha_k = 1$ first,
+    * because this step length will eventually always be accepted (under certain conditions), 
+    * thereby producing superlinear convergence of the overall algorithm.
