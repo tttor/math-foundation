@@ -9,17 +9,16 @@ def zoom(alpha, prev_alpha, phi, c1, c2):
     '''
     Algorithm 3.6 (zoom), p61
     '''
+    if alpha > prev_alpha:
+        alpha_hi = alpha
+        alpha_lo = prev_alpha
+    else:
+        alpha_hi = prev_alpha
+        alpha_lo = alpha
+
     while True:
-        alpha_j = cubic_interpolation(alpha, prev_alpha, phi)
-
+        alpha_j = cubic_interpolation(alpha_lo, alpha_hi, phi)
         phi_alpha_j = phi(alpha_j)
-
-        if alpha > prev_alpha:
-            alpha_hi = alpha
-            alpha_lo = prev_alpha
-        else:
-            alpha_hi = prev_alpha
-            alpha_lo = alpha
 
         phi_alpha_lo = phi(alpha_lo)
         phi_0 = phi(0.0)
@@ -38,10 +37,12 @@ def zoom(alpha, prev_alpha, phi, c1, c2):
 
             alpha_lo = alpha_j
 
-def cubic_interpolation(alpha, prev_alpha, phi):
+def cubic_interpolation(alpha_lo, alpha_hi, phi):
     '''
     refer to equ 3.59, p59
     '''
+    prev_alpha, alpha = alpha_lo, alpha_hi # following the book: alpha, for $\alpha_i$, and prev_alpha, for $\alpha_{i-1}$
+
     phi_alpha = phi(alpha)
     phi_prev_alpha = phi(prev_alpha)
     phi_der_alpha = util.grad(phi, torch.tensor([alpha]))
