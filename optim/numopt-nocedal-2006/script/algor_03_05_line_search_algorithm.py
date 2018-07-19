@@ -44,7 +44,7 @@ def line_search_algorithm(fn, x_k, p_k, alpha_max):
         phi_der_0 = util.grad(phi, torch.zeros(1))
 
         if (phi_alpha > (phi_0 + c1 * alpha * phi_der_0)) or ((phi_alpha >= phi_prev_alpha) and (i > 1)):
-            alpha_star = zoom(prev_alpha, alpha, phi, c1, c2)
+            alpha_star = zoom(alpha_lo=prev_alpha, alpha_hi=alpha, phi=phi, c1=c1, c2=c2)
             return alpha_star
 
         phi_der_alpha = util.grad(phi, torch.tensor([alpha]))
@@ -54,7 +54,7 @@ def line_search_algorithm(fn, x_k, p_k, alpha_max):
             return alpha_star
 
         if phi_der_alpha >= 0.0:
-            alpha_star = zoom(alpha, prev_alpha, phi, c1, c2)
+            alpha_star = zoom(alpha_lo=alpha, alpha_hi=prev_alpha, phi=phi, c1=c1, c2=c2)
             return alpha_star
 
         next_alpha = uniformly_random(alpha, alpha_max)

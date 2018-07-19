@@ -5,17 +5,10 @@ import torch
 
 import util
 
-def zoom(alpha, prev_alpha, phi, c1, c2):
+def zoom(alpha_lo, alpha_hi, phi, c1, c2):
     '''
     Algorithm 3.6 (zoom), p61
     '''
-    if alpha > prev_alpha:
-        alpha_hi = alpha
-        alpha_lo = prev_alpha
-    else:
-        alpha_hi = prev_alpha
-        alpha_lo = alpha
-
     while True:
         alpha_j = cubic_interpolation(alpha_lo, alpha_hi, phi)
         phi_alpha_j = phi(alpha_j)
