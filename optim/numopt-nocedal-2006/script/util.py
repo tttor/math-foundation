@@ -14,7 +14,7 @@ def hess_vec_prod(fn, _x, v):
     out = fn(x)
     grad, = torch.autograd.grad(out, x, create_graph=True)
     prod = torch.dot(grad, v)
-    grad, = torch.autograd.grad(prod, x, create_graph=True)
+    grad, = torch.autograd.grad(prod, x, create_graph=False)
     return grad
 
 def rosenbrock(x):
