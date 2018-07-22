@@ -10,6 +10,7 @@ def grad(fn, _x):
 
 def hess_vec_prod(fn, _x, v):
     # https://discuss.pytorch.org/t/calculating-hessian-vector-product/11240
+    # (d^2 f / dx^2)v = d/dx (df/dx v)
     x = Variable(_x.data.clone(), requires_grad=True)
     out = fn(x)
     grad, = torch.autograd.grad(out, x, create_graph=True)
