@@ -10,7 +10,7 @@ def main():
 
     x = torch.tensor([1.3, 0.7, 0.8, 1.9, 1.2])
     print('x=', x)
-    # test_util(x)
+    test_util(x)
 
     # Test
     # algor_03_05_line_search_algorithm.py

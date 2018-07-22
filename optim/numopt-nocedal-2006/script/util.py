@@ -3,11 +3,10 @@ import torch
 from torch.autograd import Variable
 
 def grad(fn, _x):
-    # clone the input _x, so that we do not need to zero the gradients using x.grad.zero_()
     x = Variable(_x.data.clone(), requires_grad=True)
     out = fn(x)
-    out.backward()
-    return x.grad
+    grad, = torch.autograd.grad(out, x, create_graph=False)
+    return grad
 
 def hess_vec_prod(fn, _x, v):
     # https://discuss.pytorch.org/t/calculating-hessian-vector-product/11240
