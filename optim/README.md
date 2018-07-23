@@ -46,7 +46,11 @@ See also:
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
 
-## tool
+## tool: autograd, autodiff
+* http://www.autodiff.org/
+* https://github.com/HIPS/autograd
+
+## tool: optim
 * https://docs.scipy.org/doc/scipy/reference/optimize.html
 * https://github.com/adefazio/phessianfree
 * http://www.optimojoe.com/products/optizelle/
