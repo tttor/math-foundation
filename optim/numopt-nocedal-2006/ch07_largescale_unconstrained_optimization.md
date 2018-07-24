@@ -31,13 +31,29 @@
 ### local convergence of inexact newton methods
 TODO
 
-### line search newton-cg method (aka truncated Newton method)
+### line search newton-cg method
+* aka truncated Newton method
+  * consists of repeated application of an iterative optimization algorithm to
+    approximately solve Newton's equations, to determine an update to the function's parameters.
+  * The inner solver is truncated, i.e., run for only a limited number of iterations.
+  * It follows that, for truncated Newton methods to work, the inner solver needs to
+    produce a good   approximation in a finite number of iterations;[2]
+  * conjugate gradient has been suggested and evaluated as a candidate inner loop.
+  * more: https://en.wikipedia.org/wiki/Truncated_Newton_method
+* the CG method is designed to solve positive definite systems, and
+  the Hessian ∇ 2 f k may have negative eigenvalues when x k is not close to a solution.
+  * Therefore, we terminate the CG iteration as soon as
+    a direction of negative curvature is generated.
+  * This adaptation of the CG method produces a search direction pk that is a descent direction.
+  * Moreover, the adaptation guarantees that the fast convergence rate of the pure Newton method is preserved,
+    * provided that the step length $\alpha_k = 1$ is used whenever it satisfies the acceptance criteria.
 * Algorithm 7.1, a line search algorithm that
   * uses a modification of Algorithm 5.2 (CG)
     as the inner iteration to compute each search direction pk
 * When the Hessian is nearly singular,
   * the line search Newton–CG direction can be long and of poor quality,
-  * requiring many function evaluations in the line search and giving only a small reduction in the function
+  * requiring many function evaluations in the line search and
+    giving only a small reduction in the function
 * Hessian-free Newton methods.
   * does not require explicit knowledge of the Hessian $B_k = \nabla^2 f_k$
   * Rather, it requires only that we can supply Hessian–vector products of

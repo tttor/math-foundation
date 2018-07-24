@@ -26,6 +26,7 @@ See also:
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
 > Mathematical optimization is very... mathematical. If you want performance, it really pays to read the books.
 * https://web.stanford.edu/class/ee364a/
+* https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 
 ### conjugate gradient (CG)
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
