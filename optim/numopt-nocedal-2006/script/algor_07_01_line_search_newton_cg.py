@@ -8,15 +8,15 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
     '''
     Algorithm 7.1 (Line Search Newton-CG), p169
 
-    \notation
+    \notation map
     x_k: the solution that minimizes fn
-    p_k: search step direction
-    alpha_k: search step length
-    eps_k:  a tolerance that specifies the required accuracy of the computed
+    p_k: step direction
+    alpha_k: step length
+    eps_k: a tolerance that specifies the required accuracy of the computed
     d: the search directions for inner CG iteration
     {z_j}: inner iteration sequence;
-            when Bk is positive definite, the inner iteration sequence {z_j} will
-            converge to the Newton step pk N that solves (7.9)
+           when Bk is positive definite, the inner iteration sequence {z_j} will
+           converge to the Newton step $p_k^N$ that solves (7.9)
     jprime: j+1
     '''
     x_k = x_0 # init the solution x_k
@@ -45,7 +45,7 @@ def line_search_newton_cg(fn, x_0, max_k_iter, max_j_iter):
             z_jprime = z_j + alpha_j * d_j
             r_jprime = r_j + alpha_j * hvp_xk_dj
 
-            if torch.norm(r_j) < eps_k:
+            if torch.norm(r_jprime) < eps_k:
                 p_k = z_jprime
 
                 z_j = z_jprime
