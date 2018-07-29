@@ -80,4 +80,47 @@ TODO
     metric successive overrelaxation (SSOR), incomplete Cholesky, and banded preconditioners.
 
 ## 5.2 nonlinear conjugate gradient methods
+* to ask whether we can adapt the linear CG approach
+  to minimize general convex functions, or even general nonlinear functions f
+  * recall: linear CG can be viewed as a minimization
+    algorithm for the convex quadratic function φ defined by (5.2)
+    * f to be a strongly convex quadratic and αk to be the exact minimizer,
+
+### the fletcher–reeves method
+* extend the conjugate gradient method to nonlinear functions by making two simple changes
+  * in place of the formula (5.24a) for the step length αk (which minimizes φ along the search direction
+    pk ), we need to perform a line search that identifies an approximate minimum of the
+    nonlinear function f along pk .
+  * the residual r , which is simply the gradient of φ in
+    Algorithm 5.2 (see (5.3)), must be replaced by the gradient of the nonlinear objective f .
+* requiring the step length αk to satisfy the strong Wolfe conditions
+
+### the polak–ribière method and variants
+* many variants of the Fletcher–Reeves method that
+  * differ from each other mainly in the choice of the parameter $\beta_k$.
+* Numerical experience indicates that Algorithm PR tends to be the more robust and efficient
+  thatn FR
+* A surprising fact about Algorithm PR is
+  * that the strong Wolfe conditions (5.43) do NOT guarantee that pk is always a descent direction
+* other variants
+  * PR+
+  * Hestenes-Stiefel formula
+  * FR-PR.
+
+### quadratic termination and restarts
 TODO
+
+### global convergence
+TODO
+
+### numerical performance
+The Polak–Ribière algorithm, or its variation PR+, are not always more efficient
+than Algorithm FR, and it has the slight disadvantage of requiring one more vector of
+storage. Nevertheless, we recommend that users choose Algorithm PR, PR+ or FR-PR, or
+the methods based on (5.49) and (5.50).
+
+### notes and references
+Since this angle can be arbitrarily close to 90◦ , the Fletcher–Reeves method can be slower than
+the steepest descent method. The Polak–Ribière method behaves quite differently in these
+circumstances: If a very small step is generated, the next search direction tends to the steepest
+descent direction, as argued above. This feature prevents a sequence of tiny steps.
