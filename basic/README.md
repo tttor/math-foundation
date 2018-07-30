@@ -11,6 +11,7 @@
 * Taylor series, theorem
 * eigen value, eigen vector
 * http://mathworld.wolfram.com/MatrixEquation.html
+* https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite
 
 ## derivative, gradient, jacobian, hessian
 * https://www.math.ucdavis.edu/~kouba/CalcOneDIRECTORY/chainruledirectory/ChainRule.html

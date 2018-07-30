@@ -87,7 +87,7 @@ TODO
     * f to be a strongly convex quadratic and αk to be the exact minimizer,
 
 ### the fletcher–reeves method
-* extend the conjugate gradient method to nonlinear functions by making two simple changes
+* extend the conjugate gradient method to nonlinear functions by making TWO simple changes
   * in place of the formula (5.24a) for the step length αk (which minimizes φ along the search direction
     pk ), we need to perform a line search that identifies an approximate minimum of the
     nonlinear function f along pk .
