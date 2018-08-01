@@ -3,7 +3,13 @@ See also:
 * https://github.com/tttor/dl-foundation/tree/master/method/optim
 * https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
-## book
+# conjugate gradient (CG)
+* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
+* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+* https://en.wikipedia.org/wiki/Conjugate_gradient_method
+* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
+
+# book
 * Convex Optimization; Boyd and Vandenberghe
   * https://web.stanford.edu/~boyd/cvxbook/
 * Numerical Optimization; Jorge Nocedal    Stephen J. Wright
@@ -20,7 +26,7 @@ See also:
 * Numerical Methods for Least Squares Problems, Åke Björck
   * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
 
-## course, workshop, tutorial
+# course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
@@ -29,12 +35,7 @@ See also:
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 
-### conjugate gradient (CG)
-* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
-* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
-* https://en.wikipedia.org/wiki/Conjugate_gradient_method
-
-### misc
+# misc
 * http://ruder.io/optimizing-gradient-descent/index.html
 * https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
 * http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/
