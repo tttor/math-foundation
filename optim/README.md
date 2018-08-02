@@ -4,8 +4,8 @@ See also:
 * https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
 # conjugate gradient (CG)
-* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
 * https://en.wikipedia.org/wiki/Conjugate_gradient_method
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 
