@@ -11,7 +11,12 @@
 * Taylor series, theorem
 * eigen value, eigen vector
 * http://mathworld.wolfram.com/MatrixEquation.html
+
+## positive definite matrix
 * https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite
+* https://math.stackexchange.com/questions/1059566/explain-proof-that-any-positive-definite-matrix-is-invertible
+* https://math.stackexchange.com/questions/1404534/why-does-positive-definite-matrix-have-strictly-positive-eigenvalue
+* https://yutsumura.com/positive-definite-real-symmetric-matrix-and-its-eigenvalues/
 
 ## derivative, gradient, jacobian, hessian
 * https://www.math.ucdavis.edu/~kouba/CalcOneDIRECTORY/chainruledirectory/ChainRule.html

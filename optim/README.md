@@ -35,6 +35,17 @@ See also:
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 
+# tool
+## tool: autograd, autodiff
+* http://www.autodiff.org/
+* https://github.com/HIPS/autograd
+
+## tool: optim
+* https://docs.scipy.org/doc/scipy/reference/optimize.html
+* https://github.com/adefazio/phessianfree
+* http://www.optimojoe.com/products/optizelle/
+* http://www.cvxpy.org/
+
 # misc
 * http://ruder.io/optimizing-gradient-descent/index.html
 * https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
@@ -49,17 +60,10 @@ See also:
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
 
-## tool: autograd, autodiff
-* http://www.autodiff.org/
-* https://github.com/HIPS/autograd
-
-## tool: optim
-* https://docs.scipy.org/doc/scipy/reference/optimize.html
-* https://github.com/adefazio/phessianfree
-* http://www.optimojoe.com/products/optizelle/
-* http://www.cvxpy.org/
-
-## test problem
-* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
-* https://github.com/mpf/Optimization-Test-Problems
+## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
+* https://www.sfu.ca/~ssurjano/optimization.html
+* http://infinity77.net/global_optimization/test_functions.html#test-functions-index
+* http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO.htm
+* https://arxiv.org/abs/1308.4008
+
