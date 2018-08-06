@@ -13,7 +13,7 @@
       are usually dense, even when the true Hessian is sparse, and the cost of storing and working
       with these approximations can be excessive for large n
 
-# 7.1  inexact newton methods
+# 7.1 inexact newton methods
 * family of inexact Newton methods
   * obtaining approximations to pk N that are
     inexpensive to calculate but are good search directions or steps
@@ -63,11 +63,47 @@ TODO
 
 # 7.2 limited-memory quasi-newton methods
 * Instead of storing fully dense n × n approximations,
-  * they save only a few vectors of length n that represent the
-    approximations implicitly.
+  * save only a few vectors of length n that represent the approximations implicitly.
 * main idea of this method is
-  * to use curvature information from only the most recent iterations to construct the Hessian approximation
+  * to use curvature information from only the **most recent iterations**
+    to construct the Hessian approximation
 
 ## limited-memory bfgs
-* Practical experience has shown that modest values of m (between 3 and 20, say)
-  often produce satisfactory results.
+* Since the inverse Hessian approximation Hk will generally be dense,
+  the cost of storing and manipulating it is prohibitive when the number of variables is large
+  * so: store a modified version of H k implicitly,
+    by storing a certain number (say, m) of the vector pairs {si , y i } used in the formulas (7.16)–(7.18)
+  * the set of vector pairs includes curvature information from the m most recent iterations
+    * modest values of m (between 3 and 20, say) often produce satisfactory results.
+* in contrast to the standard BFGS iteration, this initial approximation is
+  allowed to vary from iteration to iteration
+* Algorithm 7.4 (L-BFGS two-loop recursion).
+  * inexpensive computation
+  * has the advantage that the multiplication by the
+    initial matrix H k 0 is isolated from the rest of the computations, allowing this matrix to be
+    chosen freely and to vary between iterations.
+* A method for choosing Hk 0 that has proved effective in practice is to set ... Equ. 7.20
+* for stable BFGS updating
+  * the line search be based on the Wolfe conditions (3.6) or strong Wolfe conditions (3.7)
+* Algorithm 7.5 (L-BFGS).
+  * tends to be less robust when m is small.
+    * the optimal choice of m is problem dependent.
+  * is often the approach of choice for large problems in which the true Hessian is not sparse
+  * may also outperform Hessian-free Newton methods such as Newton–CG approaches,
+    in which Hessian–vector products are calculated by finite differences or automatic differentiation
+  * benchmark metric:
+    * the number of function and gradient evaluations (nfg) and
+    * the total CPU time.
+* main weakness of the L-BFGS method
+  * it converges slowly on ill-conditioned problems
+    * specifically, on problems where the Hessian matrix contains a wide distribution of eigenvalues.
+* On certain applications, the nonlinear conjugate gradient methods are
+  competitive with limited-memory quasi-Newton methods.
+
+## relationship with conjugate gradient methods
+TODO
+
+# 7.5 perspectives and software
+* Newton–CG methods have been used successfully to solve large problems in a variety of applications
+  * use problem-specific preconditioners.
+* A preconditioner for Newton–CG based on limited-memory BFGS approximations

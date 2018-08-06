@@ -3,12 +3,6 @@ See also:
 * https://github.com/tttor/dl-foundation/tree/master/method/optim
 * https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
-# conjugate gradient (CG)
-* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
-* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
-* https://en.wikipedia.org/wiki/Conjugate_gradient_method
-* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
-
 # book
 * Convex Optimization; Boyd and Vandenberghe
   * https://web.stanford.edu/~boyd/cvxbook/
@@ -46,6 +40,23 @@ See also:
 * http://www.optimojoe.com/products/optizelle/
 * http://www.cvxpy.org/
 
+# test function
+* https://en.wikipedia.org/wiki/Test_functions_for_optimization
+* https://www.sfu.ca/~ssurjano/optimization.html
+* http://infinity77.net/global_optimization/test_functions.html#test-functions-index
+* http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO.htm
+* https://arxiv.org/abs/1308.4008
+* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
+  * https://github.com/optimizers/cutest-mirror
+  * https://link.springer.com/article/10.1007/s10589-014-9687-3
+  * https://github.com/kenjydem/CUTEST.py
+
+# conjugate gradient (CG)
+* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
+* https://en.wikipedia.org/wiki/Conjugate_gradient_method
+* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
+
 # misc
 * http://ruder.io/optimizing-gradient-descent/index.html
 * https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
@@ -60,10 +71,5 @@ See also:
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
 
-## test function
-* https://en.wikipedia.org/wiki/Test_functions_for_optimization
-* https://www.sfu.ca/~ssurjano/optimization.html
-* http://infinity77.net/global_optimization/test_functions.html#test-functions-index
-* http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO.htm
-* https://arxiv.org/abs/1308.4008
+
 
