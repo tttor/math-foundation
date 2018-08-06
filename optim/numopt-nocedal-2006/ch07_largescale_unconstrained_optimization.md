@@ -13,7 +13,7 @@
       are usually dense, even when the true Hessian is sparse, and the cost of storing and working
       with these approximations can be excessive for large n
 
-## 7.1  inexact newton methods
+# 7.1  inexact newton methods
 * family of inexact Newton methods
   * obtaining approximations to pk N that are
     inexpensive to calculate but are good search directions or steps
@@ -28,10 +28,10 @@
   * we can implement these methods in a Hessian-free manner, so that the
     Hessian ∇ 2 fk need not be calculated or stored explicitly at all.
 
-### local convergence of inexact newton methods
+## local convergence of inexact newton methods
 TODO
 
-### line search newton-cg method
+## line search newton-cg method
 * aka truncated Newton method
   * consists of repeated application of an iterative optimization algorithm to
     approximately solve Newton's equations, to determine an update to the function's parameters.
@@ -61,13 +61,13 @@ TODO
 * The price we pay for
   bypassing the computation of the Hessian is one new gradient evaluation per CG iteration.
 
-## 7.2 limited-memory quasi-newton methods
+# 7.2 limited-memory quasi-newton methods
 * Instead of storing fully dense n × n approximations,
   * they save only a few vectors of length n that represent the
     approximations implicitly.
-* main idea of this method is to use curvature
-  information from only the most recent iterations to construct the Hessian approximation
+* main idea of this method is
+  * to use curvature information from only the most recent iterations to construct the Hessian approximation
 
-### limited-memory bfgs
+## limited-memory bfgs
 * Practical experience has shown that modest values of m (between 3 and 20, say)
   often produce satisfactory results.
