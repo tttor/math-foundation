@@ -82,4 +82,34 @@ TODO
 TODO
 
 # 14. The Nonlinear Conjugate Gradient Method
-TODO
+* three changes to the linear algorithm:
+  * the recursive formula for the residual cannot be used,
+    * nonlinear CG: the residual is always set to the negation of the gradient;
+  * it becomes more complicated to compute the step size, and
+  * there are several different choices for $\beta$
+    * Fletcher-Reeves formula, which we used in linear CG for its ease of computation, and
+    * the Polak-Ribière
+      * in rare cases, cycle infinitely without converging.
+      * often converges convergence much more quickly.
+* To restart CG:
+  * is to forget the past search directions, and
+    start CG anew in the direction of steepest descent.
+  * Because CG can only generate n conjugate vectors in an n-dimensional space,
+    * it makes sense to restart CG every n iterations, especially if n is small.
+* The less similar is to a quadratic function,
+  the more quickly the search directions lose conjugacy.
+  * Another problem is that a general function may have many local minima;
+    CG is not guaranteed to converge to the global minimum, and may not
+    even find a local minimum if has no lower bound.
+
+## 14.2. General Line Search
+* Newton-Raphson method and the Secant method
+* an exact line search, vs approximate line search
+
+## 14.3. Preconditioning
+* Nonlinear CG can be preconditioned by choosing a preconditioner that approximates
+  $f''$ and has the property that $M^{-1} r$ is easy to compute.
+* In linear CG, the preconditioner attempts to transform the quadratic form so that
+  it is similar to a sphere
+  * a nonlinear CG preconditioner performs this transformation for a region near $x_i$
+* A preconditioner  should be positive-definite

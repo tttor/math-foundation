@@ -18,6 +18,11 @@
 * https://math.stackexchange.com/questions/1404534/why-does-positive-definite-matrix-have-strictly-positive-eigenvalue
 * https://yutsumura.com/positive-definite-real-symmetric-matrix-and-its-eigenvalues/
 
+### vs positive semi-definite matrix
+* https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470173862.app3
+* https://math.stackexchange.com/questions/1733726/positive-semi-definite-vs-positive-definite
+* https://www.quora.com/Is-there-a-difference-between-positive-semi-definite-and-positive-definite-matrix
+
 ## derivative, gradient, jacobian, hessian
 * https://www.math.ucdavis.edu/~kouba/CalcOneDIRECTORY/chainruledirectory/ChainRule.html
 * https://mathinsight.org/chain_rule_refresher
