@@ -58,6 +58,7 @@ See also:
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 
 # misc
+* http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
 * http://ruder.io/optimizing-gradient-descent/index.html
 * https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
 * http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/
@@ -70,6 +71,3 @@ See also:
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
-
-
-

@@ -101,6 +101,17 @@ TODO
   competitive with limited-memory quasi-Newton methods.
 
 ## relationship with conjugate gradient methods
+* Limited-memory methods
+  * evolved as an attempt to improve nonlinear conjugate gradient methods, and
+  * early implementations resembled conjugate gradient methods more than quasi-Newton methods.
+* memoryless BFGS iteration:
+  * is based on the relationship between the two classes
+  * as a variant of Algorithm 7.5 in which $m=1$ and $H_k^0=I$ at each iteration.
+* A more direct connection with conjugate gradient methods can be seen if we consider
+  the memoryless BFGS formula (7.22) in conjunction with an exact line search,
+  * the BFGS formula is related in this way to the Polak–Ribière and Hestenes–Stiefel methods.
+
+## general limited-memory updating
 TODO
 
 # 7.5 perspectives and software
