@@ -11,6 +11,8 @@
 * Taylor series, theorem
 * eigen value, eigen vector
 * http://mathworld.wolfram.com/MatrixEquation.html
+* Big-O Notation, $O(\cdot)$
+
 
 ## positive definite matrix
 * https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite

@@ -6,19 +6,21 @@ See also:
 # book
 * Convex Optimization; Boyd and Vandenberghe
   * https://web.stanford.edu/~boyd/cvxbook/
-* Numerical Optimization; Jorge Nocedal    Stephen J. Wright
+* First-Order Methods in Optimization, Amir Beck, 2017
+  * https://epubs.siam.org/doi/book/10.1137/1.9781611974997
+* Iterative Methods for Optimization, C.T. Kelley
+  * https://archive.siam.org/books/kelley/fr18/
+* Linear and Nonlinear Optimization, Igor Griva, Stephen G. Nash, Ariela Sofer
+  * http://math.gmu.edu/~igriva/book/book-index.html
+* Numerical Methods for Least Squares Problems, Åke Björck
+  * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
+* Numerical Optimization; Jorge Nocedal, Stephen J. Wright
   * http://users.iems.northwestern.edu/~nocedal/book/index.html
 * Practical Methods of Optimization, R. Fletcher
   * https://ebookcentral-proquest-com.ezproxy.library.uq.edu.au/lib/uql/detail.action?docID=1212544
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
-* First-Order Methods in Optimization, Amir Beck, 2017
-  * https://epubs.siam.org/doi/book/10.1137/1.9781611974997
 * Trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
-* Iterative Methods for Optimization, C.T. Kelley
-  * https://archive.siam.org/books/kelley/fr18/
-* Numerical Methods for Least Squares Problems, Åke Björck
-  * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
 
 # course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
