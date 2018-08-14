@@ -13,3 +13,9 @@
       * generally,  the direction of the step changes whenever the size of the trust region is altered.
 * choose the size of the region according to the performance of the algorithm during previous iterations
 * assume that the model function m k that is used at each iterate xk is quadratic
+* the trust-region approach requires us
+  * to solve a sequence of subproblems (4.3)
+    in which the objective function and constraint are both quadratic.
+
+## outline of the trust-region approach
+TODO
