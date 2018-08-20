@@ -69,10 +69,10 @@ TODO
     to construct the Hessian approximation
 
 ## limited-memory bfgs
-* Since the inverse Hessian approximation Hk will generally be dense,
+* Since the inverse Hessian approximation $H_k$ will generally be dense,
   the cost of storing and manipulating it is prohibitive when the number of variables is large
-  * so: store a modified version of H k implicitly,
-    by storing a certain number (say, m) of the vector pairs {si , y i } used in the formulas (7.16)–(7.18)
+  * thus: store a modified version of $H_k$ implicitly,
+    by storing a certain number (say, m) of the vector pairs $\{s_i, y_i\}$ used in the formulas (7.16)–(7.18)
   * the set of vector pairs includes curvature information from the m most recent iterations
     * modest values of m (between 3 and 20, say) often produce satisfactory results.
 * in contrast to the standard BFGS iteration, this initial approximation is
