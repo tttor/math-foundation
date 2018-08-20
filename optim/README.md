@@ -34,17 +34,19 @@ See also:
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 
 # tool
-## tool: autograd, autodiff
+## autograd, autodiff
 * http://www.autodiff.org/
 * https://github.com/HIPS/autograd
 
-## tool: optim
+## optim package
 * https://docs.scipy.org/doc/scipy/reference/optimize.html
 * https://github.com/adefazio/phessianfree
 * http://www.optimojoe.com/products/optizelle/
 * http://www.cvxpy.org/
+* https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
+* https://github.com/BRML/climin
 
-# test function
+## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
 * https://www.sfu.ca/~ssurjano/optimization.html
 * http://infinity77.net/global_optimization/test_functions.html#test-functions-index
@@ -54,12 +56,6 @@ See also:
   * https://github.com/optimizers/cutest-mirror
   * https://link.springer.com/article/10.1007/s10589-014-9687-3
   * https://github.com/kenjydem/CUTEST.py
-
-# conjugate gradient (CG)
-* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
-* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
-* https://en.wikipedia.org/wiki/Conjugate_gradient_method
-* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 
 # misc
 * http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
@@ -75,3 +71,10 @@ See also:
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
+
+## conjugate gradient (CG)
+* https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
+* http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
+* https://en.wikipedia.org/wiki/Conjugate_gradient_method
+* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
+* http://learning.eng.cam.ac.uk/carl/code/minimize/
