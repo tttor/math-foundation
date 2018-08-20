@@ -16,6 +16,8 @@ See also:
   * https://epubs.siam.org/doi/book/10.1137/1.9781611971484
 * Numerical Optimization; Jorge Nocedal, Stephen J. Wright
   * http://users.iems.northwestern.edu/~nocedal/book/index.html
+* Optimization Algorithms on Matrix Manifolds
+  * https://www.jstor.org/stable/j.ctt7smmk, P.-A. Absil et al
 * Practical Methods of Optimization, R. Fletcher
   * https://ebookcentral-proquest-com.ezproxy.library.uq.edu.au/lib/uql/detail.action?docID=1212544
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
