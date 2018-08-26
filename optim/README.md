@@ -38,13 +38,14 @@ See also:
 * http://www.autodiff.org/
 * https://github.com/HIPS/autograd
 
-## optim package
-* https://docs.scipy.org/doc/scipy/reference/optimize.html
-* https://github.com/adefazio/phessianfree
+## optim package, software
 * http://www.optimojoe.com/products/optizelle/
 * http://www.cvxpy.org/
-* https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
+* https://docs.scipy.org/doc/scipy/reference/optimize.html
+* https://github.com/adefazio/phessianfree
 * https://github.com/BRML/climin
+* https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
+* https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 
 ## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
