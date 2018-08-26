@@ -2,10 +2,13 @@
 
 # book
 * G. H. Golub and C. F. Van Loan, Matrix Computations, Baltimore, MD, Johns Hopkins University Press
+* Lectures on Probability Theory and Mathematical Statistics, Marco Taboga
 
 # course
 * https://www.khanacademy.org/math/multivariable-calculus
 * https://github.com/fastai/numerical-linear-algebra
+* https://www.statlect.com/
+* https://stattrek.com/
 
 # misc
 * Taylor series, theorem
@@ -13,6 +16,7 @@
 * http://mathworld.wolfram.com/MatrixEquation.html
 * Big-O Notation, $O(\cdot)$
 * https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language
+* https://math.stackexchange.com/questions/337090/if-f-is-strictly-convex-in-a-convex-set-show-it-has-no-more-than-1-minimum
 
 ## positive definite matrix
 * https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite
