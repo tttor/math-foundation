@@ -60,13 +60,7 @@ See also:
 
 # misc
 * http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
-* http://ruder.io/optimizing-gradient-descent/index.html
-* https://justindomke.wordpress.com/2009/01/17/hessian-vector-products/
-* http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/
-* http://andrew.gibiansky.com/blog/machine-learning/hessian-free-optimization/
-* http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
 * https://www.benfrederickson.com/numerical-optimization/
-* https://stats.stackexchange.com/questions/253632/why-is-newtons-method-not-widely-used-in-machine-learning
 * https://stats.stackexchange.com/questions/55247/how-to-choose-the-right-optimization-algorithm
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
@@ -81,3 +75,4 @@ See also:
 * https://en.wikipedia.org/wiki/Conjugate_gradient_method
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 * http://learning.eng.cam.ac.uk/carl/code/minimize/
+* http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
