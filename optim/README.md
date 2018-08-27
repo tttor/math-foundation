@@ -72,6 +72,8 @@ See also:
 * https://math.stackexchange.com/questions/2201384/what-is-the-definition-of-a-first-order-method
 * https://math.stackexchange.com/questions/189644/intuition-behind-gradient-vs-curvature
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
+* https://math.stackexchange.com/questions/905327/definition-of-global-convergence
+  * https://math.stackexchange.com/questions/1554269/global-convergence-versus-convergence-to-a-global
 
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
