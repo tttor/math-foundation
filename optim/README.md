@@ -68,6 +68,11 @@ See also:
 * https://www.quora.com/What-are-some-good-resources-to-learn-about-optimization
 * https://math.stackexchange.com/questions/905327/definition-of-global-convergence
   * https://math.stackexchange.com/questions/1554269/global-convergence-versus-convergence-to-a-global
+* https://en.wikipedia.org/wiki/Condition_number
+  * https://en.wikipedia.org/wiki/Well-posed_problem
+  * https://blogs.mathworks.com/cleve/2017/07/17/what-is-the-condition-number-of-a-matrix/
+  * ill-conditioned: that a small error in the initial data can result in much larger errors in the answers.
+  * An ill-conditioned problem is indicated by a large condition number.
 
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
@@ -76,3 +81,4 @@ See also:
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 * http://learning.eng.cam.ac.uk/carl/code/minimize/
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
+* http://people.cs.vt.edu/~asandu/Public/Qual2011/Optim/Hager_2006_CG-survey.pdf
