@@ -73,6 +73,8 @@ See also:
   * https://blogs.mathworks.com/cleve/2017/07/17/what-is-the-condition-number-of-a-matrix/
   * ill-conditioned: that a small error in the initial data can result in much larger errors in the answers.
   * An ill-conditioned problem is indicated by a large condition number.
+* https://en.wikipedia.org/wiki/Rate_of_convergence
+  * https://math.stackexchange.com/questions/2615576/sublinear-rate-of-convergence-in-mathematical-optimization
 
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf

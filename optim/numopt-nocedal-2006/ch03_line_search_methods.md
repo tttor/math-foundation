@@ -12,7 +12,7 @@
   * quasi-Newton methods: $B_k$ is an approximation to the Hessian that
     is updated at every iteration by means of a low-rank formula
 
-## 3.1 step length
+# 3.1 step length
 * a tradeoff.
   * to choose $\alpha_k$ to give a substantial reduction of f
   * but at the same time we do not want to spend too much time making the choice
@@ -28,7 +28,7 @@
 * effective step lengths ** need not lie** near minimizers of the univariate function
   defined in (3.3).
 
-### the wolfe conditions
+## the wolfe conditions
 * the wolfe conditions consists of
   * the sufficient decrease (Armijo) condition, equ (3.7a)
   * curvature conditions, equ (3.7b)
@@ -41,34 +41,34 @@
   * multiplying the objective function by a constant or
     making an affine change of variables does not alter them
 
-### the goldstein conditions
+## the goldstein conditions
 * often used in Newton-type methods
   * but are NOT well suited for quasi-Newton methods that
     maintain a positive definite Hessian approximation.
 
-### sufficient decrease and backtracking
+## sufficient decrease and backtracking
 * backtracking approach:
   * can dispense with the extra condition (3.6b) and
   * use just the sufficient decrease condition to terminate the line search procedure
 * well suited for Newton methods
   * but is less appropriate for quasi-Newton and conjugate gradient methods.
 
-## 3.2 convergence of line search methods
+# 3.2 convergence of line search methods
 TODO
 
-## 3.3 rate of convergence
-### newton’s method
+# 3.3 rate of convergence
+## newton’s method
 * the search is given by
   * $p_k^N = - \nabla^2 f_k^{-1} \nabla f_k$
 
-### quasi-newton methods
+## quasi-newton methods
 * search direction has the form
   * $p_k = - B_k^{-1} \nabla f_k$
 
-## 3.4 newton’s method with hessian modification
+# 3.4 newton’s method with hessian modification
 * Line Search Newton with Modification
 
-## 3.5 step-length selection algorithms
+# 3.5 step-length selection algorithms
 * Line search (step-length search) procedures can be classified according to
   the type of derivative information they use.
   * that use only function values can be inefficient since,
@@ -91,7 +91,7 @@ TODO
     * interpolates some of the function and derivative information gathered on
       earlier steps to guess the location of the minimizer.
 
-### interpolation
+## interpolation
 * to generate a decreasing sequence of values αi such that each value αi is not too much smaller
   than its predecessor αi−1
 * cubic interpolation
@@ -99,7 +99,7 @@ TODO
   * usually produces a quadratic rate of convergence of the iteration (3.59) to the minimizing value of α.
 
 
-### initial step length
+## initial step length
 * For Newton and quasi-Newton methods,
   * the step $\aplha_0 = 1$ should always be used as the initial trial step length.
   * This choice
@@ -112,7 +112,7 @@ TODO
     the first-order change in the function at iterate $x_k$ will be the same as that
     obtained at the previous step
 
-### a line search algorithm for the wolfe conditions
+## a line search algorithm for the wolfe conditions
 * Wolfe (or strong Wolfe) conditions are among the most widely applicable and useful termination conditions
 * The algorithm has two stages. T
   * stage-1:
@@ -132,3 +132,11 @@ TODO
   to a local minimum.
   * This feature is important in steepest descent or nonlinear conjugate gradient methods, and
   * therefore a step selection routine that enforces the strong Wolfe conditions has wide applicability.
+
+## notes and references
+* Some line search methods (see Goldfarb [132] and Moré and Sorensen [213]) compute
+a direction of negative curvature, whenever it exists, to prevent the iteration from converging
+to nonminimizing stationary points
+* Another strategy for implementing a line search Newton method when the Hessian
+contains negative eigenvalues is to compute a direction of negative curvature and use it to
+define the search direction
