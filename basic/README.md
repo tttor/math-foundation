@@ -1,16 +1,16 @@
-# basic
+# Basic
 
-# book
+# Book
 * G. H. Golub and C. F. Van Loan, Matrix Computations, Baltimore, MD, Johns Hopkins University Press
 * Lectures on Probability Theory and Mathematical Statistics, Marco Taboga
 
-# course
+# Course
 * https://www.khanacademy.org/math/multivariable-calculus
 * https://github.com/fastai/numerical-linear-algebra
 * https://www.statlect.com/
 * https://stattrek.com/
 
-# misc
+# Misc
 * Taylor series, theorem
 * eigen value, eigen vector
 * http://mathworld.wolfram.com/MatrixEquation.html
