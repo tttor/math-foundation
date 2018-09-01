@@ -75,6 +75,11 @@ See also:
   * An ill-conditioned problem is indicated by a large condition number.
 * https://en.wikipedia.org/wiki/Rate_of_convergence
   * https://math.stackexchange.com/questions/2615576/sublinear-rate-of-convergence-in-mathematical-optimization
+* convex vs non-convex opt, http://dx.doi.org/10.1561/2200000058
+  * An optimization problem is said to be convex if the objective is a convex function,
+    **as well as** the constraint set is a convex set.
+  * An optimization problem that violates **either one** of these conditions, i.e.,
+    one that has a non-convex objective, or a non-convex constraint set, or both, is called a non-convex optimization problem.
 
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
