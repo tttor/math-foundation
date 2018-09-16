@@ -1,9 +1,9 @@
-# optimization
+# Optimization
 See also:
 * https://github.com/tttor/dl-foundation/tree/master/method/optim
 * https://github.com/tttor/rl-foundation/tree/master/method/policy-based/optim
 
-# book
+# Book
 * Convex Optimization; Boyd and Vandenberghe
   * https://web.stanford.edu/~boyd/cvxbook/
 * First-Order Methods in Optimization, Amir Beck, 2017
@@ -24,7 +24,7 @@ See also:
 * Trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
 
-# course, workshop, tutorial
+# Course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
@@ -33,7 +33,7 @@ See also:
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 
-# tool
+# Tool
 ## autograd, autodiff
 * http://www.autodiff.org/
 * https://github.com/HIPS/autograd
@@ -47,18 +47,7 @@ See also:
 * https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
 
-## test function
-* https://en.wikipedia.org/wiki/Test_functions_for_optimization
-* https://www.sfu.ca/~ssurjano/optimization.html
-* http://infinity77.net/global_optimization/test_functions.html#test-functions-index
-* http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO.htm
-* https://arxiv.org/abs/1308.4008
-* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
-  * https://github.com/optimizers/cutest-mirror
-  * https://link.springer.com/article/10.1007/s10589-014-9687-3
-  * https://github.com/kenjydem/CUTEST.py
-
-# misc
+# Misc
 * http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
 * https://www.benfrederickson.com/numerical-optimization/
 * https://stats.stackexchange.com/questions/55247/how-to-choose-the-right-optimization-algorithm
@@ -76,6 +65,19 @@ See also:
 * https://en.wikipedia.org/wiki/Rate_of_convergence
   * https://math.stackexchange.com/questions/2615576/sublinear-rate-of-convergence-in-mathematical-optimization
 
+## test function
+* https://en.wikipedia.org/wiki/Test_functions_for_optimization
+* https://www.sfu.ca/~ssurjano/optimization.html
+* http://infinity77.net/global_optimization/test_functions.html#test-functions-index
+* http://www-optima.amp.i.kyoto-u.ac.jp/member/student/hedar/Hedar_files/TestGO.htm
+* https://arxiv.org/abs/1308.4008
+* http://www.cuter.rl.ac.uk/Problems/mastsif.shtml
+  * https://github.com/optimizers/cutest-mirror
+  * https://link.springer.com/article/10.1007/s10589-014-9687-3
+  * https://github.com/kenjydem/CUTEST.py
+
+## benchmark
+* http://www.timmitchell.com/software/betaRMP/
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
