@@ -29,17 +29,24 @@
   defined in (3.3).
 
 ## the wolfe conditions
+* the curvature condition ensures that the slope of $\phi$ at
+  $\alpha_k$ is greater than $c_2$ times the initial slope $\phi(0)$
 * the wolfe conditions consists of
   * the sufficient decrease (Armijo) condition, equ (3.7a)
   * curvature conditions, equ (3.7b)
 * strong Wolfe conditions (cf regular/weak Wolfe condition)
   * modify the curvature condition to force αk to lie in at least a broad neighborhood of
-    a local minimizer or stationary point of φ.
+    a local minimizer or stationary point of $\phi$.
   * no longer allow the derivative $\phi'(\alpha_k)$ to be too positive.
-    * Hence, we exclude points that are far from stationary points of φ
+    * Hence, we exclude points that are far from stationary points of $\phi$
 * the wolfe conditions are scale-invariant in a broad sense:
   * multiplying the objective function by a constant or
     making an affine change of variables does not alter them
+* In practice, $c_1$ is chosen to be quite small, say
+  * $c_1 = 10^{-4}
+* Typical values of $c_2$ are
+  * 0.9 when the search direction pk is chosen by a Newton or quasi-Newton method, and
+  * 0.1 when pk is obtained from a nonlinear conjugate gradient method.
 
 ## the goldstein conditions
 * often used in Newton-type methods
