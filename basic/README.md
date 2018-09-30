@@ -3,6 +3,8 @@
 # Book
 * G. H. Golub and C. F. Van Loan, Matrix Computations, Baltimore, MD, Johns Hopkins University Press
 * Lectures on Probability Theory and Mathematical Statistics, Marco Taboga
+* Jan R. Magnus, Heinz Neudecker-Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition-Wiley (2007)
+* http://matrixcookbook.com
 
 # Course
 * https://www.khanacademy.org/math/multivariable-calculus

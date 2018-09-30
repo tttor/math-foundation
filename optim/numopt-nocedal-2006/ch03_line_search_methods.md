@@ -50,8 +50,8 @@
 * backtracking approach:
   * can dispense with the extra condition (3.6b) and
   * use just the sufficient decrease condition to terminate the line search procedure
-* well suited for Newton methods
-  * but is less appropriate for quasi-Newton and conjugate gradient methods.
+* WELL SUITED for Newton methods
+  * but is LESS APPROPRIATE for quasi-Newton and conjugate gradient methods.
 
 # 3.2 convergence of line search methods
 TODO

@@ -30,3 +30,7 @@
   * Thus, we arrive at recurrent method
     * $x_{k+1} = x_k - {F'(x_k)}^{-1} F(x_k)$
     * $k = 0, 1, \ldots$
+
+## 7. Unconstrained optimization
+Assuming that f is twice differentiable, we can get
+Newton’s method for minimization by TWO different approaches.
