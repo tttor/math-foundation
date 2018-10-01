@@ -75,6 +75,7 @@ See also:
   * https://github.com/optimizers/cutest-mirror
   * https://link.springer.com/article/10.1007/s10589-014-9687-3
   * https://github.com/kenjydem/CUTEST.py
+  * https://jfowkes.github.io/pycutest/_build/html/index.html
 
 ## benchmark
 * http://www.timmitchell.com/software/betaRMP/
