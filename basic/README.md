@@ -19,6 +19,8 @@
 * Big-O Notation, $O(\cdot)$
 * https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language
 * https://math.stackexchange.com/questions/337090/if-f-is-strictly-convex-in-a-convex-set-show-it-has-no-more-than-1-minimum
+* https://math.stackexchange.com/questions/395944/proof-on-showing-function-f-in-c1-on-an-open-convex-set-u-subset-mathbb
+  * $ f \in C^k$ means all partial derivatives up to (and including) order $k$ exist and continuous.
 
 ## positive definite matrix
 * https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite
