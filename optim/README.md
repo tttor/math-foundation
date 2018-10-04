@@ -46,6 +46,7 @@ See also:
 * https://github.com/BRML/climin
 * https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
+* https://web.stanford.edu/group/SOL/software.html
 
 # Misc
 * http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
