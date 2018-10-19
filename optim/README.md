@@ -23,6 +23,7 @@ See also:
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
 * Trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
+* Introductory Lectures on Convex Optimization: A Basic Course, Yurii Nesterov
 
 # Course, workshop, tutorial
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
