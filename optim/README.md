@@ -72,6 +72,9 @@ See also:
   * An optimization problem that violates **either one** of these conditions, i.e.,
     one that has a non-convex objective, or a non-convex constraint set, or both, is called a non-convex optimization problem.
 
+## non-smooth optimization
+* https://www.cs.ubc.ca/labs/lci/mlrg/slides/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+
 ## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
 * https://www.sfu.ca/~ssurjano/optimization.html
@@ -86,6 +89,7 @@ See also:
 
 ## benchmark
 * http://www.timmitchell.com/software/betaRMP/
+
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
