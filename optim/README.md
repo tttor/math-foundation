@@ -33,6 +33,7 @@ See also:
 * https://web.stanford.edu/class/ee364a/
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
+* http://videolectures.net/deeplearning2015_schmidt_smooth_finite/
 
 # Tool
 ## autograd, autodiff
@@ -74,6 +75,8 @@ See also:
 
 ## non-smooth optimization
 * https://www.cs.ubc.ca/labs/lci/mlrg/slides/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+* http://www.iro.umontreal.ca/~memisevr/dlss2015/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+* http://videolectures.net/deeplearning2015_schmidt_nonsmooth_nonfinite/
 
 ## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
