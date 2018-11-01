@@ -12,6 +12,9 @@
 * https://www.statlect.com/
 * https://stattrek.com/
 
+# Tool
+* https://www.desmos.com
+
 # Misc
 * Taylor series, theorem
 * eigen value, eigen vector
