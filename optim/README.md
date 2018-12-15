@@ -72,6 +72,7 @@ See also:
     **as well as** the constraint set is a convex set.
   * An optimization problem that violates **either one** of these conditions, i.e.,
     one that has a non-convex objective, or a non-convex constraint set, or both, is called a non-convex optimization problem.
+* https://stats.stackexchange.com/questions/228874/why-use-m-k-to-approximate-f-k-in-trust-region-method-for-optimization
 
 ## non-smooth optimization
 * https://www.cs.ubc.ca/labs/lci/mlrg/slides/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
