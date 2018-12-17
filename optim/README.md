@@ -26,11 +26,12 @@ See also:
 * Introductory Lectures on Convex Optimization: A Basic Course, Yurii Nesterov
 
 # Course, workshop, tutorial
+* http://people.seas.harvard.edu/~yaron/AM221-S16/index.html
+* https://web.stanford.edu/class/ee364a/
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
 > Mathematical optimization is very... mathematical. If you want performance, it really pays to read the books.
-* https://web.stanford.edu/class/ee364a/
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 * http://videolectures.net/deeplearning2015_schmidt_smooth_finite/
