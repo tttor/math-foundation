@@ -102,3 +102,7 @@ See also:
 * http://learning.eng.cam.ac.uk/carl/code/minimize/
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
 * http://people.cs.vt.edu/~asandu/Public/Qual2011/Optim/Hager_2006_CG-survey.pdf
+
+## steepest descent
+* https://people.seas.harvard.edu/~yaron/AM221-S16/lecture_notes/AM221_lecture10.pdf
+
