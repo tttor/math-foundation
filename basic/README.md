@@ -5,6 +5,7 @@
 * Lectures on Probability Theory and Mathematical Statistics, Marco Taboga
 * Jan R. Magnus, Heinz Neudecker-Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition-Wiley (2007)
 * http://matrixcookbook.com
+* Applied Mathematics: Body and Soul; K. Eriksson, D. Estep, C. Johnson
 
 # Course
 * https://www.khanacademy.org/math/multivariable-calculus
@@ -21,6 +22,9 @@
 * https://math.stackexchange.com/questions/337090/if-f-is-strictly-convex-in-a-convex-set-show-it-has-no-more-than-1-minimum
 * https://math.stackexchange.com/questions/395944/proof-on-showing-function-f-in-c1-on-an-open-convex-set-u-subset-mathbb
   * $ f \in C^k$ means all partial derivatives up to (and including) order $k$ exist and continuous.
+* Mathematical definition of curvature
+  * Characterization of a fracture zone using seismic attributes at the In Salah CO2 storage project;
+    Rui Zhang et al; DOI: 10.1190/INT-2014-0141.1
 
 ## positive definite matrix
 * https://math.stackexchange.com/questions/2523985/question-about-for-all-symmetric-matrix-and-positive-definite
@@ -38,12 +42,11 @@
 * https://mathinsight.org/chain_rule_refresher
 * https://en.wikipedia.org/wiki/Differentiation_rules
 
-Let $\phi: \mathbb{R} \mapsto \mathbb{R}$ be a univariate fn: a real value fn of a real variable.
+<!-- Let $\phi: \mathbb{R} \mapsto \mathbb{R}$ be a univariate fn: a real value fn of a real variable.
 
 Then the first derivative is defined as:</br>
 $\frac{d \phi}{d \alpha} = \phi'(\alpha) = \lim_{\epsilon \mapsto 0} \frac{\phi(\alpha + \epsilon) - \phi(\alpha)}{\epsilon}$
 
 And the second derivative is: </br>
 $\frac{d^2 \phi}{d \alpha^2} = \phi''(\alpha) = \lim_{\epsilon \mapsto 0} \frac{\phi'(\alpha + \epsilon) - \phi'(\alpha)}{\epsilon}$
-
-
+ -->
