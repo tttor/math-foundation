@@ -23,15 +23,18 @@ See also:
   * https://onlinelibrary-wiley-com.ezproxy.library.uq.edu.au/doi/pdf/10.1002/9781118723203
 * Trust region methods, Andrew R. Conn , Nicholas I. M. Gould and Philippe L. Toint
   * https://epubs.siam.org/doi/book/10.1137/1.9780898719857
+* Introductory Lectures on Convex Optimization: A Basic Course, Yurii Nesterov
 
 # Course, workshop, tutorial
+* http://people.seas.harvard.edu/~yaron/AM221-S16/index.html
+* https://web.stanford.edu/class/ee364a/
 * https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Optimization/
 * https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 * https://www.scipy-lectures.org/advanced/mathematical_optimization/
 > Mathematical optimization is very... mathematical. If you want performance, it really pays to read the books.
-* https://web.stanford.edu/class/ee364a/
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
+* http://videolectures.net/deeplearning2015_schmidt_smooth_finite/
 
 # Tool
 ## autograd, autodiff
@@ -46,6 +49,7 @@ See also:
 * https://github.com/BRML/climin
 * https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html
 * https://cs.nyu.edu/faculty/overton/software/nlcg/index.html
+* https://web.stanford.edu/group/SOL/software.html
 
 # Misc
 * http://math.gmu.edu/~igriva/book/Appendix%20D.pdf # Least squares
@@ -69,6 +73,12 @@ See also:
     **as well as** the constraint set is a convex set.
   * An optimization problem that violates **either one** of these conditions, i.e.,
     one that has a non-convex objective, or a non-convex constraint set, or both, is called a non-convex optimization problem.
+* https://stats.stackexchange.com/questions/228874/why-use-m-k-to-approximate-f-k-in-trust-region-method-for-optimization
+
+## non-smooth optimization
+* https://www.cs.ubc.ca/labs/lci/mlrg/slides/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+* http://www.iro.umontreal.ca/~memisevr/dlss2015/2015_DLSS_NonSmoothNonFiniteNonConvex.pdf
+* http://videolectures.net/deeplearning2015_schmidt_nonsmooth_nonfinite/
 
 ## test function
 * https://en.wikipedia.org/wiki/Test_functions_for_optimization
@@ -84,6 +94,7 @@ See also:
 
 ## benchmark
 * http://www.timmitchell.com/software/betaRMP/
+
 ## conjugate gradient (CG)
 * https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf
 * http://ikuz.eu/2015/04/15/the-concept-of-conjugate-gradient-descent-in-python/
@@ -92,3 +103,7 @@ See also:
 * http://learning.eng.cam.ac.uk/carl/code/minimize/
 * http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient
 * http://people.cs.vt.edu/~asandu/Public/Qual2011/Optim/Hager_2006_CG-survey.pdf
+
+## steepest descent
+* https://people.seas.harvard.edu/~yaron/AM221-S16/lecture_notes/AM221_lecture10.pdf
+

@@ -9,9 +9,14 @@
 
 # Course
 * https://www.khanacademy.org/math/multivariable-calculus
+* https://www.3blue1brown.com/
 * https://github.com/fastai/numerical-linear-algebra
 * https://www.statlect.com/
 * https://stattrek.com/
+
+# Tool
+* https://www.desmos.com
+* https://www.derivative-calculator.net/
 
 # Misc
 * Taylor series, theorem
