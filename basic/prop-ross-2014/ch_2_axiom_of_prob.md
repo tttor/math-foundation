@@ -39,4 +39,40 @@
   * Also recall the DeMorgan's laws
 
 # 2.3 Axioms of probability
+* Relative frequency definition of probability
+  * For each event $E$ of the sample space $S$, we define $n(E)$ to be the number of times
+    in the first $n$ repetitions of the experiment that the event $E$ occurs
+    * Then $P(E)$, the probability of the event $E$, is defined as
+      * $P(E) = \lim_{n \to \infty} \frac{n(E)}{n}$
+  * Rely on an assumption or axiom of the system that
+    $n(E)/n$ will necessarily converge to some constant value
+    * but, it does not seem to be a priori evident that this need to be the case
+    * therefore, we should have more reasonable assumptions that are more self-evident,
+      then attempt to prove that such constant frequency does exist
+* Assume that, for each event $E$ in the sample space $S$,
+  there exists a value of $P(E)$, referred to as the probability of $E$
+  * further assume that all these probabilities satisfy a certain set of axioms
+  * when the sample space is an uncountably infinite set,
+    $P(E)$ is defined only for a class of events called measurable
+* Three axioms of probability
+  * Axiom 1: $0 \le P(E) \le 1$
+    * that the probability that the outcome of the experiment is an outcome in $E$
+      is some number between $0$ and $1$
+  * Axiom 2: $P(S) = 1$
+    * that with probability 1, the outcome will be a point in the sample space $S$
+  * Axiom 3: For any sequence of mutually exclusive events $E_1, E_2, \ldots.
+    That is, events for which $Ei$j = \emptyset when i \ne j$,
+    * $P\Big( \bigcup_{i=1}^\infty E)i \Big) = \sum_{i=1}^\infty P(E_i)$
+    * that for any sequence of mutually exclusive events,
+      the probability of at least one of these events occuring is just the sum of their respective probabilities
+* If a die is rolled and we suppose that all six sides are equally to appear,
+  then we would have $P(\{1\}) = P(\{2\}) = ... = P(\{6\}) = \frac{1}{6}$.
+  * From axiom 3, the probability of rolling an even number would equal
+    * $P( \{ 2, 4, 6 \}) = P(\{2\}) + P(\{4\}) + P(\{6\}) = 3 \frac{1}{6} = \frac{1}{2}$
+* The strong law of large numbers:
+  * that if an experiment is repeated over and over again, then,
+    with probability 1, the proportion of time during which any specific event $E$ occurs will equal $P(E)$
+
+# 2.4 Some simple proportions
 TODO
+
