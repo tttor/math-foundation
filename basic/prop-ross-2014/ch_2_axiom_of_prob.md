@@ -74,5 +74,11 @@
     with probability 1, the proportion of time during which any specific event $E$ occurs will equal $P(E)$
 
 # 2.4 Some simple proportions
-TODO
-
+* Proposition 4.1:
+  * P(E^c) = 1 - P(E)
+* Proposition 4.2:
+  * If $E \subset F$, then $P(E) \le P(F)$.
+  * Eg: the probability of rolling a 1 with a die is less than or equal to
+    the probability of rolling an odd value with the die
+* Proposition 4.3
+  * $P(E \cup F) = P(E) + P(F) - P(EF)$
