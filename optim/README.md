@@ -35,6 +35,8 @@ See also:
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/quadratic-approximation
 * https://github.com/llSourcell/Second_Order_Optimization_Newtons_Method
 * http://videolectures.net/deeplearning2015_schmidt_smooth_finite/
+* Sebastien Bubeck: Five Miracles of Mirror Descent
+  * https://www.youtube.com/watch?v=5DIZCxcfeWU
 
 # Tool
 ## autograd, autodiff
