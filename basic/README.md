@@ -17,6 +17,7 @@
 # Tool
 * https://www.desmos.com
 * https://www.derivative-calculator.net/
+* https://www.geogebra.org/classic/3d
 
 # Misc
 * Taylor series, theorem
