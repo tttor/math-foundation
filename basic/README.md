@@ -15,9 +15,11 @@
 * https://stattrek.com/
 
 # Tool
-* https://www.desmos.com
 * https://www.derivative-calculator.net/
-* https://www.geogebra.org/classic/3d
+* Visualization
+  * https://www.desmos.com
+  * https://www.geogebra.org/classic/3d
+  * https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/
 
 # Misc
 * Taylor series, theorem
