@@ -6,3 +6,6 @@ See also:
 * https://github.com/tttor/rl-foundation
 * https://github.com/tttor/ml-foundation
 * https://github.com/tttor/robot-foundation
+
+## related sources
+* https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
