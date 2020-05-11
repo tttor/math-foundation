@@ -11,3 +11,4 @@ See also:
 * https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
 * https://projecteuler.net/
 * https://brilliant.org/
+* The Map of Mathematics https://www.youtube.com/watch?v=OmJ-4B-mS-Y
