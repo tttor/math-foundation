@@ -10,3 +10,4 @@ See also:
 ## related sources
 * https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
 * https://projecteuler.net/
+* https://brilliant.org/
