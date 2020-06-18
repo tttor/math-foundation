@@ -13,3 +13,4 @@ See also:
 * https://brilliant.org/
 * The Map of Mathematics https://www.youtube.com/watch?v=OmJ-4B-mS-Y
 * https://www.math.ubc.ca/Links/OOPS/
+* https://www.ias.edu/event-series/special-year-seminar-math
