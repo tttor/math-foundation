@@ -7,6 +7,7 @@ dlist[3]=stat-prob/ebook
 dlist[4]=stat-prob/ecourse
 dlist[5]=zmisc/etalk
 dlist[6]=zmisc/ebook
+dlist[7]=zmisc/ecourse
 
 for dir in "${dlist[@]}"
 do
