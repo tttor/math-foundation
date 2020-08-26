@@ -1,0 +1,125 @@
+/home/tor/rsc/math-foundation/stat-prob/ebook:
+0696207_2982C_corder_g_w_foreman_d_i_nonparametric_statistic.pdf
+1995_Book_TheoryOfStatistics.pdf
+2000_Book_ComputationalProbability.pdf
+2003_Book_MathematicalStatistics.pdf
+2010_Book_FundamentalsOfProbabilityAFirs.pdf
+2011_Book_ProbabilityForStatisticsAndMac.pdf
+A FIRST COURSE IN PROBABILITY.pdf
+(Applications of Mathematics 22) Albert Benveniste, Michel Métivier, Pierre Priouret (auth.) - Adaptive Algorithms and Stochastic Approximations-Springer-Verlag Berlin Heidelberg (1990).pdf
+(Applied Mathematical Sciences 194) Shun-ichi Amari (auth.) - Information Geometry and Its Applications-Springer Japan (2016).pdf
+Athanasios Papoulis, S. Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes-McGraw-Hill Europe (2002).pdf
+Athanasios Papoulis - Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes  -McGraw-Hill Europe (2002).pdf
+Bryan F.J. Manly, Jorge A. Navarro Alberto - Multivariate Statistical Methods_ A Primer-Chapman and Hall_CRC (2016).pdf
+Bryan F.J. Manly_ Jorge A Navarro Alberto - Multivariate Statistical Methods_ A Primer, Fourth Edition-CRC Press (2017).pdf
+(Cambridge Monographs on Applied and Computational Mathematics) Sumio Watanabe - Algebraic Geometry and Statistical Learning Theory-Cambridge University Press (2009).pdf
+(Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin-Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
+Charles M Grinstead_ J  Laurie Snell  - Introduction to probability-American Mathematical Society (1997).pdf
+Charles M. Grinstead, J. Laurie Snell - Introduction to Probability-American Mathematical Society (1997).pdf
+Charles M. Grinstead, J. Laurie Snell - Introduction to Probability_ Second Revised Edition-American Mathematical Society (2012).pdf
+Christopher Chatfield (auth.) - Problem Solving_ A Statistician’s Guide-Springer US (1988).pdf
+David Spiegelhalter - Learning from Data_ The Art of Statistics-Pelican (2019).epub
+David Stirzaker-Probability and Random Variables_ A Beginner's Guide-Cambridge University Press (1999).pdf
+Derek Rowntree - Statistics Without Tears_ A Primer for Non Mathematicians-MacMillan Publishing Company (1981).pdf
+Derek Rowntree - Statistics Without Tears_ A Primer for Non-mathematicians-Scribner (1982).djvu
+Dimitri P. Bertsekas and John N. Tsitsiklis-Introduction to Probability  -Athena Scientific (2002).pdf
+Douglas C. Montgomery - Design and Analysis of Experiments-Wiley (2017).pdf
+E. L. Lehmann (auth.) - Theory of Point Estimation-Springer New York (1983).pdf
+Experimental Design and Analysis Howard J. Seltman.pdf
+George Casella, Roger L. Berger - Statistical Inference-Duxbury Press (2001).pdf
+Grimmett G., Stirzaker D. - Probability and Random Processes (2001).djvu
+Grimmett&Stirzaker--Probability and Random Processes  Third Ed(2001).pdf
+Introduction to Probability, 2nd Edition-Athena Scientific (2008).pdf
+Jaynes 2003 - Probability Theory.pdf
+Judea Pearl, Dana Mackenzie - The book of why_ the new science of cause and effect-Basic Books (2018).pdf
+(Kendall's Advanced Theory of Statistics 1) Kendall M.G. - The advanced theory of statistics. Volume 1-Charles Griffin & Company (1945).djvu
+LIST.txt
+Manly, Bryan F.J - Multivariate Statistical Methods _ A Primer, Third Edition-CRC Press (2004).pdf
+M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
+M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
+misc
+monte-carlo
+Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018).epub
+pollard1984.pdf
+Probability_and_Computing.pdf
+(Probability and Statistics 125) Robert E. Kass, Paul W. Vos - Geometrical Foundations of Asymptotic Inference  -Wiley-Interscience (1997).pdf
+prob-metric
+schaums-probability.pdf
+Scott Miller, Donald Childers - Probability and random processes_ with applications to signal processing and communications-Elsevier Academic Press (2004).pdf
+seeing-theory.pdf
+Sheldon Ross-A First Course in Probability-Pearson (2012).djvu
+Sheldon Ross-A First Course in Probability-Pearson (2014).djvu
+Solomon Kullback - Information Theory and Statistics  -Dover Publications (1968).pdf
+(Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (1998).pdf
+(Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (2003).pdf
+stochastic-approx
+(Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models, General Concepts, Estimation, Prediction and Algorithms. Volume 1-Cambridge University Press (1995).pdf
+(Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models. Volume 2-Cambridge University Press (1996).pdf
+(Translations of mathematical monographs 191) Shun-Ichi Amari, Hiroshi Nagaoka - Methods of information geometry-American Mathematical Society (2000).djvu
+(Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
+(Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
+xprmt-design
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/misc:
+Advanced_Probability_or_Cosma_Shalizi.pdf
+entropypost.pdf
+fisher.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/monte-carlo:
+book
+mcmc
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/monte-carlo/book:
+Cochran_1977_Sampling Techniques.pdf
+Dirk P. Kroese, Thomas Taimre, Zdravko I. Botev-Handbook of Monte Carlo Methods (Wiley Series in Probability and Statistics)-Wiley (2011).pdf
+Dr. Rajan Srinivasan (auth.) - Importance Sampling_ Applications in Communications and Detection-Springer-Verlag Berlin Heidelberg (2002).pdf
+mccourse.pdf
+(Oxford statistical science series 20) Michael Evans, Tim Swartz-Approximating integrals via Monte Carlo and deterministic methods-Oxford University Press (2000).djvu
+Sheldon M. Ross-Simulation, Fifth Edition-Academic Press (2012).pdf
+(Springer Texts in Statistics) Christian Robert, George Casella - Monte Carlo Statistical Methods-Springer (2004).djvu
+William G. Cochran - Sampling Techniques, Third Edition (1977).djvu
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/monte-carlo/mcmc:
+AndrieuFreitasDoucetJordan2003.pdf
+HandbookChapter1.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/prob-metric:
+10.1.1.141.1698.pdf
+Adell-Jodrá2006_Article_ExactKolmogorovAndTotalVariati.pdf
+closeness-soda.pdf
+Gil_Manuel_201108_MSc.pdf
+(Statistics, textbooks and monographs 185) Leandro Pardo - Statistical inference based on divergence measures-Chapman & Hall_CRC (2006).pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/stochastic-approx:
+2008_Book_StochasticApproximation.pdf
+2015_Book_Handbook of Simulation Optimization.pdf
+3448398.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design:
+2003_Book_TheDesignAndAnalysisOfComputer.pdf
+2005_Book_TestingStatisticalHypotheses.pdf
+2008_Book_DesignAndAnalysisOfSimulationE.pdf
+2017_Book_DesignAndAnalysisOfExperiments.pdf
+2018_Book_IntroductionToStatisticalMetho.pdf
+40007_Chapter8.pdf
+A First Course in Design and Analysis of Experiments.pdf
+(Chapman & Hall_CRC handbooks of modern statistical methods) Bingham, Derek_ Dean, Angela_ Morris, Max_ Stufken, John - Handbook of design and analysis of experiments-CRC Press (2015).pdf
+(Computers) Joseph Schmuller - Statistical Analysis with R For Dummies (For Dummies-For Dummies (2017).pdf
+Design and Analysis of Experiments with R.pdf
+Dirk Taeger, Sonja Kuhnt - Statistical Hypothesis Testing With SAS And R-Wiley&Sons (2014).pdf
+Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
+George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimenters_ Design, Innovation, and Discovery, Second Edition (2005).pdf
+misc
+N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
+One-Factor-at-a-Time Versus Designed Experiments.pdf
+R Companion to Montgomery MDAE.pdf
+RHandbookProgramEvaluation.pdf
+Scott E. Maxwell, Harold D. Delaney, Ken Kelley - Designing Experiments and Analyzing Data_ A Model Comparison Perspective-Routledge (2017).pdf
+Statistical Hypothesis Testing with SAS and R.pdf
+(Statistical Modeling and Decision Science) Rand Wilcox - Introduction to Robust Estimation and Hypothesis Testing-Academic Press (2017).pdf
+Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypothesis Testing_ Rank and Permutation Methods with Applications in R-Wiley (.pdf
+(Wiley Series in Probability and Statistics) Klaus Hinkelmann, Oscar Kempthorne(auth.) - Design and Analysis of Experiments_ Introduction to Experimental Design, Volume 1, Second Edition (2008).pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/misc:
+07_experimental-design.pdf
+Experiments.ppt

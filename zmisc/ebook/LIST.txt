@@ -1,0 +1,53 @@
+/home/tor/rsc/math-foundation/zmisc/ebook:
+10.1007%2F978-1-4615-6103-3.pdf
+1992_Book_BreakthroughsInStatistics.pdf
+2000_Book_IntroductionToQuadraticForms.pdf
+2002_Book_IntroductionToNumericalAnalysi.pdf
+2004_Book_AppliedMathematicsBodyAndSoul_vol1.pdf
+2004_Book_AppliedMathematicsBodyAndSoul_vol2.pdf
+2013_Book_AnIntroductionToStatisticalLea.pdf
+(2nd Edition) (Featured Titles for Numerical Analysis) Timothy Sauer-Numerical Analysis-Pearson (2011).pdf
+(AMS MBK #107) David A. Levin, Yuval Peres, Elizabeth L. Wilmer-Markov Chains and Mixing Times-American Mathematical Society (2017).pdf
+Andrew J. Vickers-What is a p-value anyway_ 34 Stories to Help You Actually Understand Statistics-Addison Wesley (2009).pdf
+asitp.pdf
+book-20659.pdf
+(Computational Science and Engineering) Uri M. Ascher, Chen Greif-A First Course in Numerical Methods-Society for Industrial & Applied Mathematics (2011).pdf
+David Alexander Brannan - A First Course in Mathematical Analysis-Cambridge University Press (2006).pdf
+David Alexander Brannan - A first course of mathematical analysis-Cambridge University Press (2006).pdf
+David Applebaum - Limits, Limits Everywhere_ The Tools of Mathematical Analysis-Oxford University Press, USA (2012).pdf
+Dennis S. Bernstein-Matrix Mathematics_ Theory, Facts, and Formulas_ Second Edition-Princeton University Press (2009).pdf
+Derek Rowntree-Statistics without tears _ a primer for non-mathematicians-Scribner  (1981).pdf
+Dr. Jeremy Kun - A Programmer’s Introduction to Mathematics-CreateSpace Independent Publishing Platform (2018).pdf
+Dr. Jeremy Kun-A Programmer’s Introduction to Mathematics-CreateSpace Independent Publishing Platform (2018).pdf
+entropypost.pdf
+firstsixbooksofe00eucl.pdf
+functions_graphs.pdf
+Giuseppe C. Calafiore, Laurent El Ghaoui-Optimization Models-Cambridge University Press (2014).pdf
+Heath - Thirteen Books of Euclid's Elements. Books III-IX. Volume 2-Cambridge.pdf
+Heath - Thirteen Books of Euclid's Elements. Books I-II. Volume 1-Cambridge.pdf
+Heath - Thirteen Books of Euclid's Elements. Books X-XIII. Volume 3-Cambridge.pdf
+Heath T.L. (ed.) - Thirteen Books of Euclid's Elements. Volume 3 (2008).djvu
+Jan R. Magnus, Heinz Neudecker-Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition-Wiley (2007).pdf
+(Johns Hopkins Studies in the Mathematical Sciences) Gene H. Golub, Charles F. Van Loan-Matrix Computations-Johns Hopkins University Press (2012).pdf
+K. F. Riley, M. P. Hobson, S. J. Bence-Mathematical methods for physics and engineering-Cambridge University Press (2006).pdf
+Lindvall T. - Lectures on the Coupling Method.pdf
+LIST.txt
+Marco Taboga-Lectures on Probability Theory and Mathematical Statistics-CreateSpace Independent Publishing Platform (2012).pdf
+math-basics_JeanGallierandJocelynQuaintance.pdf
+matrixcookbook.pdf
+Michael Spivak-Calculus On Manifolds_ A Modern Approach To Classical Theorems Of Advanced Calculus-Westview Press_CRC Press (2018).pdf
+numerical_recipes.pdf
+Paul D. Ellis-The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analysis, and the Interpretation of Research Results-Cambridge University Press (2010).pdf
+(Probability and Its Applications) Hermann Thorisson-Coupling, Stationarity, and Regeneration-Springer (2000).djvu
+probabilitytutorial.pdf
+Roger A. Horn, Charles R. Johnson-Matrix Analysis-Cambridge University Press (2013).pdf
+Spivak, Michael-Calculus-Publish or Perish (2008).djvu
+Terence Tao - Solving Mathematical Problems_ A Personal Perspective-Oxford University Press, USA (2006).pdf
+Terence Tao-Solving Mathematical Problems_ A Personal Perspective-Oxford University Press, USA (2006).pdf
+The Math Book Big Ideas Simply Explained by Dk (z-lib.org).pdf
+Tom M. Apostol-Mathematical Analysis, Second Edition-Addison Wesley (1974).pdf
+(Volume 1) Richard P. Feynman, Robert B. Leighton, Matthew Sands-The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat-Basic Books (2011).pdf
+Walter Rudin-Principles of Mathematical Analysis, Third Edition-McGraw-Hill Science Engineering Math (1976).pdf
+Wilfred Kaplan-Advanced Calculus-Addison Wesley (2002).pdf
+William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery - Numerical Recipes_ The Art of Scientific Computing-Cambridge University Press (2007) (1).pdf
+William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery - Numerical recipes_ the art of scientific computing-Cambridge University Press (2007).pdf

@@ -3,8 +3,8 @@ rootdir=/home/tor/rsc/math-foundation
 dlist[0]=algebra/ebook
 dlist[1]=calculus/ebook
 dlist[2]=optim/ebook
-dlist[3]=stat-prop/ebook
-dlist[4]=stat-prop/ecourse
+dlist[3]=stat-prob/ebook
+dlist[4]=stat-prob/ecourse
 dlist[5]=talk/etalk
 dlist[6]=zmisc/ebook
 
