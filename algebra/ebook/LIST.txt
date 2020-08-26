@@ -1,0 +1,17 @@
+/home/tor/rsc/math-foundation/algebra/ebook:
+James W. Demmel-Applied numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
+James W. Demmel-Applied Numerical Linear Algebra-Society for Industrial and Applied Mathematics (1997).pdf
+LIST.txt
+Lloyd N. Trefethen, David Bau III-Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
+matrix
+misc
+Stephen Boyd, Lieven Vandenberghe - Introduction to Applied Linear Algebra_ Vectors, Matrices, and Least Squares-Cambridge University Press (2018).pdf
+vmls.pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/matrix:
+definiteness.pdf
+MIT18_06SCF11_Ses3.3sum.pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/misc:
+Introduction to the square root of a 2 by 2 matrix.pdf
+sigma.pdf
