@@ -1,4 +1,4 @@
-/home/tor/rsc/math-foundation/talk/etalk:
+/home/tor/rsc/math-foundation/zmisc/etalk:
 Chern Medal — Masaki Kashiwara.mp4
 Convex Optimization V Sebastien Bubeck Microsoft Research - .mp4
 DeepMind x UCL Deep Learning Lectures 512 Optimization for Machine Learning.mp4
