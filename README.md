@@ -6,3 +6,4 @@ See also:
 * https://github.com/tttor/rl-foundation
 * https://github.com/tttor/ml-foundation
 * https://github.com/tttor/robot-foundation
+* The Map of Mathematics: https://www.youtube.com/watch?v=OmJ-4B-mS-Y
