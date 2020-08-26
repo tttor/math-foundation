@@ -103,6 +103,7 @@ Gil_Manuel_201108_MSc.pdf
 2018_Book_IntroductionToStatisticalMetho.pdf
 40007_Chapter8.pdf
 A First Course in Design and Analysis of Experiments.pdf
+Alexander Forrester, Andras Sobester, Andy Keane - Engineering Design via Surrogate Modelling_ A Practical Guide-Wiley (2008).pdf
 (Chapman & Hall_CRC handbooks of modern statistical methods) Bingham, Derek_ Dean, Angela_ Morris, Max_ Stufken, John - Handbook of design and analysis of experiments-CRC Press (2015).pdf
 (Computers) Joseph Schmuller - Statistical Analysis with R For Dummies (For Dummies-For Dummies (2017).pdf
 Design and Analysis of Experiments with R.pdf
