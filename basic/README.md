@@ -6,7 +6,9 @@
 * Jan R. Magnus, Heinz Neudecker-Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition-Wiley (2007)
 * http://matrixcookbook.com
 * Applied Mathematics: Body and Soul; K. Eriksson, D. Estep, C. Johnson
-
+* Concrete Mathematics: A Foundation for Computer Science
+  L. Graham, Ronald (Contributor), E. Knuth, Donald (Contributor), Oren Patashnik (Contributor)
+  
 # Course
 * https://www.khanacademy.org/math/multivariable-calculus
 * https://www.3blue1brown.com/
