@@ -5,7 +5,7 @@ dlist[1]=calculus/ebook
 dlist[2]=optim/ebook
 dlist[3]=stat-prob/ebook
 dlist[4]=stat-prob/ecourse
-dlist[5]=talk/etalk
+dlist[5]=zmisc/etalk
 dlist[6]=zmisc/ebook
 
 for dir in "${dlist[@]}"
