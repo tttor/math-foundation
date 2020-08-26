@@ -2,7 +2,7 @@
 #git remote add upstream git@github.com:tttor/math-foundation.git
 
 echo '=== comitting ==='
-git pull origin master
+git pull upstream master
 bash list.sh
 
 git add --all
