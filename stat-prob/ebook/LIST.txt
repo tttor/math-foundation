@@ -111,12 +111,14 @@ Design and Analysis of Experiments with R.pdf
 Dirk Taeger, Sonja Kuhnt - Statistical Hypothesis Testing With SAS And R-Wiley&Sons (2014).pdf
 Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
 George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimenters_ Design, Innovation, and Discovery, Second Edition (2005).pdf
+Jacob Cohen - Statistical Power Analysis for the Behavioral Sciences-Routledge (1988).pdf
 Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
 misc
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
 R Companion to Montgomery MDAE.pdf
 RHandbookProgramEvaluation.pdf
+Robert I. Kabacoff - R in Action, 2nd Edition_ Data analysis and graphics with R-Manning (2015).pdf
 Scott E. Maxwell, Harold D. Delaney, Ken Kelley - Designing Experiments and Analyzing Data_ A Model Comparison Perspective-Routledge (2017).pdf
 Statistical Hypothesis Testing with SAS and R.pdf
 (Statistical Modeling and Decision Science) Rand Wilcox - Introduction to Robust Estimation and Hypothesis Testing-Academic Press (2017).pdf
