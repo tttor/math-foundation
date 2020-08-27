@@ -99,6 +99,7 @@ Gil_Manuel_201108_MSc.pdf
 2003_Book_TheDesignAndAnalysisOfComputer.pdf
 2005_Book_TestingStatisticalHypotheses.pdf
 2008_Book_DesignAndAnalysisOfSimulationE.pdf
+2015_Book_DesignAndAnalysisOfSimulationE.pdf
 2017_Book_DesignAndAnalysisOfExperiments.pdf
 2018_Book_IntroductionToStatisticalMetho.pdf
 40007_Chapter8.pdf
@@ -110,6 +111,7 @@ Design and Analysis of Experiments with R.pdf
 Dirk Taeger, Sonja Kuhnt - Statistical Hypothesis Testing With SAS And R-Wiley&Sons (2014).pdf
 Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
 George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimenters_ Design, Innovation, and Discovery, Second Edition (2005).pdf
+Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
 misc
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
