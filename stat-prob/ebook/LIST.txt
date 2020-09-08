@@ -109,6 +109,7 @@ A First Course in Design and Analysis of Experiments.pdf
 Alexander Forrester, Andras Sobester, Andy Keane - Engineering Design via Surrogate Modelling_ A Practical Guide-Wiley (2008).pdf
 (Chapman & Hall_CRC handbooks of modern statistical methods) Bingham, Derek_ Dean, Angela_ Morris, Max_ Stufken, John - Handbook of design and analysis of experiments-CRC Press (2015).pdf
 (Computers) Joseph Schmuller - Statistical Analysis with R For Dummies (For Dummies-For Dummies (2017).pdf
+David J. Sheskin - Handbook Of Parametric And Nonparametric Statistical Procedures-CRC Press_Taylor & Francis Group (2011).pdf
 Design and Analysis of Experiments with R.pdf
 Dirk Taeger, Sonja Kuhnt - Statistical Hypothesis Testing With SAS And R-Wiley&Sons (2014).pdf
 Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
@@ -119,6 +120,7 @@ Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experi
 misc
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
+Paul D. Ellis - The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analysis, and the Interpretation of Research Results-Cambridge University Press (2010).pdf
 R Companion to Montgomery MDAE.pdf
 RHandbookProgramEvaluation.pdf
 Robert I. Kabacoff - R in Action, 2nd Edition_ Data analysis and graphics with R-Manning (2015).pdf
