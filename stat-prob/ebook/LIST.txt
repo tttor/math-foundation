@@ -98,6 +98,7 @@ Gil_Manuel_201108_MSc.pdf
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design:
 2003_Book_TheDesignAndAnalysisOfComputer.pdf
 2005_Book_TestingStatisticalHypotheses.pdf
+2006_Book_ExperimentalResearchInEvolutio.pdf
 2008_Book_DesignAndAnalysisOfSimulationE.pdf
 2015_Book_DesignAndAnalysisOfSimulationE.pdf
 2016_Book_IntroductionToNonparametricSta.pdf
