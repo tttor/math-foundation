@@ -96,6 +96,7 @@ Gil_Manuel_201108_MSc.pdf
 3448398.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design:
+2002_Book_ExperimentalAlgorithmics.pdf
 2003_Book_TheDesignAndAnalysisOfComputer.pdf
 2005_Book_TestingStatisticalHypotheses.pdf
 2006_Book_ExperimentalResearchInEvolutio.pdf
@@ -108,6 +109,8 @@ Gil_Manuel_201108_MSc.pdf
 40007_Chapter8.pdf
 A First Course in Design and Analysis of Experiments.pdf
 Alexander Forrester, Andras Sobester, Andy Keane - Engineering Design via Surrogate Modelling_ A Practical Guide-Wiley (2008).pdf
+(and How to Avoid Them) Good P.I., Hardin J.W. - Common errors in statistics, and how to avoid them-Wiley (2012) 9781118360125.pdf
+(and How to Avoid Them) Good P.I., Hardin J.W. - Common errors in statistics, and how to avoid them-Wiley (2012).pdf
 (Chapman & Hall_CRC handbooks of modern statistical methods) Bingham, Derek_ Dean, Angela_ Morris, Max_ Stufken, John - Handbook of design and analysis of experiments-CRC Press (2015).pdf
 (Computers) Joseph Schmuller - Statistical Analysis with R For Dummies (For Dummies-For Dummies (2017).pdf
 David J. Sheskin - Handbook Of Parametric And Nonparametric Statistical Procedures-CRC Press_Taylor & Francis Group (2011).pdf
@@ -118,6 +121,7 @@ George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimen
 Jacob Cohen - Statistical Power Analysis for the Behavioral Sciences-Routledge (1988).pdf
 Jason C. Hsu (auth.) - Multiple Comparisons_ Theory and methods-Springer US (1996).pdf
 Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
+(Mcgraw-hill Series in Industrial Engineering and Management) Averill M Law - Simulation Modeling and Analysis-McGraw-Hill Education (2014).pdf
 misc
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
