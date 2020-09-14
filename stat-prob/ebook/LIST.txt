@@ -120,9 +120,12 @@ Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
 George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimenters_ Design, Innovation, and Discovery, Second Edition (2005).pdf
 Jacob Cohen - Statistical Power Analysis for the Behavioral Sciences-Routledge (1988).pdf
 Jason C. Hsu (auth.) - Multiple Comparisons_ Theory and methods-Springer US (1996).pdf
+John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
+John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630
 Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
 (Mcgraw-hill Series in Industrial Engineering and Management) Averill M Law - Simulation Modeling and Analysis-McGraw-Hill Education (2014).pdf
 misc
+Nathalie Japkowicz, Mohak Shah - Evaluating Learning Algorithms_ A Classification Perspective-Cambridge University Press (2011).pdf
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
 Paul D. Ellis - The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analysis, and the Interpretation of Research Results-Cambridge University Press (2010).pdf
@@ -134,6 +137,41 @@ Statistical Hypothesis Testing with SAS and R.pdf
 (Statistical Modeling and Decision Science) Rand Wilcox - Introduction to Robust Estimation and Hypothesis Testing-Academic Press (2017).pdf
 Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypothesis Testing_ Rank and Permutation Methods with Applications in R-Wiley (.pdf
 (Wiley Series in Probability and Statistics) Klaus Hinkelmann, Oscar Kempthorne(auth.) - Design and Analysis of Experiments_ Introduction to Experimental Design, Volume 1, Second Edition (2008).pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630:
+Bibliography_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-10---Model-Comparison-and-Hierarchical-_2015_Doing-Bayesian-Data-Ana.pdf
+Chapter-11---Null-Hypothesis-Significance-Tes_2015_Doing-Bayesian-Data-Analy.pdf
+Chapter-12---Bayesian-Approaches-to-Testing-a-Point_2015_Doing-Bayesian-Data.pdf
+Chapter-13---Goals--Power--and-Sample-Size_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-14---Stan_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-15---Overview-of-the-Generalized-Linea_2015_Doing-Bayesian-Data-Anal.pdf
+Chapter-16---Metric-Predicted-Variable-on-One-or_2015_Doing-Bayesian-Data-An.pdf
+Chapter-17---Metric-Predicted-Variable-with-One-M_2015_Doing-Bayesian-Data-A.pdf
+Chapter-18---Metric-Predicted-Variable-with-Multip_2015_Doing-Bayesian-Data-.pdf
+Chapter-19---Metric-Predicted-Variable-with-One-N_2015_Doing-Bayesian-Data-A.pdf
+Chapter-1---What-s-in-This-Book--Read-This-Fi_2015_Doing-Bayesian-Data-Analy.pdf
+Chapter-20---Metric-Predicted-Variable-with-Multipl_2015_Doing-Bayesian-Data.pdf
+Chapter-21---Dichotomous-Predicted-Variable_2015_Doing-Bayesian-Data-Analysi.pdf
+Chapter-22---Nominal-Predicted-Variable_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-23---Ordinal-Predicted-Variable_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-24---Count-Predicted-Variable_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-25---Tools-in-the-Trunk_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-2---Introduction--Credibility--Models--a_2015_Doing-Bayesian-Data-An.pdf
+Chapter-3---The-R-Programming-Language_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-4---What-is-This-Stuff-Called-Probabi_2015_Doing-Bayesian-Data-Analy.pdf
+Chapter-5---Bayes--Rule_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-6---Inferring-a-Binomial-Probability-via-Exa_2015_Doing-Bayesian-Dat.pdf
+Chapter-7---Markov-Chain-Monte-Carlo_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-8---JAGS_2015_Doing-Bayesian-Data-Analysis.pdf
+Chapter-9---Hierarchical-Models_2015_Doing-Bayesian-Data-Analysis.pdf
+Copyright_2015_Doing-Bayesian-Data-Analysis.pdf
+Dedication_2015_Doing-Bayesian-Data-Analysis.pdf
+Front-Matter_2015_Doing-Bayesian-Data-Analysis.pdf
+Index_2015_Doing-Bayesian-Data-Analysis.pdf
+Part-III---Introduction_2015_Doing-Bayesian-Data-Analysis.pdf
+Part-II---Introduction_2015_Doing-Bayesian-Data-Analysis.pdf
+Part-I---Introduction_2015_Doing-Bayesian-Data-Analysis.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/misc:
 07_experimental-design.pdf
