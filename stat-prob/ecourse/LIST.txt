@@ -76,6 +76,7 @@ a1.pdf
 bq(1).pdf
 bqs(3).pdf
 exam
+formulaeSTAT3001.pdf
 q1.pdf
 q1s(1).pdf
 q2(1).pdf
