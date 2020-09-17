@@ -112,6 +112,7 @@ A First Course in Design and Analysis of Experiments.pdf
 Alexander Forrester, Andras Sobester, Andy Keane - Engineering Design via Surrogate Modelling_ A Practical Guide-Wiley (2008).pdf
 (and How to Avoid Them) Good P.I., Hardin J.W. - Common errors in statistics, and how to avoid them-Wiley (2012) 9781118360125.pdf
 (and How to Avoid Them) Good P.I., Hardin J.W. - Common errors in statistics, and how to avoid them-Wiley (2012).pdf
+bayesian
 (Chapman & Hall_CRC handbooks of modern statistical methods) Bingham, Derek_ Dean, Angela_ Morris, Max_ Stufken, John - Handbook of design and analysis of experiments-CRC Press (2015).pdf
 (Computers) Joseph Schmuller - Statistical Analysis with R For Dummies (For Dummies-For Dummies (2017).pdf
 David J. Sheskin - Handbook Of Parametric And Nonparametric Statistical Procedures-CRC Press_Taylor & Francis Group (2011).pdf
@@ -121,8 +122,6 @@ Douglas C. Montgomery - Design and analysis of experiments (2017).pdf
 George E. P. Box, J. Stuart Hunter, William G. Hunter - Statistics for Experimenters_ Design, Innovation, and Discovery, Second Edition (2005).pdf
 Jacob Cohen - Statistical Power Analysis for the Behavioral Sciences-Routledge (1988).pdf
 Jason C. Hsu (auth.) - Multiple Comparisons_ Theory and methods-Springer US (1996).pdf
-John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
-John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630
 Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
 (Mcgraw-hill Series in Industrial Engineering and Management) Averill M Law - Simulation Modeling and Analysis-McGraw-Hill Education (2014).pdf
 misc
@@ -139,7 +138,11 @@ Statistical Hypothesis Testing with SAS and R.pdf
 Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypothesis Testing_ Rank and Permutation Methods with Applications in R-Wiley (.pdf
 (Wiley Series in Probability and Statistics) Klaus Hinkelmann, Oscar Kempthorne(auth.) - Design and Analysis of Experiments_ Introduction to Experimental Design, Volume 1, Second Edition (2008).pdf
 
-/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630:
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian:
+John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
+John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian/John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630:
 Bibliography_2015_Doing-Bayesian-Data-Analysis.pdf
 Chapter-10---Model-Comparison-and-Hierarchical-_2015_Doing-Bayesian-Data-Ana.pdf
 Chapter-11---Null-Hypothesis-Significance-Tes_2015_Doing-Bayesian-Data-Analy.pdf
