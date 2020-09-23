@@ -3,6 +3,7 @@
 1995_Book_TheoryOfStatistics.pdf
 2000_Book_ComputationalProbability.pdf
 2003_Book_MathematicalStatistics.pdf
+2004_Book_AllOfStatistics.pdf
 2010_Book_FundamentalsOfProbabilityAFirs.pdf
 2011_Book_ProbabilityForStatisticsAndMac.pdf
 A FIRST COURSE IN PROBABILITY.pdf
