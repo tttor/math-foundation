@@ -145,6 +145,7 @@ Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypo
 Elizabeth_Ryan_Thesis.pdf
 John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
 John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630
+misc
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian/John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630:
 Bibliography_2015_Doing-Bayesian-Data-Analysis.pdf
@@ -323,6 +324,9 @@ TherapeuticTouchData.csv
 TwoGroupIQ.csv
 z15N50.csv
 z6N8z2N7.csv
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian/misc:
+nonparbayes.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/misc:
 07_experimental-design.pdf
