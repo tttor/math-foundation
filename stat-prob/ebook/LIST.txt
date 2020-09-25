@@ -141,6 +141,7 @@ Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypo
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian:
 2018_Book_ModernBayesianStatisticsInClin.pdf
+(Cambridge series in statistical and probabilistic mathematics) Ghoshal, Subhashis_ Vaart, Aad W. van der - Fundamentals of nonparametric Bayesian inference-Cambridge University Press (2017).pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin - Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
 Elizabeth_Ryan_Thesis.pdf
 John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
