@@ -143,10 +143,10 @@ Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypo
 2018_Book_ModernBayesianStatisticsInClin.pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin - Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
 Elizabeth_Ryan_Thesis.pdf
-Ghoshal, Subhashis_ Vaart, Aad W. van der - Fundamentals of nonparametric Bayesian inference-Cambridge University Press (2017).pdf
 John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014).pdf
 John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630
 misc
+nonparam
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian/John Kruschke - Doing Bayesian Data Analysis_ A Tutorial with R, JAGS, and Stan-Academic Press (2014) ScienceDirect_articles_14Sep2020_04-29-08.630:
 Bibliography_2015_Doing-Bayesian-Data-Analysis.pdf
@@ -330,6 +330,10 @@ z6N8z2N7.csv
 gp-neural-nets15.pdf
 nonparbayes.pdf
 uai05tutorial-b.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian/nonparam:
+2003_Book_BayesianNonparametrics.pdf
+Ghoshal, Subhashis_ Vaart, Aad W. van der - Fundamentals of nonparametric Bayesian inference-Cambridge University Press (2017).pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/misc:
 07_experimental-design.pdf
