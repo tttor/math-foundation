@@ -140,6 +140,7 @@ Stefano Bonnini, Livio Corain, Marco Marozzi, Luigi Salmaso - Nonparametric Hypo
 (Wiley Series in Probability and Statistics) Klaus Hinkelmann, Oscar Kempthorne(auth.) - Design and Analysis of Experiments_ Introduction to Experimental Design, Volume 1, Second Edition (2008).pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/xprmt-design/bayesian:
+2014_Book_BayesianEssentialsWithR.pdf
 2018_Book_ModernBayesianStatisticsInClin.pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin - Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
 Elizabeth_Ryan_Thesis.pdf
