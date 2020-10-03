@@ -101,6 +101,7 @@ Gil_Manuel_201108_MSc.pdf
 2003_Book_TheDesignAndAnalysisOfComputer.pdf
 2005_Book_TestingStatisticalHypotheses.pdf
 2006_Book_ExperimentalResearchInEvolutio.pdf
+2007_Book_InteractiveAndDynamicGraphicsF.pdf
 2008_Book_DesignAndAnalysisOfSimulationE.pdf
 2010_Book_ExperimentalMethodsForTheAnaly.pdf
 2014_Book_StatisticalModelingAndComputat.pdf
@@ -126,6 +127,7 @@ Jason C. Hsu (auth.) - Multiple Comparisons_ Theory and methods-Springer US (199
 Kai-Tai Fang, Runze Li, Agus Sudjianto - Design and modeling for computer experiments-Chapman & Hall_CRC (2006).pdf
 (Mcgraw-hill Series in Industrial Engineering and Management) Averill M Law - Simulation Modeling and Analysis-McGraw-Hill Education (2014).pdf
 misc
+(Multivariate applications book series) Geoff Cumming - Understanding the new statistics _ effect sizes, confidence intervals, and meta-analysis-Routledge (2012).pdf
 Nathalie Japkowicz, Mohak Shah - Evaluating Learning Algorithms_ A Classification Perspective-Cambridge University Press (2011).pdf
 N.D. Lewis - 100 Statistical Tests_ In R-Createspace (2013).pdf
 One-Factor-at-a-Time Versus Designed Experiments.pdf
