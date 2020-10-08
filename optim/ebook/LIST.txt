@@ -20,6 +20,7 @@ thesis
 2014_Book_Newton-TypeMethodsForOptimizat.pdf
 2018_Book_PracticalMathematicalOptimizat.pdf
 9781118033340.pdf
+A Modern Introduction to Online Learning 1912.13213.pdf
 bv_cvxbook.pdf
 bv_cvxslides.pdf
 (Classics in Applied Mathematics) J. E. Dennis, Robert B. Schnabel-Numerical Methods for Unconstrained Optimization and Nonlinear Equations-Society for Industrial  Mathematics (1996).pdf
