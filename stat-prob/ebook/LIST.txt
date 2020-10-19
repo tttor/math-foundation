@@ -345,6 +345,7 @@ uai05tutorial-b.pdf
 (Cambridge Series in Statistical and Probabilistic Mathematics 28) Nils Lid Hjort, Chris Holmes, Peter Müller, Stephen G. Walker - Bayesian Nonparametrics-Cambridge University Press (2010).pdf
 (Cambridge Series in Statistical and Probabilistic Mathematics) Nils Lid Hjort, Chris Holmes, Peter Müller, Stephen G. Walker - Bayesian Nonparametrics-Cambridge University Press (2010).pdf
 Ghoshal, Subhashis_ Vaart, Aad W. van der - Fundamentals of nonparametric Bayesian inference-Cambridge University Press (2017).pdf
+mlss2007.pdf
 Orbanz-Teh2010_ReferenceWorkEntry_BayesianNonparametricModels.pdf
 Teh2010_ReferenceWorkEntry_DirichletProcess.pdf
 
