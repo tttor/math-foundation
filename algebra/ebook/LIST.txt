@@ -2,6 +2,7 @@
 James W. Demmel-Applied numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 James W. Demmel-Applied Numerical Linear Algebra-Society for Industrial and Applied Mathematics (1997).pdf
 LIST.txt
+Lloyd N. Trefethen, David Bau III - Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 Lloyd N. Trefethen, David Bau III-Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 matrix
 misc
