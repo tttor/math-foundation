@@ -12,6 +12,7 @@ thesis
 
 /home/tor/rsc/math-foundation/optim/ebook/book:
 1985_Book_MinimizationMethodsForNon-Diff.pdf
+1996_Book_GlobalOptimizationInAction.pdf
 2001_Book_StochasticOptimizationAlgorith.pdf
 2003_Book_AsymptoticConesAndFunctionsInO.pdf
 2004_Book_IntroductoryLecturesOnConvexOp.pdf
