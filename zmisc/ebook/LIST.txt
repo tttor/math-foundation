@@ -41,6 +41,8 @@ Paul D. Ellis-The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analy
 (Probability and Its Applications) Hermann Thorisson-Coupling, Stationarity, and Regeneration-Springer (2000).djvu
 probabilitytutorial.pdf
 Roger A. Horn, Charles R. Johnson-Matrix Analysis-Cambridge University Press (2013).pdf
+(Series of Books in the Mathematical Sciences) Michael R. Garey, David S. Johnson - Computers and Intractability_ A Guide to the Theory of NP-Completeness-W. H. Freeman (1979).pdf
+(Series of Books in the Mathematical Sciences) M. R. Garey, D. S. Johnson - Computers and Intractability_ A Guide to the Theory of NP-Completeness -W. H. Freeman (1979).djvu
 Spivak, Michael-Calculus-Publish or Perish (2008).djvu
 Terence Tao - Solving Mathematical Problems_ A Personal Perspective-Oxford University Press, USA (2006).pdf
 Terence Tao-Solving Mathematical Problems_ A Personal Perspective-Oxford University Press, USA (2006).pdf
