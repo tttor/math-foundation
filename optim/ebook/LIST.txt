@@ -45,6 +45,7 @@ Numerical_Optimization_2006.pdf
 (Optimization and neural computation series) Dimitri P. Bertsekas, Dimitri P Bertsekas, Dimitri P Bertsekas-Constrained Optimization and Lagrange Multiplier Methods-Athena Scientific (1996).pdf
 P.-A. Absil, R. Mahony, R. Sepulchre-Optimization algorithms on matrix manifolds-Princeton University Press (2008).pdf
 painless-conjugate-gradient.pdf
+(Prentice-Hall series in automatic computation) Richard P. Brent - Algorithms for minimization without derivatives-Prentice-Hall (1972).pdf
 prox_algs.pdf
 proximal_algorithms.pdf
 Robert Johansson-Numerical Python. A Practical Techniques Approach for Industry-Apress (2015).pdf
