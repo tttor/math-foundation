@@ -120,6 +120,7 @@ fr
 functions.pdf
 Gauss Newton Matrix - Andrew Gibiansky.pdf
 Gould2015_Article_CUTEstAConstrainedAndUnconstra.pdf
+lecture8.pdf
 nlcg1_0.zip
 painless-conjugate-gradient.pdf
 Steepest descent algorithm _ bps_Hz.pdf
