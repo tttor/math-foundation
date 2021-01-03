@@ -50,13 +50,13 @@ Scott Miller, Donald Childers - Probability and random processes_ with applicati
 seeing-theory.pdf
 Sheldon Ross-A First Course in Probability-Pearson (2012).djvu
 Sheldon Ross-A First Course in Probability-Pearson (2014).djvu
+Shun-Ichi Amari, Hiroshi Nagaoka - Methods of information geometry-American Mathematical Society (2000).djvu
 Solomon Kullback - Information Theory and Statistics  -Dover Publications (1968).pdf
 (Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (1998).pdf
 (Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (2003).pdf
 stochastic-approx
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models, General Concepts, Estimation, Prediction and Algorithms. Volume 1-Cambridge University Press (1995).pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models. Volume 2-Cambridge University Press (1996).pdf
-(Translations of mathematical monographs 191) Shun-Ichi Amari, Hiroshi Nagaoka - Methods of information geometry-American Mathematical Society (2000).djvu
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
 xprmt-design
