@@ -54,6 +54,7 @@ Shun-Ichi Amari, Hiroshi Nagaoka - Methods of information geometry-American Math
 Solomon Kullback - Information Theory and Statistics  -Dover Publications (1968).pdf
 (Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (1998).pdf
 (Springer texts in statistics) E.L. Lehmann, George Casella - Theory of Point Estimation-Springer (2003).pdf
+StatisticsWithJulia_v3.pdf
 stochastic-approx
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models, General Concepts, Estimation, Prediction and Algorithms. Volume 1-Cambridge University Press (1995).pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models. Volume 2-Cambridge University Press (1996).pdf
