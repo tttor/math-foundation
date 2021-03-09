@@ -1,7 +1,7 @@
 /home/tor/rsc/math-foundation/optim/ebook:
 2004_Book_IntroductoryLecturesOnConvexOp.pdf
 2006_Book_ConvexAnalysisAndNonlinearOpti.pdf
-bilevel
+bilevel-optim
 book
 course
 LIST.txt
@@ -11,8 +11,10 @@ RAO. - ENGINEERING OPTIMIZATION _ theory and practice,-JOHN WILEY & Sons (2019).
 talk
 thesis
 
-/home/tor/rsc/math-foundation/optim/ebook/bilevel:
+/home/tor/rsc/math-foundation/optim/ebook/bilevel-optim:
+Bard1998_Book_PracticalBilevelOptimization.pdf
 Dempe2002_Book_FoundationsOfBilevelProgrammin.pdf
+Dempe2015_Book_BilevelProgrammingProblems.pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/book:
 1985_Book_MinimizationMethodsForNon-Diff.pdf
