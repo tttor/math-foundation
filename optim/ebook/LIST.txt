@@ -16,6 +16,7 @@ thesis
 Bard1998_Book_PracticalBilevelOptimization.pdf
 Dempe2002_Book_FoundationsOfBilevelProgrammin.pdf
 Dempe2015_Book_BilevelProgrammingProblems.pdf
+Shimizu1997_Book_NondifferentiableAndTwo-LevelM.pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/book:
 1985_Book_MinimizationMethodsForNon-Diff.pdf
