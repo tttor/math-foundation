@@ -12,6 +12,7 @@ talk
 thesis
 
 /home/tor/rsc/math-foundation/optim/ebook/bilevel-optim:
+2020_Book_BilevelOptimization.pdf
 Bard1998_Book_PracticalBilevelOptimization.pdf
 Dempe2002_Book_FoundationsOfBilevelProgrammin.pdf
 Dempe2015_Book_BilevelProgrammingProblems.pdf
