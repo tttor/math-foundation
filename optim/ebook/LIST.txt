@@ -36,6 +36,7 @@ bv_cvxslides.pdf
 Constrained-Opt.pdf
 Dimitri P. Bertsekas-Convex Optimization Algorithms-Athena Scientific (2015).pdf
 (Dover Books on Mathematics) V. F. Dem’yanov (Demyanov), V. N. Malozemov-Introduction to Minimax-Dover Publications (2014).pdf
+Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization 4th edition solution manual-Wiley-Interscience (2013).pdf
 Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization-Wiley (2013).pdf
 ee227c-notes.pdf
 fr16_book.pdf
