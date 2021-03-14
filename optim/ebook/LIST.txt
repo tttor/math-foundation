@@ -46,6 +46,7 @@ fr18_book.pdf
 H. Paul Williams - Model Building in Mathematical Programming-Wiley (2013).pdf
 Igor Griva, Stephen G. Nash, Ariela Sofer-Linear and nonlinear optimization-Society for Industrial and Applied Mathematics (2009).pdf
 Jaan Kiusalaas-Numerical Methods in Engineering with Python 3-Cambridge University Press (2013).pdf
+Luenberger-Ye2008_Book_LinearAndNonlinearProgramming.pdf
 M. Asghar Bhatti-Practical optimization methods_ with Mathematica applications-Springer (2000).djvu
 Michelle Schatzman-Numerical Analysis_ A Mathematical Introduction-Oxford University Press (2002).pdf
 (MOS-Siam Series on Optimization) Amir Beck-Introduction to Nonlinear Optimization_ Theory, Algorithms, and Applications with MATLAB-SIAM (2014).pdf
@@ -65,6 +66,7 @@ Roger Fletcher-Practical Methods of Optimization, Second Edition (2000).pdf
 Roger Fletcher-Practical Methods of Optimization, Second Edition (2000) UQ.pdf
 (Springer Optimization and Its Applications) Jan A Snyman, Daniel N Wilke-Practical Mathematical Optimization_ Basic Optimization Theory and Gradient-Based Algorithms-Springer (2018).pdf
 Stephen Boyd - Solution Manual for Convex Optimization  .pdf
+Sun-Yuan2006_Book_OptimizationTheoryAndMethods.pdf
 trust-region-methods-conn-2000
 
 /home/tor/rsc/math-foundation/optim/ebook/book/trust-region-methods-conn-2000:
