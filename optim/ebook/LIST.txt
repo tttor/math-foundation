@@ -1,22 +1,10 @@
 /home/tor/rsc/math-foundation/optim/ebook:
-2004_Book_IntroductoryLecturesOnConvexOp.pdf
-2006_Book_ConvexAnalysisAndNonlinearOpti.pdf
-bilevel-optim
 book
 course
 LIST.txt
 misc
-OCObook_ver2.pdf
-RAO. - ENGINEERING OPTIMIZATION _ theory and practice,-JOHN WILEY & Sons (2019).pdf
 talk
 thesis
-
-/home/tor/rsc/math-foundation/optim/ebook/bilevel-optim:
-2020_Book_BilevelOptimization.pdf
-Bard1998_Book_PracticalBilevelOptimization.pdf
-Dempe2002_Book_FoundationsOfBilevelProgrammin.pdf
-Dempe2015_Book_BilevelProgrammingProblems.pdf
-Shimizu1997_Book_NondifferentiableAndTwo-LevelM.pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/book:
 1985_Book_MinimizationMethodsForNon-Diff.pdf
@@ -24,19 +12,19 @@ Shimizu1997_Book_NondifferentiableAndTwo-LevelM.pdf
 2001_Book_StochasticOptimizationAlgorith.pdf
 2003_Book_AsymptoticConesAndFunctionsInO.pdf
 2004_Book_IntroductoryLecturesOnConvexOp.pdf
+2006_Book_ConvexAnalysisAndNonlinearOpti.pdf
 2006_Book_StochasticOptimization.pdf
 2010_Book_NumericalAnalysisForStatistici.pdf
 2014_Book_Newton-TypeMethodsForOptimizat.pdf
 2018_Book_PracticalMathematicalOptimizat.pdf
 9781118033340.pdf
 A Modern Introduction to Online Learning 1912.13213.pdf
+bilevel-optim
 bv_cvxbook.pdf
 bv_cvxslides.pdf
-(Classics in applied mathematics, 10) Olvi L Mangasarian - Nonlinear programming-Society for Industrial and Applied Mathematics (1994).djvu
 (Classics in Applied Mathematics) J. E. Dennis, Robert B. Schnabel-Numerical Methods for Unconstrained Optimization and Nonlinear Equations-Society for Industrial  Mathematics (1996).pdf
-Constrained-Opt.pdf
+constrained-optim
 Dimitri P. Bertsekas-Convex Optimization Algorithms-Athena Scientific (2015).pdf
-Dimitri P. Bertsekas - Nonlinear Programming (1999).pdf
 (Dover Books on Mathematics) V. F. Dem’yanov (Demyanov), V. N. Malozemov-Introduction to Minimax-Dover Publications (2014).pdf
 Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization 4th edition solution manual-Wiley-Interscience (2013).pdf
 Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization-Wiley (2013).pdf
@@ -46,7 +34,6 @@ fr18_book.pdf
 H. Paul Williams - Model Building in Mathematical Programming-Wiley (2013).pdf
 Igor Griva, Stephen G. Nash, Ariela Sofer-Linear and nonlinear optimization-Society for Industrial and Applied Mathematics (2009).pdf
 Jaan Kiusalaas-Numerical Methods in Engineering with Python 3-Cambridge University Press (2013).pdf
-Luenberger-Ye2008_Book_LinearAndNonlinearProgramming.pdf
 M. Asghar Bhatti-Practical optimization methods_ with Mathematica applications-Springer (2000).djvu
 Michelle Schatzman-Numerical Analysis_ A Mathematical Introduction-Oxford University Press (2002).pdf
 (MOS-Siam Series on Optimization) Amir Beck-Introduction to Nonlinear Optimization_ Theory, Algorithms, and Applications with MATLAB-SIAM (2014).pdf
@@ -54,13 +41,14 @@ Michelle Schatzman-Numerical Analysis_ A Mathematical Introduction-Oxford Univer
 Numerical_Optimization_1999.pdf
 Numerical_Optimization_2006_errata.pdf
 Numerical_Optimization_2006.pdf
-(Optimization and neural computation series) Dimitri P. Bertsekas, Dimitri P Bertsekas, Dimitri P Bertsekas - Constrained Optimization and Lagrange Multiplier Methods-Athena Scientific (1996).pdf
+OCObook_ver2.pdf
 (Optimization and neural computation series) Dimitri P. Bertsekas, Dimitri P Bertsekas, Dimitri P Bertsekas-Constrained Optimization and Lagrange Multiplier Methods-Athena Scientific (1996).pdf
 P.-A. Absil, R. Mahony, R. Sepulchre-Optimization algorithms on matrix manifolds-Princeton University Press (2008).pdf
 painless-conjugate-gradient.pdf
 (Prentice-Hall series in automatic computation) Richard P. Brent - Algorithms for minimization without derivatives-Prentice-Hall (1972).pdf
 prox_algs.pdf
 proximal_algorithms.pdf
+RAO. - ENGINEERING OPTIMIZATION _ theory and practice,-JOHN WILEY & Sons (2019).pdf
 Robert Johansson-Numerical Python. A Practical Techniques Approach for Industry-Apress (2015).pdf
 Roger Fletcher-Practical Methods of Optimization, Second Edition (2000).pdf
 Roger Fletcher-Practical Methods of Optimization, Second Edition (2000) UQ.pdf
@@ -68,6 +56,20 @@ Roger Fletcher-Practical Methods of Optimization, Second Edition (2000) UQ.pdf
 Stephen Boyd - Solution Manual for Convex Optimization  .pdf
 Sun-Yuan2006_Book_OptimizationTheoryAndMethods.pdf
 trust-region-methods-conn-2000
+
+/home/tor/rsc/math-foundation/optim/ebook/book/bilevel-optim:
+2020_Book_BilevelOptimization.pdf
+Bard1998_Book_PracticalBilevelOptimization.pdf
+Dempe2002_Book_FoundationsOfBilevelProgrammin.pdf
+Dempe2015_Book_BilevelProgrammingProblems.pdf
+Shimizu1997_Book_NondifferentiableAndTwo-LevelM.pdf
+
+/home/tor/rsc/math-foundation/optim/ebook/book/constrained-optim:
+(Classics in applied mathematics, 10) Olvi L Mangasarian - Nonlinear programming-Society for Industrial and Applied Mathematics (1994).djvu
+Constrained-Opt.pdf
+Dimitri P. Bertsekas - Nonlinear Programming (1999).pdf
+Luenberger-Ye2008_Book_LinearAndNonlinearProgramming.pdf
+(Optimization and neural computation series) Dimitri P. Bertsekas, Dimitri P Bertsekas, Dimitri P Bertsekas - Constrained Optimization and Lagrange Multiplier Methods-Athena Scientific (1996).pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/book/trust-region-methods-conn-2000:
 1.9780898719857.appa.pdf
@@ -130,6 +132,8 @@ sec6.pdf
 25b8eee6c373d48b84e5e9c6e10e7cbbbce4ac73.pdf
 Appendix D.pdf
 benchmark
+cg-shewchuk-1994
+fig
 (Foundations of Artificial Intelligence 2) Francesca Rossi, Peter van Beek and Toby Walsh (Eds.) - Handbook of Constraint Programming-Elsevier (2006).pdf
 fr
 Frühwirth-Abdennadher2003_Book_EssentialsOfConstraintProgramm.pdf
@@ -150,6 +154,15 @@ a15-gould.pdf
 A BFGS SQP method for nonsmooth nonconvex constrained optimization and its evaluation using relative minimization profiles.pdf
 Beiranvand2017_Article_BestPracticesForComparingOptim.pdf
 Dolan-Moré2002_Article_BenchmarkingOptimizationSoftwa.pdf
+
+/home/tor/rsc/math-foundation/optim/ebook/misc/cg-shewchuk-1994:
+cg_shewchuk_1994.md
+shewchuk_cg.png
+shewchuk_nonlinear_cg.png
+shewchuk_precond_cg.png
+
+/home/tor/rsc/math-foundation/optim/ebook/misc/fig:
+convergence_rate.png
 
 /home/tor/rsc/math-foundation/optim/ebook/misc/fr:
 14096311x.pdf
