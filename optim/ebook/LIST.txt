@@ -32,9 +32,11 @@ Shimizu1997_Book_NondifferentiableAndTwo-LevelM.pdf
 A Modern Introduction to Online Learning 1912.13213.pdf
 bv_cvxbook.pdf
 bv_cvxslides.pdf
+(Classics in applied mathematics, 10) Olvi L Mangasarian - Nonlinear programming-Society for Industrial and Applied Mathematics (1994).djvu
 (Classics in Applied Mathematics) J. E. Dennis, Robert B. Schnabel-Numerical Methods for Unconstrained Optimization and Nonlinear Equations-Society for Industrial  Mathematics (1996).pdf
 Constrained-Opt.pdf
 Dimitri P. Bertsekas-Convex Optimization Algorithms-Athena Scientific (2015).pdf
+Dimitri P. Bertsekas - Nonlinear Programming (1999).pdf
 (Dover Books on Mathematics) V. F. Dem’yanov (Demyanov), V. N. Malozemov-Introduction to Minimax-Dover Publications (2014).pdf
 Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization 4th edition solution manual-Wiley-Interscience (2013).pdf
 Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization-Wiley (2013).pdf
