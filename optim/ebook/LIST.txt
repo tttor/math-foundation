@@ -31,10 +31,12 @@ Edwin K. P. Chong, Stanislaw H. Zak - An Introduction to Optimization-Wiley (201
 ee227c-notes.pdf
 fr16_book.pdf
 fr18_book.pdf
+Hendrix-G-Tóth2010_Book_IntroductionToNonlinearAndGlob.pdf
 H. Paul Williams - Model Building in Mathematical Programming-Wiley (2013).pdf
 Igor Griva, Stephen G. Nash, Ariela Sofer-Linear and nonlinear optimization-Society for Industrial and Applied Mathematics (2009).pdf
 Jaan Kiusalaas-Numerical Methods in Engineering with Python 3-Cambridge University Press (2013).pdf
 M. Asghar Bhatti-Practical optimization methods_ with Mathematica applications-Springer (2000).djvu
+(Mathematics and Its Applications 37) Jonas Mockus (auth.) - Bayesian Approach to Global Optimization_ Theory and Applications-Springer Netherlands (1989).pdf
 Michelle Schatzman-Numerical Analysis_ A Mathematical Introduction-Oxford University Press (2002).pdf
 (MOS-Siam Series on Optimization) Amir Beck-Introduction to Nonlinear Optimization_ Theory, Algorithms, and Applications with MATLAB-SIAM (2014).pdf
 (Neural Information Processing series) Suvrit Sra, Sebastian Nowozin, Stephen J. Wright-Optimization for Machine Learning (Neural Information Processing series)  -The MIT Press (2011).pdf
@@ -46,6 +48,7 @@ OCObook_ver2.pdf
 P.-A. Absil, R. Mahony, R. Sepulchre-Optimization algorithms on matrix manifolds-Princeton University Press (2008).pdf
 painless-conjugate-gradient.pdf
 (Prentice-Hall series in automatic computation) Richard P. Brent - Algorithms for minimization without derivatives-Prentice-Hall (1972).pdf
+Professor Dr. Reiner Horst, Professor Dr. Hoang Tuy (auth.) - Global Optimization_ Deterministic Approaches-Springer-Verlag Berlin Heidelberg (1996).pdf
 prox_algs.pdf
 proximal_algorithms.pdf
 RAO. - ENGINEERING OPTIMIZATION _ theory and practice,-JOHN WILEY & Sons (2019).pdf
@@ -56,6 +59,7 @@ Roger Fletcher-Practical Methods of Optimization, Second Edition (2000) UQ.pdf
 Stephen Boyd - Solution Manual for Convex Optimization  .pdf
 Sun-Yuan2006_Book_OptimizationTheoryAndMethods.pdf
 trust-region-methods-conn-2000
+Zhigljavsky1991_Book_TheoryOfGlobalRandomSearch.pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/book/bilevel-optim:
 2020_Book_BilevelOptimization.pdf
@@ -98,6 +102,7 @@ Luenberger-Ye2008_Book_LinearAndNonlinearProgramming.pdf
 1.9780898719857.pt5.pdf
 
 /home/tor/rsc/math-foundation/optim/ebook/course:
+ee227c-notes.pdf
 harvard-am221
 
 /home/tor/rsc/math-foundation/optim/ebook/course/harvard-am221:
