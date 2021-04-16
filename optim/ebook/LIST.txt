@@ -12,13 +12,17 @@ thesis
 2001_Book_StochasticOptimizationAlgorith.pdf
 2003_Book_AsymptoticConesAndFunctionsInO.pdf
 2004_Book_IntroductoryLecturesOnConvexOp.pdf
+2005_Chapter_TheNewtonMethod.pdf
 2006_Book_ConvexAnalysisAndNonlinearOpti.pdf
 2006_Book_StochasticOptimization.pdf
 2010_Book_NumericalAnalysisForStatistici.pdf
+2011_Book_IntroductionToStochasticProgra.pdf
 2014_Book_Newton-TypeMethodsForOptimizat.pdf
+2018_Book_LecturesOnConvexOptimization.pdf
 2018_Book_PracticalMathematicalOptimizat.pdf
 9781118033340.pdf
 A Modern Introduction to Online Learning 1912.13213.pdf
+(Applied Optimization 54) Jitka Dupačová (auth.), Stanislav Uryasev, Panos M. Pardalos (eds.) - Stochastic Optimization_ Algorithms and Applications-Springer US (2001).pdf
 bilevel-optim
 bv_cvxbook.pdf
 bv_cvxslides.pdf

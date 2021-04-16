@@ -4,6 +4,7 @@
 2000_Book_ComputationalProbability.pdf
 2003_Book_MathematicalStatistics.pdf
 2004_Book_AllOfStatistics.pdf
+2009_Book_BasicsOfAppliedStochasticProce.pdf
 2010_Book_FundamentalsOfProbabilityAFirs.pdf
 2011_Book_ProbabilityForStatisticsAndMac.pdf
 A FIRST COURSE IN PROBABILITY.pdf
@@ -30,6 +31,7 @@ Experimental Design and Analysis Howard J. Seltman.pdf
 George Casella, Roger L. Berger - Statistical Inference-Duxbury Press (2001).pdf
 Grimmett G., Stirzaker D. - Probability and Random Processes (2001).djvu
 Grimmett&Stirzaker--Probability and Random Processes  Third Ed(2001).pdf
+Grinstead and Snell’s Introduction to Probability.pdf
 Introduction to Probability, 2nd Edition-Athena Scientific (2008).pdf
 Jaynes 2003 - Probability Theory.pdf
 Judea Pearl, Dana Mackenzie - The book of why_ the new science of cause and effect-Basic Books (2018).pdf
@@ -40,6 +42,7 @@ M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
 misc
 monte-carlo
+(Operations Research and Industrial Engineering) Jeffrey J. Hunter and J. William Schmidt (Auth.) - Mathematical Techniques of Applied Probability. Discrete Time Models_ Basic Theory-Elsevier Inc, Aca.pdf
 Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018).epub
 pollard1984.pdf
 Probability_and_Computing.pdf
