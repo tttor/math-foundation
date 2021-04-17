@@ -2,6 +2,7 @@
 18-05-spring-2014
 18-05-spring-2014.zip
 LIST.txt
+misc
 stat3004-uq
 
 /home/tor/rsc/math-foundation/stat-prob/ecourse/18-05-spring-2014:
@@ -1103,6 +1104,12 @@ studio9.zip.xml
 /home/tor/rsc/math-foundation/stat-prob/ecourse/18-05-spring-2014/18-05-spring-2014/contents/syllabus:
 index.htm
 index.htm.xml
+
+/home/tor/rsc/math-foundation/stat-prob/ecourse/misc:
+Lec01.pdf
+Lec02.pdf
+Lec03.pdf
+README.md
 
 /home/tor/rsc/math-foundation/stat-prob/ecourse/stat3004-uq:
 lecnote
