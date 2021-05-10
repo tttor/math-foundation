@@ -63,6 +63,7 @@ stochastic-approx
 Talagrand2014_Book_UpperAndLowerBoundsForStochast.pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models, General Concepts, Estimation, Prediction and Algorithms. Volume 1-Cambridge University Press (1995).pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models. Volume 2-Cambridge University Press (1996).pdf
+Villani2009_Book_OptimalTransport.pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
 xprmt-design
