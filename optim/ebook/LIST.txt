@@ -149,6 +149,7 @@ Frühwirth-Abdennadher2003_Book_EssentialsOfConstraintProgramm.pdf
 functions.pdf
 Gauss Newton Matrix - Andrew Gibiansky.pdf
 Gould2015_Article_CUTEstAConstrainedAndUnconstra.pdf
+gradientDescent.pdf
 Kimbal Marriott, Peter Stuckey - Programming with Constraints_ An Introduction  -MIT (1998).djvu
 Krzysztof Apt - Principles of constraint programming-Cambridge University Press (2003).pdf
 lecture8.pdf
