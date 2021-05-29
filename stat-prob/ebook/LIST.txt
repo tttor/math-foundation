@@ -8,6 +8,7 @@
 2010_Book_FundamentalsOfProbabilityAFirs.pdf
 2011_Book_ProbabilityForStatisticsAndMac.pdf
 A FIRST COURSE IN PROBABILITY.pdf
+Andrew Gelman, Jennifer Hill - Data Analysis Using Regression and Multilevel_Hierarchical Models-Cambridge University Press (2007).pdf
 (Applications of Mathematics 22) Albert Benveniste, Michel Métivier, Pierre Priouret (auth.) - Adaptive Algorithms and Stochastic Approximations-Springer-Verlag Berlin Heidelberg (1990).pdf
 (Applied Mathematical Sciences 194) Shun-ichi Amari (auth.) - Information Geometry and Its Applications-Springer Japan (2016).pdf
 Athanasios Papoulis, S. Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes-McGraw-Hill Europe (2002).pdf
@@ -16,6 +17,7 @@ Bryan F.J. Manly, Jorge A. Navarro Alberto - Multivariate Statistical Methods_ A
 Bryan F.J. Manly_ Jorge A Navarro Alberto - Multivariate Statistical Methods_ A Primer, Fourth Edition-CRC Press (2017).pdf
 (Cambridge Monographs on Applied and Computational Mathematics) Sumio Watanabe - Algebraic Geometry and Statistical Learning Theory-Cambridge University Press (2009).pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin-Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
+(Chapman & Hall_CRC Texts in Statistical Science) Liero, Hannelore_ Zwanzig, Silvelyn - Introduction to the Theory of Statistical Inference-CRC Press (2013).pdf
 Charles M Grinstead_ J  Laurie Snell  - Introduction to probability-American Mathematical Society (1997).pdf
 Charles M. Grinstead, J. Laurie Snell - Introduction to Probability-American Mathematical Society (1997).pdf
 Charles M. Grinstead, J. Laurie Snell - Introduction to Probability_ Second Revised Edition-American Mathematical Society (2012).pdf
