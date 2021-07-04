@@ -1106,6 +1106,7 @@ index.htm
 index.htm.xml
 
 /home/tor/rsc/math-foundation/stat-prob/ecourse/misc:
+Bayesian-sample-size-determination-approaches-to-interval-construction-and-hypothesis-testing.pptx
 Lec01.pdf
 Lec02.pdf
 Lec03.pdf
