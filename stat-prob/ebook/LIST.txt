@@ -31,6 +31,7 @@ Douglas C. Montgomery - Design and Analysis of Experiments-Wiley (2017).pdf
 E. L. Lehmann (auth.) - Theory of Point Estimation-Springer New York (1983).pdf
 Experimental Design and Analysis Howard J. Seltman.pdf
 George Casella, Roger L. Berger - Statistical Inference-Duxbury Press (2001).pdf
+Gray2009_Book_ProbabilityRandomProcessesAndE.pdf
 Grimmett G., Stirzaker D. - Probability and Random Processes (2001).djvu
 Grimmett&Stirzaker--Probability and Random Processes  Third Ed(2001).pdf
 Grinstead and Snell’s Introduction to Probability.pdf
