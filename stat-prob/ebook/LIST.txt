@@ -35,6 +35,7 @@ Gray2009_Book_ProbabilityRandomProcessesAndE.pdf
 Grimmett G., Stirzaker D. - Probability and Random Processes (2001).djvu
 Grimmett&Stirzaker--Probability and Random Processes  Third Ed(2001).pdf
 Grinstead and Snell’s Introduction to Probability.pdf
+Information Theory, Inference, and Learning Algorithms David J.C. MacKay.pdf
 Introduction to Probability, 2nd Edition-Athena Scientific (2008).pdf
 Jaynes 2003 - Probability Theory.pdf
 Judea Pearl, Dana Mackenzie - The book of why_ the new science of cause and effect-Basic Books (2018).pdf

@@ -13,6 +13,10 @@ LIST.txt
 misc
 Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis_ Volume II-Springer New York (1989).pdf
 Spivak, Michael-Calculus-Publish or Perish, Inc. (2008).pdf
+Tao2016_Book_AnalysisII.pdf
+Tao2016_Book_AnalysisI.pdf
+(Texts and Readings in Mathematics) Terence Tao - Analysis II-Springer (2016).pdf
+(Texts and Readings in Mathematics) Terence Tao - Analysis I-Springer (2016).pdf
 (Wiley Classics Library) Robert G. Bartle - The Elements of Integration and Lebesgue Measure-Wiley-Interscience (1995).pdf
 
 /home/tor/rsc/math-foundation/calculus/ebook/18-01sc-fall-2010:

@@ -1,9 +1,8 @@
 /home/tor/rsc/math-foundation/stat-prob/ecourse:
 18-05-spring-2014
-18-05-spring-2014.zip
 LIST.txt
-misc
 stat3004-uq
+zmisc
 
 /home/tor/rsc/math-foundation/stat-prob/ecourse/18-05-spring-2014:
 18-05-spring-2014
@@ -1105,13 +1104,6 @@ studio9.zip.xml
 index.htm
 index.htm.xml
 
-/home/tor/rsc/math-foundation/stat-prob/ecourse/misc:
-Bayesian-sample-size-determination-approaches-to-interval-construction-and-hypothesis-testing.pptx
-Lec01.pdf
-Lec02.pdf
-Lec03.pdf
-README.md
-
 /home/tor/rsc/math-foundation/stat-prob/ecourse/stat3004-uq:
 lecnote
 misc
@@ -1208,3 +1200,13 @@ Semester_Two_Final_Examinations__2016_STAT3004.pdf
 Semester_Two_Final_Examinations__2017_STAT3004.pdf
 Semester_Two_Final_Examinations__2018_STAT3004_113.pdf
 Semester_Two_Final_Examinations_2019_STAT3004.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ecourse/zmisc:
+18-05-spring-2014.zip
+36-754, Advanced Probability II.pdf
+Bayesian-sample-size-determination-approaches-to-interval-construction-and-hypothesis-testing.pptx
+Lec01.pdf
+Lec02.pdf
+Lec03.pdf
+lecture-23.pdf
+README.md
