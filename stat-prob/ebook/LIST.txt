@@ -13,6 +13,9 @@ Andrew Gelman, Jennifer Hill - Data Analysis Using Regression and Multilevel_Hie
 (Applied Mathematical Sciences 194) Shun-ichi Amari (auth.) - Information Geometry and Its Applications-Springer Japan (2016).pdf
 Athanasios Papoulis, S. Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes-McGraw-Hill Europe (2002).pdf
 Athanasios Papoulis - Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes  -McGraw-Hill Europe (2002).pdf
+Brémaud2014_Book_FourierAnalysisAndStochasticPr.pdf
+Brémaud2020_Book_PointProcessCalculusInTimeAndS.pdf
+Brémaud2020_Book_ProbabilityTheoryAndStochastic.pdf
 Bryan F.J. Manly, Jorge A. Navarro Alberto - Multivariate Statistical Methods_ A Primer-Chapman and Hall_CRC (2016).pdf
 Bryan F.J. Manly_ Jorge A Navarro Alberto - Multivariate Statistical Methods_ A Primer, Fourth Edition-CRC Press (2017).pdf
 (Cambridge Monographs on Applied and Computational Mathematics) Sumio Watanabe - Algebraic Geometry and Statistical Learning Theory-Cambridge University Press (2009).pdf
@@ -42,6 +45,7 @@ Judea Pearl, Dana Mackenzie - The book of why_ the new science of cause and effe
 (Kendall's Advanced Theory of Statistics 1) Kendall M.G. - The advanced theory of statistics. Volume 1-Charles Griffin & Company (1945).djvu
 LIST.txt
 Manly, Bryan F.J - Multivariate Statistical Methods _ A Primer, Third Edition-CRC Press (2004).pdf
+markov-chain
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
 misc
@@ -71,6 +75,11 @@ Villani2009_Book_OptimalTransport.pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
 xprmt-design
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/markov-chain:
+Bremaud1999_Book_MarkovChains.pdf
+Brémaud2020_Book_MarkovChains.pdf
+Kemeny-Snell1976.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/misc:
 Advanced_Probability_or_Cosma_Shalizi.pdf
