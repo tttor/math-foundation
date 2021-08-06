@@ -16,6 +16,7 @@ Athanasios Papoulis - Unnikrishna Pillai-Probability, Random Variables and Stoch
 Brémaud2014_Book_FourierAnalysisAndStochasticPr.pdf
 Brémaud2020_Book_PointProcessCalculusInTimeAndS.pdf
 Brémaud2020_Book_ProbabilityTheoryAndStochastic.pdf
+Bruce Hajek - Random Processes for Engineers-Cambridge University Press (2015).djvu
 Bryan F.J. Manly, Jorge A. Navarro Alberto - Multivariate Statistical Methods_ A Primer-Chapman and Hall_CRC (2016).pdf
 Bryan F.J. Manly_ Jorge A Navarro Alberto - Multivariate Statistical Methods_ A Primer, Fourth Edition-CRC Press (2017).pdf
 (Cambridge Monographs on Applied and Computational Mathematics) Sumio Watanabe - Algebraic Geometry and Statistical Learning Theory-Cambridge University Press (2009).pdf
@@ -38,6 +39,7 @@ Gray2009_Book_ProbabilityRandomProcessesAndE.pdf
 Grimmett G., Stirzaker D. - Probability and Random Processes (2001).djvu
 Grimmett&Stirzaker--Probability and Random Processes  Third Ed(2001).pdf
 Grinstead and Snell’s Introduction to Probability.pdf
+Hajek, Bruce - Random processes for engineers-Cambridge University Press (2015).djvu
 Information Theory, Inference, and Learning Algorithms David J.C. MacKay.pdf
 Introduction to Probability, 2nd Edition-Athena Scientific (2008).pdf
 Jaynes 2003 - Probability Theory.pdf

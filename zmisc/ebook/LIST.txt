@@ -53,5 +53,6 @@ Tom M. Apostol-Mathematical Analysis, Second Edition-Addison Wesley (1974).pdf
 (Volume 1) Richard P. Feynman, Robert B. Leighton, Matthew Sands-The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat-Basic Books (2011).pdf
 Walter Rudin-Principles of Mathematical Analysis, Third Edition-McGraw-Hill Science Engineering Math (1976).pdf
 Wilfred Kaplan-Advanced Calculus-Addison Wesley (2002).pdf
+William H. Press, Brian P. Flannery, Saul A. Teukolsky, William T. Vetterling - Numerical recipes in C_ the art of scientific computing-Cambridge University Press (1992).djvu
 William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery - Numerical Recipes_ The Art of Scientific Computing-Cambridge University Press (2007) (1).pdf
 William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery - Numerical recipes_ the art of scientific computing-Cambridge University Press (2007).pdf
