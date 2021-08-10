@@ -1210,3 +1210,4 @@ Lec02.pdf
 Lec03.pdf
 lecture-23.pdf
 README.md
+res-6-012-spring-2018.zip
