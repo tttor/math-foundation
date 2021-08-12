@@ -11,8 +11,11 @@ A FIRST COURSE IN PROBABILITY.pdf
 Andrew Gelman, Jennifer Hill - Data Analysis Using Regression and Multilevel_Hierarchical Models-Cambridge University Press (2007).pdf
 (Applications of Mathematics 22) Albert Benveniste, Michel Métivier, Pierre Priouret (auth.) - Adaptive Algorithms and Stochastic Approximations-Springer-Verlag Berlin Heidelberg (1990).pdf
 (Applied Mathematical Sciences 194) Shun-ichi Amari (auth.) - Information Geometry and Its Applications-Springer Japan (2016).pdf
+Asmussen-Glynn2007_Book_StochasticSimulationAlgorithms.pdf
 Athanasios Papoulis, S. Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes-McGraw-Hill Europe (2002).pdf
 Athanasios Papoulis - Unnikrishna Pillai-Probability, Random Variables and Stochastic Processes  -McGraw-Hill Europe (2002).pdf
+Benveniste1990_Book_AdaptiveAlgorithmsAndStochasti.pdf
+Borkar2008_Book_StochasticApproximation.pdf
 Brémaud2014_Book_FourierAnalysisAndStochasticPr.pdf
 Brémaud2020_Book_PointProcessCalculusInTimeAndS.pdf
 Brémaud2020_Book_ProbabilityTheoryAndStochastic.pdf
