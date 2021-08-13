@@ -2,6 +2,7 @@
 18-01sc-fall-2010
 Calculus 9e Purcell-Varberg-Rigdon (Solution).pdf
 Calculus - J. Stewart.pdf
+cambridge-core_a-course-of-modern-analysis_11Aug2021.zip
 (Cambridge studies in advanced mathematics 74) R. M. Dudley-Real Analysis and Probability-Cambridge University Press (2002).pdf
 (Classics in Mathematics) Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis II_1-Springer-Verlag Berlin Heidelberg (2000).pdf
 convexity
