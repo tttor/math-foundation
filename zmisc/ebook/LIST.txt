@@ -30,6 +30,8 @@ Heath - Thirteen Books of Euclid's Elements. Books X-XIII. Volume 3-Cambridge.pd
 Heath T.L. (ed.) - Thirteen Books of Euclid's Elements. Volume 3 (2008).djvu
 Jan R. Magnus, Heinz Neudecker-Matrix Differential Calculus with Applications in Statistics and Econometrics, 3rd Edition-Wiley (2007).pdf
 (Johns Hopkins Studies in the Mathematical Sciences) Gene H. Golub, Charles F. Van Loan-Matrix Computations-Johns Hopkins University Press (2012).pdf
+Jonathan Schwabish - Better Data Visualizations_ A Guide for Scholars, Researchers, and Wonks-Columbia University Press (2021) (1).pdf
+Jonathan Schwabish - Better Data Visualizations_ A Guide For Scholars, Researchers, And Wonks-Columbia University Press (2021).pdf
 K. F. Riley, M. P. Hobson, S. J. Bence-Mathematical methods for physics and engineering-Cambridge University Press (2006).pdf
 Lindvall T. - Lectures on the Coupling Method.pdf
 LIST.txt
