@@ -41,6 +41,7 @@ matrixcookbook.pdf
 Michael Spivak-Calculus On Manifolds_ A Modern Approach To Classical Theorems Of Advanced Calculus-Westview Press_CRC Press (2018).pdf
 numerical_recipes.pdf
 Paul D. Ellis-The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analysis, and the Interpretation of Research Results-Cambridge University Press (2010).pdf
+Potters, Bouchaud - A First Course in Random Matrix Theory-Cambridge University Press (2020).pdf
 (Probability and Its Applications) Hermann Thorisson-Coupling, Stationarity, and Regeneration-Springer (2000).djvu
 probabilitytutorial.pdf
 Roger A. Horn, Charles R. Johnson-Matrix Analysis-Cambridge University Press (2013).pdf

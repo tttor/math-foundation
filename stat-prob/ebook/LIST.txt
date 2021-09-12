@@ -55,6 +55,7 @@ M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
 misc
 monte-carlo
+Nazarathy-Klok2021_Book_StatisticsWithJulia.pdf
 (Operations Research and Industrial Engineering) Jeffrey J. Hunter and J. William Schmidt (Auth.) - Mathematical Techniques of Applied Probability. Discrete Time Models_ Basic Theory-Elsevier Inc, Aca.pdf
 Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018).epub
 pollard1984.pdf
@@ -62,6 +63,7 @@ pollard1984.pdf
 Probability_and_Computing.pdf
 (Probability and Statistics 125) Robert E. Kass, Paul W. Vos - Geometrical Foundations of Asymptotic Inference  -Wiley-Interscience (1997).pdf
 prob-metric
+Read-Cressie1988_Book_Goodness-of-FitStatisticsForDi.pdf
 schaums-probability.pdf
 Scott Miller, Donald Childers - Probability and random processes_ with applications to signal processing and communications-Elsevier Academic Press (2004).pdf
 seeing-theory.pdf
