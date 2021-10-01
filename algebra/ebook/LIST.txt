@@ -21,6 +21,7 @@ sigma.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/pseudoinverse:
 a-generalized-inverse-for-matrices.pdf
+Ben-Israel-Greville2003_Book_GeneralizedInverses.pdf
 Golan1995_Book_FoundationsOfLinearAlgebra.pdf
 (Mathematics in Science and Engineering 94) Arthur Albert (Eds.) - Regression and the Moore-Penrose Pseudoinverse-Elsevier, Academic Press (1972).pdf
 (Schaum’s Outlines) Seymour Lipschutz, Marc Lars Lipson - Linear Algebra-McGraw-Hill (2009).pdf
