@@ -1,15 +1,53 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
+F. R. Gantmacher - The Theory of Matrices,  Vol. 1-American Mathematical Society (1990).pdf
+generalized-inverse
+Gilbert Strang - Computational Science and Engineering  -Wellesley-Cambridge Press (2007).pdf
+Gilbert Strang - Introduction to applied mathematics-Wellesley-Cambridge Press (1986).djvu
+Gilbert Strang - Introduction to Linear Algebra-Wellesley-Cambridge Press (2016).pdf
 James W. Demmel-Applied numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 James W. Demmel-Applied Numerical Linear Algebra-Society for Industrial and Applied Mathematics (1997).pdf
+John Fox - Applied Regression Analysis and Generalized Linear Models-SAGE Publ. (2015).pdf
 LIST.txt
 Lloyd N. Trefethen, David Bau III - Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 Lloyd N. Trefethen, David Bau III-Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 matrix
 misc
 (Princeton series in applied mathematics) Rajendra Bhatia - Positive definite matrices-Princeton University Press (2007).pdf
-pseudoinverse
 Stephen Boyd, Lieven Vandenberghe - Introduction to Applied Linear Algebra_ Vectors, Matrices, and Least Squares-Cambridge University Press (2018).pdf
 vmls.pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse:
+Ben-Israel-Greville2003_Book_GeneralizedInverses.pdf
+(Classics in Applied Mathematics) Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations-Society for Industrial and Applied Mathematics (2008).djvu
+(Classics in Applied Mathematics) Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations -Society for Industrial and Applied Mathematics (2008).pdf
+Golan1995_Book_FoundationsOfLinearAlgebra.pdf
+(Mathematics in Science and Engineering 94) Arthur Albert (Eds.) - Regression and the Moore-Penrose Pseudoinverse-Elsevier, Academic Press (1972).pdf
+misc
+(Schaum’s Outlines) Seymour Lipschutz, Marc Lars Lipson - Linear Algebra-McGraw-Hill (2009).pdf
+Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations
+(Undergraduate Texts in Mathematics) Peter Petersen - Linear Algebra-Springer (2012).pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse/misc:
+CS369-LeastSquares.pdf
+mppseudoinverse.pdf
+Solving Weighted Least Squares (WLS) Problems on ARM-based Architectures_75987234.pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse/Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations:
+1.9780898719048.bm.pdf
+1.9780898719048.ch0.pdf
+1.9780898719048.ch10.pdf
+1.9780898719048.ch11.pdf
+1.9780898719048.ch12.pdf
+1.9780898719048.ch1.pdf
+1.9780898719048.ch2.pdf
+1.9780898719048.ch3.pdf
+1.9780898719048.ch4.pdf
+1.9780898719048.ch5.pdf
+1.9780898719048.ch6.pdf
+1.9780898719048.ch7.pdf
+1.9780898719048.ch8.pdf
+1.9780898719048.ch9.pdf
+1.9780898719048.fm.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/matrix:
 definiteness.pdf
@@ -18,11 +56,3 @@ MIT18_06SCF11_Ses3.3sum.pdf
 /home/tor/rsc/math-foundation/algebra/ebook/misc:
 Introduction to the square root of a 2 by 2 matrix.pdf
 sigma.pdf
-
-/home/tor/rsc/math-foundation/algebra/ebook/pseudoinverse:
-a-generalized-inverse-for-matrices.pdf
-Ben-Israel-Greville2003_Book_GeneralizedInverses.pdf
-Golan1995_Book_FoundationsOfLinearAlgebra.pdf
-(Mathematics in Science and Engineering 94) Arthur Albert (Eds.) - Regression and the Moore-Penrose Pseudoinverse-Elsevier, Academic Press (1972).pdf
-(Schaum’s Outlines) Seymour Lipschutz, Marc Lars Lipson - Linear Algebra-McGraw-Hill (2009).pdf
-(Undergraduate Texts in Mathematics) Peter Petersen - Linear Algebra-Springer (2012).pdf
