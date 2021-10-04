@@ -1,5 +1,4 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
-F. R. Gantmacher - The Theory of Matrices,  Vol. 1-American Mathematical Society (1990).pdf
 generalized-inverse
 Gilbert Strang - Computational Science and Engineering  -Wellesley-Cambridge Press (2007).pdf
 Gilbert Strang - Introduction to applied mathematics-Wellesley-Cambridge Press (1986).djvu
@@ -30,6 +29,7 @@ Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformati
 /home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse/misc:
 CS369-LeastSquares.pdf
 mppseudoinverse.pdf
+NearestQ.pdf
 Solving Weighted Least Squares (WLS) Problems on ARM-based Architectures_75987234.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse/Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations:
@@ -50,6 +50,12 @@ Solving Weighted Least Squares (WLS) Problems on ARM-based Architectures_7598723
 1.9780898719048.fm.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/matrix:
+Bhatia1997_Book_MatrixAnalysis.pdf
+F. R. Gantmacher - The Theory of Matrices,  Vol. 1-American Mathematical Society (1990).pdf
+misc
+Roger A. Horn, Charles R. Johnson - Matrix Analysis-Cambridge University Press (2013).pdf
+
+/home/tor/rsc/math-foundation/algebra/ebook/matrix/misc:
 definiteness.pdf
 MIT18_06SCF11_Ses3.3sum.pdf
 
