@@ -31,6 +31,7 @@ Charles M. Grinstead, J. Laurie Snell - Introduction to Probability_ Second Revi
 Christopher Chatfield (auth.) - Problem Solving_ A Statistician’s Guide-Springer US (1988).pdf
 David Spiegelhalter - Learning from Data_ The Art of Statistics-Pelican (2019).epub
 David Stirzaker-Probability and Random Variables_ A Beginner's Guide-Cambridge University Press (1999).pdf
+Dembo-Zeitouni2010_Book_LargeDeviationsTechniquesAndAp.pdf
 Derek Rowntree - Statistics Without Tears_ A Primer for Non Mathematicians-MacMillan Publishing Company (1981).pdf
 Derek Rowntree - Statistics Without Tears_ A Primer for Non-mathematicians-Scribner (1982).djvu
 Dimitri P. Bertsekas and John N. Tsitsiklis-Introduction to Probability  -Athena Scientific (2002).pdf
