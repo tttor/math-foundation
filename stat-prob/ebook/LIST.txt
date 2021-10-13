@@ -58,6 +58,7 @@ misc
 monte-carlo
 Nazarathy-Klok2021_Book_StatisticsWithJulia.pdf
 (Operations Research and Industrial Engineering) Jeffrey J. Hunter and J. William Schmidt (Auth.) - Mathematical Techniques of Applied Probability. Discrete Time Models_ Basic Theory-Elsevier Inc, Aca.pdf
+PDSdownload100.pdf
 Pearl, Judea_ Mackenzie, Dana - The Book of Why_ The New Science of Cause and Effect-Basic Books (2018).epub
 pollard1984.pdf
 (Princeton Series in Applied Mathematics) Anatoli Juditsky, Arkadi Nemirovski - Statistical Inference via Convex Optimization-Princeton University Press (2020).pdf

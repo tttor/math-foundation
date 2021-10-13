@@ -23,6 +23,7 @@ thesis
 9781118033340.pdf
 A Modern Introduction to Online Learning 1912.13213.pdf
 (Applied Optimization 54) Jitka Dupačová (auth.), Stanislav Uryasev, Panos M. Pardalos (eds.) - Stochastic Optimization_ Algorithms and Applications-Springer US (2001).pdf
+bayesoptbook_a4.pdf
 bilevel-optim
 bv_cvxbook.pdf
 bv_cvxslides.pdf
