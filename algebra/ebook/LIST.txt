@@ -11,6 +11,7 @@ Lloyd N. Trefethen, David Bau III - Numerical linear algebra-Society for Industr
 Lloyd N. Trefethen, David Bau III-Numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 matrix
 misc
+numerical_book_Justin Solomon: NumericalAlgorithms.pdf
 (Princeton series in applied mathematics) Rajendra Bhatia - Positive definite matrices-Princeton University Press (2007).pdf
 Stephen Boyd, Lieven Vandenberghe - Introduction to Applied Linear Algebra_ Vectors, Matrices, and Least Squares-Cambridge University Press (2018).pdf
 vmls.pdf
