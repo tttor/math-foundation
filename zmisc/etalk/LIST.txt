@@ -1,4 +1,5 @@
 /home/tor/rsc/math-foundation/zmisc/etalk:
+basic
 Chern Medal — Masaki Kashiwara.mp4
 Convex Optimization V Sebastien Bubeck Microsoft Research - .mp4
 DeepMind x UCL Deep Learning Lectures 512 Optimization for Machine Learning.mp4
@@ -17,3 +18,18 @@ Secrets of the Surface -- projection copy A.mp4
 The Man Who Knew Infinity (Ramanujan FULL MOVIE) Starring Dev Patel, Jeremy Irons, Devika Bhise.mp4
 TotDKemeny.pdf
 Ultraproducts as a Bridge Between Discrete and Continuous An.mp4
+virev_blei_2018.md
+
+/home/tor/rsc/math-foundation/zmisc/etalk/basic:
+curvature.png
+fig
+glossary.md
+prop-ross-2014
+README.md
+
+/home/tor/rsc/math-foundation/zmisc/etalk/basic/fig:
+a-Mathematical-definition-of-curvature-at-particular-point-of-a-curve-Panel-b-shows.png
+
+/home/tor/rsc/math-foundation/zmisc/etalk/basic/prop-ross-2014:
+ch_2_axiom_of_prob.md
+README.md

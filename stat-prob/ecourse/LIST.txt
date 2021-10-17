@@ -1,6 +1,9 @@
 /home/tor/rsc/math-foundation/stat-prob/ecourse:
 18-05-spring-2014
 LIST.txt
+mmd
+monte-carlo
+prob-metric
 stat3004-uq
 zmisc
 
@@ -1103,6 +1106,19 @@ studio9.zip.xml
 /home/tor/rsc/math-foundation/stat-prob/ecourse/18-05-spring-2014/18-05-spring-2014/contents/syllabus:
 index.htm
 index.htm.xml
+
+/home/tor/rsc/math-foundation/stat-prob/ecourse/mmd:
+iconip_3.pdf
+MMD-workshop.pdf
+taiwan_4.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ecourse/monte-carlo:
+README.md
+sim_ross_2013.md
+
+/home/tor/rsc/math-foundation/stat-prob/ecourse/prob-metric:
+probmet_gibbs_2002.md
+README.md
 
 /home/tor/rsc/math-foundation/stat-prob/ecourse/stat3004-uq:
 lecnote
