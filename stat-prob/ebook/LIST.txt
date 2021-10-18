@@ -122,6 +122,7 @@ HandbookChapter1.pdf
 Adell-Jodrá2006_Article_ExactKolmogorovAndTotalVariati.pdf
 closeness-soda.pdf
 Gil_Manuel_201108_MSc.pdf
+Rachev2013_Book_TheMethodsOfDistancesInTheTheo.pdf
 (Statistics, textbooks and monographs 185) Leandro Pardo - Statistical inference based on divergence measures-Chapman & Hall_CRC (2006).pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/stochastic-approx:
