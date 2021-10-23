@@ -62,4 +62,5 @@ MIT18_06SCF11_Ses3.3sum.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/misc:
 Introduction to the square root of a 2 by 2 matrix.pdf
+Making a singular matrix non-singular.pdf
 sigma.pdf
