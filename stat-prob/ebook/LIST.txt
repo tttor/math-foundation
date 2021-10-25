@@ -97,6 +97,7 @@ Kemeny-Snell1976.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/misc:
 Advanced_Probability_or_Cosma_Shalizi.pdf
+Characteristic_Kernel.pdf
 entropypost.pdf
 fisher.pdf
 
