@@ -83,6 +83,7 @@ Talagrand2014_Book_UpperAndLowerBoundsForStochast.pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models, General Concepts, Estimation, Prediction and Algorithms. Volume 1-Cambridge University Press (1995).pdf
 (Themes in Modern Econometrics) Christian Gourieroux - Statistics and Econometric Models. Volume 2-Cambridge University Press (1996).pdf
 Villani2009_Book_OptimalTransport.pdf
+Wasserman2004_Book_AllOfStatistics.pdf
 Wasserman2006_Book_AllOfNonparametricStatistics.pdf
 (Wiley Series in Probability and Statistics) Robert J. Serfling - Approximation Theorems of Mathematical Statistics-Wiley Interscience (1980).djvu
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
