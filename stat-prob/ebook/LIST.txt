@@ -30,6 +30,7 @@ Charles M Grinstead_ J  Laurie Snell  - Introduction to probability-American Mat
 Charles M. Grinstead, J. Laurie Snell - Introduction to Probability-American Mathematical Society (1997).pdf
 Charles M. Grinstead, J. Laurie Snell - Introduction to Probability_ Second Revised Edition-American Mathematical Society (2012).pdf
 Christopher Chatfield (auth.) - Problem Solving_ A Statistician’s Guide-Springer US (1988).pdf
+concentration
 David Spiegelhalter - Learning from Data_ The Art of Statistics-Pelican (2019).epub
 David Stirzaker-Probability and Random Variables_ A Beginner's Guide-Cambridge University Press (1999).pdf
 Dembo-Zeitouni2010_Book_LargeDeviationsTechniquesAndAp.pdf
@@ -89,6 +90,12 @@ Wasserman2006_Book_AllOfNonparametricStatistics.pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
 xprmt-design
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/concentration:
+1212.4663.pdf
+2003_Book_StochasticInequalitiesAndAppli.pdf
+Bercu2015_Book_ConcentrationInequalitiesForSu.pdf
+TyronCMarticle.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/markov-chain:
 Bremaud1999_Book_MarkovChains.pdf
