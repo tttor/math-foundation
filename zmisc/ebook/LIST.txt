@@ -6,6 +6,7 @@
 2004_Book_AppliedMathematicsBodyAndSoul_vol1.pdf
 2004_Book_AppliedMathematicsBodyAndSoul_vol2.pdf
 2013_Book_AnIntroductionToStatisticalLea.pdf
+2013_Book_DistanceGeometry.pdf
 (2nd Edition) (Featured Titles for Numerical Analysis) Timothy Sauer-Numerical Analysis-Pearson (2011).pdf
 (AMS MBK #107) David A. Levin, Yuval Peres, Elizabeth L. Wilmer-Markov Chains and Mixing Times-American Mathematical Society (2017).pdf
 (AMS Student mathematical library 75) Ida Kantor, Jiri Matousek, Robert Samal - Mathematics _ Selected Topics Beyond the Basic Courses-American Mathematical Society (2015).pdf
