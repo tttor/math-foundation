@@ -5473,8 +5473,12 @@ convex.pdf
 bad-notation-for-the-chain-rule.pdf
 Derivatives.pdf
 diff-int.pdf
+fubini.pdf
 L16-234.pdf
+MITRES_18_007_partV_sol01.pdf
 notes11.pdf
+Summation Algebra.pdf
 taylor2d.pdf
 taylor2.pdf
 Taylor.pdf
+twosum.pdf
