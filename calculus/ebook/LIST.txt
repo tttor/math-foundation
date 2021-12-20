@@ -14,7 +14,9 @@ gsm-126-tao5-measure-book.pdf
 James Stewart - Calculus-Brooks_Cole Pub Co  (2012).pdf
 James Stewart - Calculus_ Early transcendentals-Brooks Cole (2016).pdf
 LIST.txt
+Measure, Integration and Real Analysis MIRA.pdf
 Measure.Theory.Tao.pdf
+Michael Reed, Barry Simon - I_ Functional Analysis, Volume 1 . Volume 1-Academic Press (1981).djvu
 misc
 Richard Courant, Fritz John (auth.) - Introduction to Calculus and Analysis_ Volume II-Springer New York (1989).pdf
 Spivak, Michael-Calculus-Publish or Perish, Inc. (2008).pdf

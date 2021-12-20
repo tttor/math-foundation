@@ -1,8 +1,11 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
+Axler2015_Book_LinearAlgebraDoneRight.pdf
+cs229-linalg.pdf
 generalized-inverse
 Gilbert Strang - Computational Science and Engineering  -Wellesley-Cambridge Press (2007).pdf
 Gilbert Strang - Introduction to applied mathematics-Wellesley-Cambridge Press (1986).djvu
 Gilbert Strang - Introduction to Linear Algebra-Wellesley-Cambridge Press (2016).pdf
+Gilbert Strang - Linear Algebra and Learning from Data-Wellesley-Cambridge Press (2019).djvu
 Harville1997_Book_MatrixAlgebraFromAStatistician.pdf
 James W. Demmel-Applied numerical linear algebra-Society for Industrial and Applied Mathematics (1997).djvu
 James W. Demmel-Applied Numerical Linear Algebra-Society for Industrial and Applied Mathematics (1997).pdf
@@ -14,6 +17,7 @@ matrix
 numerical_book_Justin Solomon: NumericalAlgorithms.pdf
 (Princeton series in applied mathematics) Rajendra Bhatia - Positive definite matrices-Princeton University Press (2007).pdf
 Stephen Boyd, Lieven Vandenberghe - Introduction to Applied Linear Algebra_ Vectors, Matrices, and Least Squares-Cambridge University Press (2018).pdf
+The-Art-of-Linear-Algebra.pdf
 vmls.pdf
 zmisc
 
