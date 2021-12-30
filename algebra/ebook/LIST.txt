@@ -2,6 +2,8 @@
 Axler2015_Book_LinearAlgebraDoneRight.pdf
 cs229-linalg.pdf
 generalized-inverse
+Gilbert Strang - Computational Science and Engineering-Wellesley-Cambridge Press (2007) (1).djvu
+Gilbert Strang - Computational science and engineering-Wellesley-Cambridge Press (2007).djvu
 Gilbert Strang - Computational Science and Engineering  -Wellesley-Cambridge Press (2007).pdf
 Gilbert Strang - Introduction to applied mathematics-Wellesley-Cambridge Press (1986).djvu
 Gilbert Strang - Introduction to Linear Algebra-Wellesley-Cambridge Press (2016).pdf
