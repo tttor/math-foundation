@@ -1,4 +1,5 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
+2201.00145v1_Matrix Decomposition and Applications.pdf
 Axler2015_Book_LinearAlgebraDoneRight.pdf
 cs229-linalg.pdf
 generalized-inverse
