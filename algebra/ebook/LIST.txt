@@ -1,6 +1,7 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
 2201.00145v1_Matrix Decomposition and Applications.pdf
 Axler2015_Book_LinearAlgebraDoneRight.pdf
+computing
 cs229-linalg.pdf
 generalized-inverse
 Gilbert Strang - Computational Science and Engineering-Wellesley-Cambridge Press (2007) (1).djvu
@@ -23,6 +24,11 @@ Stephen Boyd, Lieven Vandenberghe - Introduction to Applied Linear Algebra_ Vect
 The-Art-of-Linear-Algebra.pdf
 vmls.pdf
 zmisc
+
+/home/tor/rsc/math-foundation/algebra/ebook/computing:
+Press W.H., Teukolsky S.A., Vetterling W.T., Flannery B.P. - Numerical recipes in C_ the art of scientific computing-Cambridge University Press (1997).pdf
+William H. Press, Brian P. Flannery, Saul A. Teukolsky, William T. Vetterling - Numerical recipes in C_ the art of scientific computing-Cambridge University Press (1992).djvu
+William H. Press, Brian P. Flannery, Saul A. Teukolsky, William T. Vetterling - Numerical Recipes in C_ The Art of Scientific Computing-Cambridge University Press (1992).pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse:
 Ben-Israel-Greville2003_Book_GeneralizedInverses.pdf
