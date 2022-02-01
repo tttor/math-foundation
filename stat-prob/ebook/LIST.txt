@@ -69,6 +69,7 @@ Probability_and_Computing.pdf
 prob-metric
 Read-Cressie1988_Book_Goodness-of-FitStatisticsForDi.pdf
 Robert J. Serfling - Approximation Theorems of Mathematical Statistics (Wiley Series in Probability and Statistics) (1980).pdf
+ROS Regression and Other Stories.pdf
 schaums-probability.pdf
 Scott Miller, Donald Childers - Probability and random processes_ with applications to signal processing and communications-Elsevier Academic Press (2004).pdf
 seeing-theory.pdf
