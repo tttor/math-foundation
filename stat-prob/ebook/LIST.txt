@@ -24,6 +24,7 @@ Bruce Hajek - Random Processes for Engineers-Cambridge University Press (2015).d
 Bryan F.J. Manly, Jorge A. Navarro Alberto - Multivariate Statistical Methods_ A Primer-Chapman and Hall_CRC (2016).pdf
 Bryan F.J. Manly_ Jorge A Navarro Alberto - Multivariate Statistical Methods_ A Primer, Fourth Edition-CRC Press (2017).pdf
 (Cambridge Monographs on Applied and Computational Mathematics) Sumio Watanabe - Algebraic Geometry and Statistical Learning Theory-Cambridge University Press (2009).pdf
+(Cambridge Series in Statistical and Probabilistic Mathematics) David Pollard - A User's Guide to Measure Theoretic Probability-Cambridge University Press (2001).pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin-Bayesian Data Analysis-Chapman and Hall_CRC (2014).pdf
 (Chapman & Hall_CRC Texts in Statistical Science) Liero, Hannelore_ Zwanzig, Silvelyn - Introduction to the Theory of Statistical Inference-CRC Press (2013).pdf
 Charles M Grinstead_ J  Laurie Snell  - Introduction to probability-American Mathematical Society (1997).pdf
@@ -50,10 +51,14 @@ Information Theory, Inference, and Learning Algorithms David J.C. MacKay.pdf
 Introduction to Probability, 2nd Edition-Athena Scientific (2008).pdf
 Jaynes 2003 - Probability Theory.pdf
 Judea Pearl, Dana Mackenzie - The book of why_ the new science of cause and effect-Basic Books (2018).pdf
+Kallenberg2002_Book_FoundationsOfModernProbability.pdf
+Kallenberg2005_Book_ProbabilisticSymmetriesAndInva.pdf
+Kallenberg2017_Book_RandomMeasuresTheoryAndApplica.pdf
 (Kendall's Advanced Theory of Statistics 1) Kendall M.G. - The advanced theory of statistics. Volume 1-Charles Griffin & Company (1945).djvu
 LIST.txt
 Manly, Bryan F.J - Multivariate Statistical Methods _ A Primer, Third Edition-CRC Press (2004).pdf
 markov-chain
+Maßtheorie_ Pollard, David - A user's guide to measure theoretic probability-Cambridge University Press (2002).djvu
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
 misc
@@ -87,6 +92,8 @@ Talagrand2014_Book_UpperAndLowerBoundsForStochast.pdf
 Villani2009_Book_OptimalTransport.pdf
 Wasserman2004_Book_AllOfStatistics.pdf
 Wasserman2006_Book_AllOfNonparametricStatistics.pdf
+(Wiley Series in Probability and Statistics) Billingsley P. - Probability and measure-Wiley (1986).djvu
+(Wiley Series in Probability and Statistics) Billingsley P. - Probability and measure-Wiley (1995).djvu
 (Wiley Series in Probability and Statistics) Robert J. Serfling - Approximation Theorems of Mathematical Statistics-Wiley Interscience (1980).djvu
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (1991).pdf
 (Wiley Series in Telecommunications and Signal Processing) Thomas M. Cover, Joy A. Thomas - Elements of Information Theory-Wiley-Interscience (2006).pdf
