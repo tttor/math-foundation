@@ -13,6 +13,8 @@
 Andrew J. Vickers-What is a p-value anyway_ 34 Stories to Help You Actually Understand Statistics-Addison Wesley (2009).pdf
 asitp.pdf
 book-20659.pdf
+Chern S.S., Hirzebruch F. (eds.) - Wolf Prize in Mathematics, vol. 1-World Scientific (2000).djvu
+Chern S.S., Hirzebruch F. (eds.) - Wolf Prize in Mathematics, vol. 2-World Scientific (2002).djvu
 (Computational Science and Engineering) Uri M. Ascher, Chen Greif-A First Course in Numerical Methods-Society for Industrial & Applied Mathematics (2011).pdf
 David Alexander Brannan - A First Course in Mathematical Analysis-Cambridge University Press (2006).pdf
 David Alexander Brannan - A first course of mathematical analysis-Cambridge University Press (2006).pdf
