@@ -59,6 +59,7 @@ LIST.txt
 Manly, Bryan F.J - Multivariate Statistical Methods _ A Primer, Third Edition-CRC Press (2004).pdf
 markov-chain
 Maßtheorie_ Pollard, David - A user's guide to measure theoretic probability-Cambridge University Press (2002).djvu
+measure-prob
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics.pdf
 M. G. Kendall & Alan Stuart - The Advanced Theory of Statistics, Vol. II, 3rd Edition, 3rd Impression-Wiley (2010).pdf
 misc
@@ -109,6 +110,9 @@ TyronCMarticle.pdf
 Bremaud1999_Book_MarkovChains.pdf
 Brémaud2020_Book_MarkovChains.pdf
 Kemeny-Snell1976.pdf
+
+/home/tor/rsc/math-foundation/stat-prob/ebook/measure-prob:
+Patrick Billingsley - Probability and Measure-Wiley (2012).pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/misc:
 Advanced_Probability_or_Cosma_Shalizi.pdf
