@@ -26,6 +26,7 @@ Dr. Jeremy Kun-A Programmer’s Introduction to Mathematics-CreateSpace Independ
 entropypost.pdf
 firstsixbooksofe00eucl.pdf
 functions_graphs.pdf
+F. William Lawvere, Stephen H. Schanuel - Conceptual Mathematics_ A First Introduction to Categories-Cambridge University Press (2009).pdf
 Giuseppe C. Calafiore, Laurent El Ghaoui-Optimization Models-Cambridge University Press (2014).pdf
 Heath - Thirteen Books of Euclid's Elements. Books III-IX. Volume 2-Cambridge.pdf
 Heath - Thirteen Books of Euclid's Elements. Books I-II. Volume 1-Cambridge.pdf
