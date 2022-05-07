@@ -112,6 +112,7 @@ Brémaud2020_Book_MarkovChains.pdf
 Kemeny-Snell1976.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/measure-prob:
+Jeffrey S. Rosenthal - A First Look at Rigorous Probability Theory, Second Edition-World Scientific Publishing Company (2006).pdf
 Patrick Billingsley - Probability and Measure-Wiley (2012).pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/misc:
