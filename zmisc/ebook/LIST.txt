@@ -48,6 +48,7 @@ Paul D. Ellis-The Essential Guide to Effect Sizes_ Statistical Power, Meta-Analy
 Potters, Bouchaud - A First Course in Random Matrix Theory-Cambridge University Press (2020).pdf
 (Probability and Its Applications) Hermann Thorisson-Coupling, Stationarity, and Regeneration-Springer (2000).djvu
 probabilitytutorial.pdf
+Robert L. Baber - The Language of Mathematics_ Utilizing Math in Practice  -Wiley (2011).pdf
 Roger A. Horn, Charles R. Johnson-Matrix Analysis-Cambridge University Press (2013).pdf
 Ronald L. Graham, Donald E. Knuth, Oren Patashnik - Concrete mathematics_ a foundation for computer science-Addison-Wesley (1994).pdf
 (Series of Books in the Mathematical Sciences) Michael R. Garey, David S. Johnson - Computers and Intractability_ A Guide to the Theory of NP-Completeness-W. H. Freeman (1979).pdf
