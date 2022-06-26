@@ -1,5 +1,6 @@
 /home/tor/rsc/math-foundation/algebra/ebook:
 2201.00145v1_Matrix Decomposition and Applications.pdf
+An Introduction to Matrix Concentration Inequalities 1501.01571.pdf
 Axler2015_Book_LinearAlgebraDoneRight.pdf
 computing
 cs229-linalg.pdf
