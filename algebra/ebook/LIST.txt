@@ -41,6 +41,7 @@ misc
 (Schaum’s Outlines) Seymour Lipschutz, Marc Lars Lipson - Linear Algebra-McGraw-Hill (2009).pdf
 Stephen L. Campbell, Carl D. Meyer - Generalized Inverses of Linear Transformations
 (Undergraduate Texts in Mathematics) Peter Petersen - Linear Algebra-Springer (2012).pdf
+Wang2018_Book_GeneralizedInversesTheoryAndCo.pdf
 
 /home/tor/rsc/math-foundation/algebra/ebook/generalized-inverse/misc:
 CS369-LeastSquares.pdf
