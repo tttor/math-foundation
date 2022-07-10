@@ -104,6 +104,7 @@ xprmt-design
 1212.4663.pdf
 2003_Book_StochasticInequalitiesAndAppli.pdf
 Bercu2015_Book_ConcentrationInequalitiesForSu.pdf
+Boucheron, Stéphane_Lugosi, Gábor_Massart, Pascal - Concentration inequalities_ a nonasymptotic theory of independence-Oxford University Press (2016).pdf
 TyronCMarticle.pdf
 
 /home/tor/rsc/math-foundation/stat-prob/ebook/markov-chain:
