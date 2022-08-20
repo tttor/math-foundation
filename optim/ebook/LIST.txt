@@ -44,6 +44,7 @@ fr18_book.pdf
 Hendrix-G-Tóth2010_Book_IntroductionToNonlinearAndGlob.pdf
 H. Paul Williams - Model Building in Mathematical Programming-Wiley (2013).pdf
 Igor Griva, Stephen G. Nash, Ariela Sofer-Linear and nonlinear optimization-Society for Industrial and Applied Mathematics (2009).pdf
+Introduction to Online Convex Optimization.pdf
 Jaan Kiusalaas-Numerical Methods in Engineering with Python 3-Cambridge University Press (2013).pdf
 Kochenderfer, Mykel J._ Wheeler, Tim Allan - Algorithms for optimization-The MIT Press (2019).pdf
 LSCOMO.pdf
