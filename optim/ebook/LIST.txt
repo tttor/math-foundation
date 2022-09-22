@@ -30,6 +30,7 @@ A Modern Introduction to Online Learning 1912.13213.pdf
 bayesoptbook_a4.pdf
 Bhatnagar2013_Book_StochasticRecursiveAlgorithmsF.pdf
 bilevel-optim
+bubeck_cvx_1405.4980.pdf
 bv_cvxbook.pdf
 bv_cvxslides.pdf
 (Classics in Applied Mathematics) J. E. Dennis, Robert B. Schnabel-Numerical Methods for Unconstrained Optimization and Nonlinear Equations-Society for Industrial  Mathematics (1996).pdf
