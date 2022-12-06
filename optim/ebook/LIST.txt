@@ -71,6 +71,7 @@ Roger Fletcher-Practical Methods of Optimization, Second Edition (2000).pdf
 Roger Fletcher-Practical Methods of Optimization, Second Edition (2000) UQ.pdf
 (Springer Optimization and Its Applications) Jan A Snyman, Daniel N Wilke-Practical Mathematical Optimization_ Basic Optimization Theory and Gradient-Based Algorithms-Springer (2018).pdf
 Stephen Boyd - Solution Manual for Convex Optimization  .pdf
+Stephen J. Wright, Benjamin Recht - Optimization for Data Analysis-Cambridge University Press (2022).pdf
 Sun-Yuan2006_Book_OptimizationTheoryAndMethods.pdf
 trust-region-methods-conn-2000
 Zhigljavsky1991_Book_TheoryOfGlobalRandomSearch.pdf
