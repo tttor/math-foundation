@@ -1,4 +1,5 @@
 /home/tor/rsc/math-foundation/calculus/ebook:
+0-387-31077-0.pdf
 18-01sc-fall-2010
 Calculus 9e Purcell-Varberg-Rigdon (Solution).pdf
 Calculus - J. Stewart.pdf
