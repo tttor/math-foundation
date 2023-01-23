@@ -10,6 +10,7 @@ cambridge-core_a-course-of-modern-analysis_11Aug2021.zip
 convexity
 Counterexamples in Analysis.pdf
 Dale Varberg, Edwin Purcell, Steve Rigdon-Calculus -Prentice Hall (2006'',).pdf
+(Dolciani Mathematical Expositions) Frank E. Burk - A garden of integrals-Mathematical Association of America (2007).pdf
 fund.pdf
 Granas-Dugundji2003_Book_FixedPointTheory.pdf
 gsm-126-tao5-measure-book.pdf
